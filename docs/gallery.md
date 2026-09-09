@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 400。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 544。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-400](./gallery-part-2.md)
+- [Part 2：例 166-544](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -68,33 +68,164 @@
 - [例 398：8 套日常穿搭编辑拼贴](./gallery-part-2.md#case-398)
 - [例 399：唱片公司楼梯间写真人像](./gallery-part-2.md#case-399)
 - [例 400：多风格签名选择海报](./gallery-part-2.md#case-400)
+- [例 401：Lost in 国家旅行海报拼贴](./gallery-part-2.md#case-401)
+- [例 402：3D 小红书个人资料卡](./gallery-part-2.md#case-402)
+- [例 403：小红书数字破屏 3D 女孩](./gallery-part-2.md#case-403)
+- [例 404：豪华社媒破屏商业广告](./gallery-part-2.md#case-404)
+- [例 405：可爱纸艺风照片重绘](./gallery-part-2.md#case-405)
+- [例 406：巨型游戏手柄街头 Campaign](./gallery-part-2.md#case-406)
+- [例 407：Neuro-AI 混合系统信息图](./gallery-part-2.md#case-407)
+- [例 408：Cozy Academia 学习手记](./gallery-part-2.md#case-408)
+- [例 409：拙劣 MS Paint 风重绘](./gallery-part-2.md#case-409)
+- [例 410：夸张动漫风主体重绘](./gallery-part-2.md#case-410)
+- [例 411：极简建筑地标海报](./gallery-part-2.md#case-411)
+- [例 412：彩色按钮时尚 Campaign](./gallery-part-2.md#case-412)
+- [例 413：当代舞现场 Storyboard](./gallery-part-2.md#case-413)
+- [例 414：室内晨间写实摄影](./gallery-part-2.md#case-414)
+- [例 415：东方神话人物志百科海报](./gallery-part-2.md#case-415)
+- [例 416：Earth Signs 角色 Scrapbook](./gallery-part-2.md#case-416)
+- [例 417：复古印尼猫薄荷广告](./gallery-part-2.md#case-417)
+- [例 418：中世纪城市旅行海报](./gallery-part-2.md#case-418)
+- [例 419：可颂烘焙流程 Storyboard](./gallery-part-2.md#case-419)
+- [例 420：红跑道低角度夏日人像](./gallery-part-2.md#case-420)
+- [例 421：iPhone 屏幕遮脸创意人像](./gallery-part-2.md#case-421)
+- [例 422：冬季生存惊悚 Storyboard](./gallery-part-2.md#case-422)
+- [例 423：日系手绘涂鸦半身插画](./gallery-part-2.md#case-423)
+- [例 424：FMCG 棒棒糖霓虹广告](./gallery-part-2.md#case-424)
+- [例 425：黑白时尚人像拼贴海报](./gallery-part-2.md#case-425)
+- [例 426：日韩咖啡馆情侣写真](./gallery-part-2.md#case-426)
+- [例 427：9-frame 时尚人像拼贴](./gallery-part-2.md#case-427)
+- [例 428：F1 直播转播围场截图](./gallery-part-2.md#case-428)
+- [例 429：韩国便利店粉色 Hoodie 人像](./gallery-part-2.md#case-429)
+- [例 430：铅笔素描时尚编辑插画](./gallery-part-2.md#case-430)
+- [例 431：城市文字旅行海报](./gallery-part-2.md#case-431)
+- [例 432：大堡礁复古旅行海报](./gallery-part-2.md#case-432)
+- [例 433：韩国城市水彩旅行插画](./gallery-part-2.md#case-433)
+- [例 434：东京街头胶片人像](./gallery-part-2.md#case-434)
+- [例 435：层叠纸雕情侣插画](./gallery-part-2.md#case-435)
+- [例 436：数码相机屏幕怀旧人像](./gallery-part-2.md#case-436)
+- [例 437：面部美学分析报告](./gallery-part-2.md#case-437)
+- [例 438：珠宝微缩城市广告海报](./gallery-part-2.md#case-438)
+- [例 439：赛博黑客角色设定表](./gallery-part-2.md#case-439)
+- [例 440：手机拍摄 FaceTime 工作屏幕](./gallery-part-2.md#case-440)
+- [例 441：WILDCAMP 巨型帐篷广告海报](./gallery-part-2.md#case-441)
+- [例 442：舒适发廊插画](./gallery-part-2.md#case-442)
+- [例 443：塔可爆炸拆解信息图](./gallery-part-2.md#case-443)
+- [例 444：迪斯科镜面 3D App 图标](./gallery-part-2.md#case-444)
+- [例 445：旅游照水墨明信片](./gallery-part-2.md#case-445)
+- [例 446：低多边形纸艺男士肖像](./gallery-part-2.md#case-446)
+- [例 447：现代地铁工程信息图](./gallery-part-2.md#case-447)
+- [例 448：1942 空战街机电影城](./gallery-part-2.md#case-448)
+- [例 449：奢华机械腕表技术图鉴](./gallery-part-2.md#case-449)
+- [例 450：烛光侧室写实摄影](./gallery-part-2.md#case-450)
+- [例 451：韩国海滩日落时尚人像](./gallery-part-2.md#case-451)
+- [例 452：极简童话手绘儿童插画](./gallery-part-2.md#case-452)
+- [例 453：企业级商用画册视觉系统](./gallery-part-2.md#case-453)
+- [例 454：旅行美食薯片广告海报](./gallery-part-2.md#case-454)
+- [例 455：巨型舒适洞洞鞋 Campaign](./gallery-part-2.md#case-455)
+- [例 456：历史事件 2x2 可视化地图](./gallery-part-2.md#case-456)
+- [例 457：运动轨迹舞者光绘海报](./gallery-part-2.md#case-457)
+- [例 458：巴黎秋季时装插画](./gallery-part-2.md#case-458)
+- [例 459：品牌奶茶 KV 概念海报](./gallery-part-2.md#case-459)
+- [例 460：棋盘低角度奢华男装 Campaign](./gallery-part-2.md#case-460)
+- [例 461：家庭旅行纸雕拼贴](./gallery-part-2.md#case-461)
+- [例 462：复古日系迷你橡皮商品包装](./gallery-part-2.md#case-462)
+- [例 463：黑色吊带袜单款图鉴展示](./gallery-part-2.md#case-463)
+- [例 464：高雄水彩拼贴旅行海报](./gallery-part-2.md#case-464)
+- [例 465：逆光美背女性情绪写真](./gallery-part-2.md#case-465)
+- [例 466：鱼市追猫 CCD 街拍](./gallery-part-2.md#case-466)
+- [例 467：泳装杂志九宫格广告页](./gallery-part-2.md#case-467)
+- [例 468：霓虹涂鸦展会自拍](./gallery-part-2.md#case-468)
+- [例 469：导览式科普绘本](./gallery-part-2.md#case-469)
+- [例 470：本地生活小店异形展架](./gallery-part-2.md#case-470)
+- [例 471：花簪和服动漫肖像](./gallery-part-2.md#case-471)
+- [例 472：上海地铁站台晨光](./gallery-part-2.md#case-472)
+- [例 473：ROGUE VIPER 游戏概念设定板](./gallery-part-2.md#case-473)
+- [例 474：四城极简旅行海报系列](./gallery-part-2.md#case-474)
+- [例 475：企鹅造型包装结构板](./gallery-part-2.md#case-475)
+- [例 476：早安拿铁微缩女孩](./gallery-part-2.md#case-476)
+- [例 485：时尚目录电商拼贴](./gallery-part-2.md#case-485)
+- [例 486：RCB 冠军混合媒介海报](./gallery-part-2.md#case-486)
+- [例 487：法式药妆商业分镜封面](./gallery-part-2.md#case-487)
+- [例 488：屋顶球场日落人像](./gallery-part-2.md#case-488)
+- [例 489：城市地图微缩旅行海报](./gallery-part-2.md#case-489)
+- [例 490：双重曝光时尚肖像](./gallery-part-2.md#case-490)
+- [例 491：Y2K 高楼浴室镜面自拍](./gallery-part-2.md#case-491)
+- [例 492：黑色高定酒店套房写真](./gallery-part-2.md#case-492)
+- [例 493：东京旅行 13 格视频封面](./gallery-part-2.md#case-493)
+- [例 494：电动巴士工程信息图](./gallery-part-2.md#case-494)
+- [例 495：巴黎街头故事书插画](./gallery-part-2.md#case-495)
+- [例 496：水雕品牌 Logo 六宫格](./gallery-part-2.md#case-496)
+- [例 497：单色水彩城市旅行海报](./gallery-part-2.md#case-497)
+- [例 498：铅笔画背景 3D 分身](./gallery-part-2.md#case-498)
+- [例 499：极简精品店全身时尚写真](./gallery-part-2.md#case-499)
+- [例 500：梦幻花冠仙境肖像](./gallery-part-2.md#case-500)
+- [例 501：夏日牵手回眸电影肖像](./gallery-part-2.md#case-501)
+- [例 502：黑桃国王递归扑克牌](./gallery-part-2.md#case-502)
+- [例 503：霓虹设计师 3D 海报](./gallery-part-2.md#case-503)
+- [例 504：粗糙涂鸦人像改图](./gallery-part-2.md#case-504)
+- [例 505：夜间手机光沙发肖像](./gallery-part-2.md#case-505)
+- [例 506：可爱发卡图文人像海报](./gallery-part-2.md#case-506)
+- [例 507：暖调钩织角色玩偶](./gallery-part-2.md#case-507)
+- [例 508：木漏日庭院俯拍猫咪人像](./gallery-part-2.md#case-508)
+- [例 509：涂鸦拉衣奔跑棚拍](./gallery-part-2.md#case-509)
+- [例 510：Bichon Shop 拟物 App 图标](./gallery-part-2.md#case-510)
+- [例 511：城市名地标排版旅行海报](./gallery-part-2.md#case-511)
+- [例 512：Brutalist Freestyle 角色设定表](./gallery-part-2.md#case-512)
+- [例 513：单色点缀旅行手账插画](./gallery-part-2.md#case-513)
+- [例 514：硬边现代艺术人像](./gallery-part-2.md#case-514)
+- [例 515：Guadalajara 复古电影旅行海报](./gallery-part-2.md#case-515)
+- [例 516：工业橡胶管品牌造型渲染](./gallery-part-2.md#case-516)
+- [例 517：杯内鱼眼夏日冰饮广告](./gallery-part-2.md#case-517)
+- [例 518：花田风动夏日人像](./gallery-part-2.md#case-518)
+- [例 519：薄荷玫瑰香水电商图](./gallery-part-2.md#case-519)
+- [例 520：月面宇航员 T 恤图形](./gallery-part-2.md#case-520)
+- [例 521：青花敦煌刺绣四拼风格海报](./gallery-part-2.md#case-521)
+- [例 522：儿童故事书手绘头像](./gallery-part-2.md#case-522)
+- [例 523：曼哈顿公园水彩旅行插画](./gallery-part-2.md#case-523)
+- [例 524：纸雕拼贴乡野人像](./gallery-part-2.md#case-524)
+- [例 525：酒红棚拍男士时尚肖像](./gallery-part-2.md#case-525)
+- [例 526：体积激光黑场海报](./gallery-part-2.md#case-526)
+
+- [例 533：手绘涂鸦时尚人物插画](./gallery-part-2.md#case-533)
+- [例 534：红光干扰实验编辑人像海报](./gallery-part-2.md#case-534)
+- [例 535：同一人脸十二款发型 Lookbook](./gallery-part-2.md#case-535)
+- [例 536：春日樱花回眸电影人像](./gallery-part-2.md#case-536)
+- [例 537：地下档案馆暗黑概念海报](./gallery-part-2.md#case-537)
+- [例 538：橡皮章旅行田野笔记海报](./gallery-part-2.md#case-538)
+- [例 539：粗粝手绘搭档肖像海报](./gallery-part-2.md#case-539)
+- [例 540：梦幻未来城市编辑艺术海报](./gallery-part-2.md#case-540)
+- [例 541：50/50 混合媒介回忆卡](./gallery-part-2.md#case-541)
+- [例 542：黑白排版侧脸肖像海报](./gallery-part-2.md#case-542)
+- [例 543：旅行纪念珐琅徽章](./gallery-part-2.md#case-543)
+- [例 544：幼儿词汇拆解学习卡](./gallery-part-2.md#case-544)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-400，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-544，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
-- UI与界面：60
-- 图表与信息可视化：44
-- 海报与排版：64
-- 商品与电商：27
-- 品牌与标志：20
-- 建筑与空间：9
-- 摄影与写实：43
-- 插画与艺术：35
-- 人物与角色：19
-- 场景与叙事：13
-- 历史与古风题材：15
-- 文档与出版物：9
-- 其他应用场景：29
+- UI与界面：73
+- 图表与信息可视化：53
+- 海报与排版：90
+- 商品与电商：42
+- 品牌与标志：27
+- 建筑与空间：12
+- 摄影与写实：78
+- 插画与艺术：59
+- 人物与角色：31
+- 场景与叙事：21
+- 历史与古风题材：16
+- 文档与出版物：11
+- 其他应用场景：28
 
 ## 分类案例入口
 
 <a name="cat-ui"></a>
 
-### 🧩 UI与界面 · 60 cases
+### 🧩 UI与界面 · 73 cases
 
 - [例 2：社媒界面截图](./gallery-part-1.md#case-2)
 - [例 4：老干妈风味](./gallery-part-1.md#case-4)
@@ -156,10 +287,15 @@
 - [例 335：朋友圈截图生成](./gallery-part-2.md#case-335)
 - [例 336：个人网页视觉设计](./gallery-part-2.md#case-336)
 - [例 387：Netflix 首页主视觉 UI](./gallery-part-2.md#case-387)
+- [例 402：3D 小红书个人资料卡](./gallery-part-2.md#case-402)
+- [例 403：小红书数字破屏 3D 女孩](./gallery-part-2.md#case-403)
+- [例 404：豪华社媒破屏商业广告](./gallery-part-2.md#case-404)
+- [例 437：面部美学分析报告](./gallery-part-2.md#case-437)
+- [例 440：手机拍摄 FaceTime 工作屏幕](./gallery-part-2.md#case-440)
 
 <a name="cat-infographic"></a>
 
-### 📊 图表与信息可视化 · 44 cases
+### 📊 图表与信息可视化 · 53 cases
 
 - [例 8：科普百科图](./gallery-part-1.md#case-8)
 - [例 14：信息图可视化设计](./gallery-part-1.md#case-14)
@@ -205,10 +341,20 @@
 - [例 364：奢华个人色彩档案信息图](./gallery-part-2.md#case-364)
 - [例 375：古希腊三哲时间轴城市图](./gallery-part-2.md#case-375)
 - [例 380：冠状病毒尺度缩放科学信息图](./gallery-part-2.md#case-380)
+- [例 407：Neuro-AI 混合系统信息图](./gallery-part-2.md#case-407)
+- [例 443：塔可爆炸拆解信息图](./gallery-part-2.md#case-443)
+- [例 447：现代地铁工程信息图](./gallery-part-2.md#case-447)
+- [例 456：历史事件 2x2 可视化地图](./gallery-part-2.md#case-456)
+- [例 457：运动轨迹舞者光绘海报](./gallery-part-2.md#case-457)
+- [例 469：导览式科普绘本](./gallery-part-2.md#case-469)
+- [例 463：黑色吊带袜单款图鉴展示](./gallery-part-2.md#case-463)
+- [例 494：电动巴士工程信息图](./gallery-part-2.md#case-494)
+
+- [例 544：幼儿词汇拆解学习卡](./gallery-part-2.md#case-544)
 
 <a name="cat-poster"></a>
 
-### 📰 海报与排版 · 64 cases
+### 📰 海报与排版 · 90 cases
 
 - [例 3：足球主题电影海报](./gallery-part-1.md#case-3)
 - [例 5：主题海报版式设计](./gallery-part-1.md#case-5)
@@ -274,10 +420,38 @@
 - [例 388：1980s Claude 复古杂志广告](./gallery-part-2.md#case-388)
 - [例 389：Transparent Labs Hydrate 健身补剂 Campaign](./gallery-part-2.md#case-389)
 - [例 396：龙类物种复古百科海报](./gallery-part-2.md#case-396)
+- [例 401：Lost in 国家旅行海报拼贴](./gallery-part-2.md#case-401)
+- [例 406：巨型游戏手柄街头 Campaign](./gallery-part-2.md#case-406)
+- [例 417：复古印尼猫薄荷广告](./gallery-part-2.md#case-417)
+- [例 418：中世纪城市旅行海报](./gallery-part-2.md#case-418)
+- [例 431：城市文字旅行海报](./gallery-part-2.md#case-431)
+- [例 432：大堡礁复古旅行海报](./gallery-part-2.md#case-432)
+- [例 460：棋盘低角度奢华男装 Campaign](./gallery-part-2.md#case-460)
+- [例 464：高雄水彩拼贴旅行海报](./gallery-part-2.md#case-464)
+
+- [例 474：四城极简旅行海报系列](./gallery-part-2.md#case-474)
+
+- [例 481：韩系春日 scrapbook 海报](./gallery-part-2.md#case-481)
+- [例 484：霓虹涂鸦黑白人像](./gallery-part-2.md#case-484)
+- [例 486：RCB 冠军混合媒介海报](./gallery-part-2.md#case-486)
+- [例 497：单色水彩城市旅行海报](./gallery-part-2.md#case-497)
+- [例 503：霓虹设计师 3D 海报](./gallery-part-2.md#case-503)
+- [例 506：可爱发卡图文人像海报](./gallery-part-2.md#case-506)
+- [例 511：城市名地标排版旅行海报](./gallery-part-2.md#case-511)
+- [例 515：Guadalajara 复古电影旅行海报](./gallery-part-2.md#case-515)
+- [例 521：青花敦煌刺绣四拼风格海报](./gallery-part-2.md#case-521)
+- [例 526：体积激光黑场海报](./gallery-part-2.md#case-526)
+- [例 527：Rio 旅行票据纸雕立体海报](./gallery-part-2.md#case-527)
+- [例 531：水晶框国家旅行广告海报](./gallery-part-2.md#case-531)
+- [例 534：红光干扰实验编辑人像海报](./gallery-part-2.md#case-534)
+- [例 538：橡皮章旅行田野笔记海报](./gallery-part-2.md#case-538)
+
+- [例 539：粗粝手绘搭档肖像海报](./gallery-part-2.md#case-539)
+- [例 542：黑白排版侧脸肖像海报](./gallery-part-2.md#case-542)
 
 <a name="cat-product"></a>
 
-### 🛍️ 商品与电商 · 27 cases
+### 🛍️ 商品与电商 · 42 cases
 
 - [例 17：界面交互设计图](./gallery-part-1.md#case-17)
 - [例 33：电商商品展示设计](./gallery-part-1.md#case-33)
@@ -306,10 +480,27 @@
 - [例 368：印度餐厅菜单改造宣传图](./gallery-part-2.md#case-368)
 - [例 370：Crumple Chair 概念沙发研发板](./gallery-part-2.md#case-370)
 - [例 373：高端肉类海鲜品牌英雄图](./gallery-part-2.md#case-373)
+- [例 424：FMCG 棒棒糖霓虹广告](./gallery-part-2.md#case-424)
+- [例 438：珠宝微缩城市广告海报](./gallery-part-2.md#case-438)
+- [例 441：WILDCAMP 巨型帐篷广告海报](./gallery-part-2.md#case-441)
+- [例 449：奢华机械腕表技术图鉴](./gallery-part-2.md#case-449)
+- [例 454：旅行美食薯片广告海报](./gallery-part-2.md#case-454)
+- [例 455：巨型舒适洞洞鞋 Campaign](./gallery-part-2.md#case-455)
+- [例 462：复古日系迷你橡皮商品包装](./gallery-part-2.md#case-462)
+- [例 470：本地生活小店异形展架](./gallery-part-2.md#case-470)
+
+- [例 475：企鹅造型包装结构板](./gallery-part-2.md#case-475)
+- [例 485：时尚目录电商拼贴](./gallery-part-2.md#case-485)
+- [例 517：杯内鱼眼夏日冰饮广告](./gallery-part-2.md#case-517)
+- [例 519：薄荷玫瑰香水电商图](./gallery-part-2.md#case-519)
+
+- [例 532：六宫格柠檬饮料微缩广告](./gallery-part-2.md#case-532)
+
+- [例 543：旅行纪念珐琅徽章](./gallery-part-2.md#case-543)
 
 <a name="cat-brand"></a>
 
-### 🏷️ 品牌与标志 · 20 cases
+### 🏷️ 品牌与标志 · 27 cases
 
 - [例 130：界面交互设计图](./gallery-part-1.md#case-130)
 - [例 132：界面交互设计图](./gallery-part-1.md#case-132)
@@ -331,10 +522,17 @@
 - [例 362：抹茶品牌触点系统视觉板](./gallery-part-2.md#case-362)
 - [例 379：品牌人格漫画信息图](./gallery-part-2.md#case-379)
 - [例 386：品牌包络产品广告](./gallery-part-2.md#case-386)
+- [例 444：迪斯科镜面 3D App 图标](./gallery-part-2.md#case-444)
+- [例 459：品牌奶茶 KV 概念海报](./gallery-part-2.md#case-459)
+
+- [例 478：夹层式品牌编辑海报](./gallery-part-2.md#case-478)
+- [例 496：水雕品牌 Logo 六宫格](./gallery-part-2.md#case-496)
+- [例 510：Bichon Shop 拟物 App 图标](./gallery-part-2.md#case-510)
+- [例 516：工业橡胶管品牌造型渲染](./gallery-part-2.md#case-516)
 
 <a name="cat-architecture"></a>
 
-### 🏛️ 建筑与空间 · 9 cases
+### 🏛️ 建筑与空间 · 12 cases
 
 - [例 11：一张手绘风格的城市美食地图，以台州为主题](./gallery-part-1.md#case-11)
 - [例 18：信息图可视化设计](./gallery-part-1.md#case-18)
@@ -345,10 +543,12 @@
 - [例 331：西安手绘水彩城市地图](./gallery-part-2.md#case-331)
 - [例 369：明洞旅游区域地图](./gallery-part-2.md#case-369)
 - [例 381：90 年代公寓场景参考板](./gallery-part-2.md#case-381)
+- [例 411：极简建筑地标海报](./gallery-part-2.md#case-411)
+- [例 489：城市地图微缩旅行海报](./gallery-part-2.md#case-489)
 
 <a name="cat-photo"></a>
 
-### 📷 摄影与写实 · 43 cases
+### 📷 摄影与写实 · 78 cases
 
 - [例 24：漫画分镜叙事设计](./gallery-part-1.md#case-24)
 - [例 26：建筑空间场景图](./gallery-part-1.md#case-26)
@@ -393,10 +593,48 @@
 - [例 383：AI 日常生活 iPhone 抓拍](./gallery-part-2.md#case-383)
 - [例 393：Y2K 金色时刻人像](./gallery-part-2.md#case-393)
 - [例 399：](./gallery-part-2.md#case-399)
+- [例 408：Cozy Academia 学习手记](./gallery-part-2.md#case-408)
+- [例 412：彩色按钮时尚 Campaign](./gallery-part-2.md#case-412)
+- [例 414：室内晨间写实摄影](./gallery-part-2.md#case-414)
+- [例 420：红跑道低角度夏日人像](./gallery-part-2.md#case-420)
+- [例 421：iPhone 屏幕遮脸创意人像](./gallery-part-2.md#case-421)
+- [例 425：黑白时尚人像拼贴海报](./gallery-part-2.md#case-425)
+- [例 426：日韩咖啡馆情侣写真](./gallery-part-2.md#case-426)
+- [例 427：9-frame 时尚人像拼贴](./gallery-part-2.md#case-427)
+- [例 428：F1 直播转播围场截图](./gallery-part-2.md#case-428)
+- [例 429：韩国便利店粉色 Hoodie 人像](./gallery-part-2.md#case-429)
+- [例 434：东京街头胶片人像](./gallery-part-2.md#case-434)
+- [例 436：数码相机屏幕怀旧人像](./gallery-part-2.md#case-436)
+- [例 450：烛光侧室写实摄影](./gallery-part-2.md#case-450)
+- [例 451：韩国海滩日落时尚人像](./gallery-part-2.md#case-451)
+- [例 465：逆光美背女性情绪写真](./gallery-part-2.md#case-465)
+- [例 466：鱼市追猫 CCD 街拍](./gallery-part-2.md#case-466)
+- [例 467：泳装杂志九宫格广告页](./gallery-part-2.md#case-467)
+- [例 468：霓虹涂鸦展会自拍](./gallery-part-2.md#case-468)
+
+- [例 472：上海地铁站台晨光](./gallery-part-2.md#case-472)
+
+- [例 482：自我凝视超现实 Campaign](./gallery-part-2.md#case-482)
+- [例 483：都市飞鸟街头肖像](./gallery-part-2.md#case-483)
+- [例 488：屋顶球场日落人像](./gallery-part-2.md#case-488)
+- [例 490：双重曝光时尚肖像](./gallery-part-2.md#case-490)
+- [例 491：Y2K 高楼浴室镜面自拍](./gallery-part-2.md#case-491)
+- [例 492：黑色高定酒店套房写真](./gallery-part-2.md#case-492)
+- [例 499：极简精品店全身时尚写真](./gallery-part-2.md#case-499)
+- [例 500：梦幻花冠仙境肖像](./gallery-part-2.md#case-500)
+- [例 501：夏日牵手回眸电影肖像](./gallery-part-2.md#case-501)
+- [例 505：夜间手机光沙发肖像](./gallery-part-2.md#case-505)
+- [例 508：木漏日庭院俯拍猫咪人像](./gallery-part-2.md#case-508)
+- [例 509：涂鸦拉衣奔跑棚拍](./gallery-part-2.md#case-509)
+- [例 518：花田风动夏日人像](./gallery-part-2.md#case-518)
+- [例 525：酒红棚拍男士时尚肖像](./gallery-part-2.md#case-525)
+
+- [例 529：云朵气球山脊旅行人像](./gallery-part-2.md#case-529)
+- [例 536：春日樱花回眸电影人像](./gallery-part-2.md#case-536)
 
 <a name="cat-illustration"></a>
 
-### 🎨 插画与艺术 · 35 cases
+### 🎨 插画与艺术 · 59 cases
 
 - [例 6：插画艺术创作图](./gallery-part-1.md#case-6)
 - [例 22：插画艺术风格创作](./gallery-part-1.md#case-22)
@@ -433,10 +671,37 @@
 - [例 346：立体刺绣小鸟花枝](./gallery-part-2.md#case-346)
 - [例 356：过度思考超现实街头 Campaign](./gallery-part-2.md#case-356)
 - [例 374：彩色潦草小狗线条风格重绘](./gallery-part-2.md#case-374)
+- [例 405：可爱纸艺风照片重绘](./gallery-part-2.md#case-405)
+- [例 409：拙劣 MS Paint 风重绘](./gallery-part-2.md#case-409)
+- [例 410：夸张动漫风主体重绘](./gallery-part-2.md#case-410)
+- [例 423：日系手绘涂鸦半身插画](./gallery-part-2.md#case-423)
+- [例 430：铅笔素描时尚编辑插画](./gallery-part-2.md#case-430)
+- [例 433：韩国城市水彩旅行插画](./gallery-part-2.md#case-433)
+- [例 435：层叠纸雕情侣插画](./gallery-part-2.md#case-435)
+- [例 442：舒适发廊插画](./gallery-part-2.md#case-442)
+- [例 445：旅游照水墨明信片](./gallery-part-2.md#case-445)
+- [例 446：低多边形纸艺男士肖像](./gallery-part-2.md#case-446)
+- [例 452：极简童话手绘儿童插画](./gallery-part-2.md#case-452)
+- [例 458：巴黎秋季时装插画](./gallery-part-2.md#case-458)
+- [例 461：家庭旅行纸雕拼贴](./gallery-part-2.md#case-461)
+- [例 471：花簪和服动漫肖像](./gallery-part-2.md#case-471)
+- [例 476：早安拿铁微缩女孩](./gallery-part-2.md#case-476)
+
+- [例 479：杂志纸艺拼贴重绘](./gallery-part-2.md#case-479)
+- [例 495：巴黎街头故事书插画](./gallery-part-2.md#case-495)
+- [例 498：铅笔画背景 3D 分身](./gallery-part-2.md#case-498)
+- [例 504：粗糙涂鸦人像改图](./gallery-part-2.md#case-504)
+- [例 513：单色点缀旅行手账插画](./gallery-part-2.md#case-513)
+- [例 514：硬边现代艺术人像](./gallery-part-2.md#case-514)
+- [例 520：月面宇航员 T 恤图形](./gallery-part-2.md#case-520)
+- [例 523：曼哈顿公园水彩旅行插画](./gallery-part-2.md#case-523)
+- [例 524：纸雕拼贴乡野人像](./gallery-part-2.md#case-524)
+
+- [例 540：梦幻未来城市编辑艺术海报](./gallery-part-2.md#case-540)
 
 <a name="cat-character"></a>
 
-### 🧍 人物与角色 · 19 cases
+### 🧍 人物与角色 · 31 cases
 
 - [例 25：综合应用场景图](./gallery-part-1.md#case-25)
 - [例 27：人物角色设定图](./gallery-part-1.md#case-27)
@@ -457,10 +722,25 @@
 - [例 384：十国传统服饰时尚拼贴](./gallery-part-2.md#case-384)
 - [例 397：](./gallery-part-2.md#case-397)
 - [例 398：](./gallery-part-2.md#case-398)
+- [例 416：Earth Signs 角色 Scrapbook](./gallery-part-2.md#case-416)
+- [例 439：赛博黑客角色设定表](./gallery-part-2.md#case-439)
+
+- [例 473：ROGUE VIPER 游戏概念设定板](./gallery-part-2.md#case-473)
+
+- [例 480：粉丝速写本角色页](./gallery-part-2.md#case-480)
+- [例 502：黑桃国王递归扑克牌](./gallery-part-2.md#case-502)
+- [例 507：暖调钩织角色玩偶](./gallery-part-2.md#case-507)
+- [例 512：Brutalist Freestyle 角色设定表](./gallery-part-2.md#case-512)
+- [例 522：儿童故事书手绘头像](./gallery-part-2.md#case-522)
+
+- [例 528：圣诞街景 Chibi 真实背景人像](./gallery-part-2.md#case-528)
+- [例 530：实拍背景涂鸦人物替换](./gallery-part-2.md#case-530)
+- [例 533：手绘涂鸦时尚人物插画](./gallery-part-2.md#case-533)
+- [例 535：同一人脸十二款发型 Lookbook](./gallery-part-2.md#case-535)
 
 <a name="cat-scene"></a>
 
-### 🎬 场景与叙事 · 13 cases
+### 🎬 场景与叙事 · 21 cases
 
 - [例 182：千禧年日系校园喜剧场景](./gallery-part-2.md#case-182)
 - [例 208：樱花树下害羞双马尾少女](./gallery-part-2.md#case-208)
@@ -475,10 +755,19 @@
 - [例 392：头发里的微型城市](./gallery-part-2.md#case-392)
 - [例 394：中世纪村庄双精灵冒险者](./gallery-part-2.md#case-394)
 - [例 395：骑士法师大战石像魔像](./gallery-part-2.md#case-395)
+- [例 413：当代舞现场 Storyboard](./gallery-part-2.md#case-413)
+- [例 419：可颂烘焙流程 Storyboard](./gallery-part-2.md#case-419)
+- [例 422：冬季生存惊悚 Storyboard](./gallery-part-2.md#case-422)
+- [例 448：1942 空战街机电影城](./gallery-part-2.md#case-448)
+
+- [例 477：Instagram 餐桌俯拍创意](./gallery-part-2.md#case-477)
+- [例 487：法式药妆商业分镜封面](./gallery-part-2.md#case-487)
+- [例 493：东京旅行 13 格视频封面](./gallery-part-2.md#case-493)
+- [例 537：地下档案馆暗黑概念海报](./gallery-part-2.md#case-537)
 
 <a name="cat-history"></a>
 
-### 🏮 历史与古风题材 · 15 cases
+### 🏮 历史与古风题材 · 16 cases
 
 - [例 44：古风历史题材图](./gallery-part-1.md#case-44)
 - [例 167：大唐玄武门之变的朋友圈](./gallery-part-2.md#case-167)
@@ -495,10 +784,11 @@
 - [例 292：明朝登基宝玉的推文页面](./gallery-part-2.md#case-292)
 - [例 337：《短歌行》诗词意境图](./gallery-part-2.md#case-337)
 - [例 338：《赤壁怀古》长卷图](./gallery-part-2.md#case-338)
+- [例 415：东方神话人物志百科海报](./gallery-part-2.md#case-415)
 
 <a name="cat-document"></a>
 
-### 📚 文档与出版物 · 9 cases
+### 📚 文档与出版物 · 11 cases
 
 - [例 13：信息图可视化设计](./gallery-part-1.md#case-13)
 - [例 119：主题海报版式设计](./gallery-part-1.md#case-119)
@@ -509,10 +799,13 @@
 - [例 266：桌面上的黑色圆珠笔手写笔记](./gallery-part-2.md#case-266)
 - [例 293：聚焦人工智能的校园日报](./gallery-part-2.md#case-293)
 - [例 303：人教版三年级语文课本内页](./gallery-part-2.md#case-303)
+- [例 453：企业级商用画册视觉系统](./gallery-part-2.md#case-453)
+
+- [例 541：50/50 混合媒介回忆卡](./gallery-part-2.md#case-541)
 
 <a name="cat-other"></a>
 
-### 🧪 其他应用场景 · 29 cases
+### 🧪 其他应用场景 · 28 cases
 
 - [例 78：图像生成案例图](./gallery-part-1.md#case-78)
 - [例 79：图像生成案例图](./gallery-part-1.md#case-79)

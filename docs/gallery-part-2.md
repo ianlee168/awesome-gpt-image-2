@@ -7733,3 +7733,4795 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 ```
 
 ***
+
+<a name="case-401"></a>
+
+### 例 401：Lost in 国家旅行海报拼贴
+
+![Lost in 国家旅行海报拼贴](../data/images/case401.jpg)
+
+**来源：** [@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
+
+**提示词：**
+
+```text
+Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
+```
+
+***
+
+<a name="case-402"></a>
+
+### 例 402：3D 小红书个人资料卡
+
+![3D 小红书个人资料卡](../data/images/case402.jpg)
+
+**来源：** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
+
+**提示词：**
+
+```text
+一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+```
+
+***
+
+<a name="case-403"></a>
+
+### 例 403：小红书数字破屏 3D 女孩
+
+![小红书数字破屏 3D 女孩](../data/images/case403.jpg)
+
+**来源：** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [补发提示词](https://x.com/MrGafish/status/2052682279257026631)
+
+**提示词：**
+
+```text
+将一位气质绝佳的女孩放置在一个显示小红书帖文的3D透明玻璃手机画面中，并重新调整她的身体姿势，使她看起来像是正从屏幕中突破、进入现实世界。其中一只脚必须强烈地朝向观者延伸，采用戏剧化的 3D 透视效果，创造出强烈的深度感与沉浸感。整体姿势需要具有动态感、自然且符合人体结构，就像是在从屏幕中跨步而出的瞬间。
+
+手机屏幕边缘出现真实细腻的玻璃裂纹与数字粒子效果，大量发光的像素碎片与光粒向外扩散，形成富有未来感的“数字破屏”视觉特效。所有碎片与光效自然围绕人物运动方向展开，具有电影级空间层次感。
+
+整体画面采用温暖米色、柔粉色与梦幻紫色渐变背景，结合金粉色夕阳光斑与电影级柔光渲染。Pixar风格与半现实主义融合，超精细材质，柔和景深，电影感光影，8K超高清品质。
+
+将画面优化为竖版【9:16】比例（1080×1440），适用于社交媒体展示。
+```
+
+***
+
+<a name="case-404"></a>
+
+### 例 404：豪华社媒破屏商业广告
+
+![豪华社媒破屏商业广告](../data/images/case404.jpg)
+
+**来源：** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
+
+**提示词：**
+
+```text
+动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
+
+构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。
+
+明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。
+
+超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。
+
+宽高比：3:4。
+```
+
+***
+
+<a name="case-405"></a>
+
+### 例 405：可爱纸艺风照片重绘
+
+![可爱纸艺风照片重绘](../data/images/case405.jpg)
+
+**来源：** [@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
+
+**提示词：**
+
+```text
+Recreate this image in a paper craft style, simplifying the details to make them suitable for paper craft artwork. Arrange the overall composition to feel visually pleasing, soft, and cute. You may add charming decorative elements such as birds, butterflies, flowers, etc., to enhance the adorable atmosphere while still matching the original image.
+```
+
+***
+
+<a name="case-406"></a>
+
+### 例 406：巨型游戏手柄街头 Campaign
+
+![巨型游戏手柄街头 Campaign](../data/images/case406.jpg)
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
+
+**提示词：**
+
+```text
+Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones.
+
+The girl has curly shoulder-length hair, relaxed confident attitude, wearing an oversized white graphic T-shirt, loose black athletic shorts, high white socks, and modern sneakers. Casual sporty fashion styling, natural makeup, youthful Gen-Z streetwear vibe. She is casually seated on top of the giant gaming controller with one leg hanging down and one knee raised, looking away from the camera with cool effortless confidence.
+
+The oversized gaming controller is ultra detailed with futuristic buttons, glowing accents, premium matte materials, and soft LED reflections. Minimal luxury branding on the controller side. Giant cream-colored typography fills the background vertically in a bold condensed font.
+
+Environment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.
+```
+
+***
+
+<a name="case-407"></a>
+
+### 例 407：Neuro-AI 混合系统信息图
+
+![Neuro-AI 混合系统信息图](../data/images/case407.jpg)
+
+**来源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
+
+**提示词：**
+
+```text
+Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.
+
+Visual Direction:
+• 1:1 composition
+• dark neutral background with glowing neural network overlays
+• palette: electric blue, violet, soft white, silver
+• elegant scientific typography and modular panels
+• central ultra-detailed human brain + AI circuit fusion render
+
+Main Subject:
+A realistic human brain merging with AI neural networks and digital circuitry.
+
+Include callouts:
+• memory encoding system
+• AI augmentation layer
+• cognitive signal pathways
+• emotional response mapping
+• sensory integration nodes
+• neural data transfer system
+• learning adaptation loops
+
+Modules:
+• Brain Function Overview
+• AI Enhancement Layers
+• Signal Flow Diagram
+• Cognitive Performance Metrics
+• Human vs AI Comparison Chart
+• Neural Safety Protocols
+• Future Evolution Path
+
+Style:
+“neuroscience + AI engineering manual”, “high-end cognitive systems diagram”
+```
+
+***
+
+<a name="case-408"></a>
+
+### 例 408：Cozy Academia 学习手记
+
+![Cozy Academia 学习手记](../data/images/case408.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
+
+**提示词：**
+
+```text
+Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look
+```
+
+***
+
+<a name="case-409"></a>
+
+### 例 409：拙劣 MS Paint 风重绘
+
+![拙劣 MS Paint 风重绘](../data/images/case409.jpg)
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
+
+**提示词：**
+
+```text
+Please redraw the attached image in the most clumsy, messy, and hopelessly pathetic way possible. Use a white background and make it look like it was drawn in MS Paint with a mouse. It should vaguely resemble the original, but not really — like it’s kind of correct in some places yet strangely off and awkward overall. Emphasize a low-quality, pixelated look, and make it appear ridiculously badly drawn. …Actually, never mind — just draw it however you want in a sloppy way.
+```
+
+***
+
+<a name="case-410"></a>
+
+### 例 410：夸张动漫风主体重绘
+
+![夸张动漫风主体重绘](../data/images/case410.jpg)
+
+**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
+
+**提示词：**
+
+```text
+Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world
+```
+
+***
+
+<a name="case-411"></a>
+
+### 例 411：极简建筑地标海报
+
+![极简建筑地标海报](../data/images/case411.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
+
+**提示词：**
+
+```text
+Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
+```
+
+***
+
+<a name="case-412"></a>
+
+### 例 412：彩色按钮时尚 Campaign
+
+![彩色按钮时尚 Campaign](../data/images/case412.jpg)
+
+**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
+
+**提示词：**
+
+```text
+Use reference image as style guide.
+Surreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.
+Split-frame composition:
+
+Left side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.
+
+Right side (vertically split into two parts):
+Top-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.
+Bottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.
+
+Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
+Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1
+```
+
+***
+
+<a name="case-413"></a>
+
+### 例 413：当代舞现场 Storyboard
+
+![当代舞现场 Storyboard](../data/images/case413.jpg)
+
+**来源：** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
+
+**提示词：**
+
+```text
+Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.
+
+The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early choreography previs.
+
+A solitary female performer sings continuously while executing an emotionally charged contemporary dance routine inside a massive empty brutalist hall.
+
+The choreography is aggressive, fluid and constantly evolving: rapid turns, floor slides, crawling transitions, sharp body isolations, trembling hands, extreme balance shifts, hair whips, lunges, jumps, collapsing movements and distorted sculptural poses.
+
+Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel trapped between ritual, exhaustion and emotional release.
+
+Use cinematic arthouse camerawork with handheld energy, whip pans, orbit movement, overhead shots, side silhouettes, aggressive close-ups, long lens compression and extreme negative space.
+
+the environment minimal: empty space, smoke, fabric motion, harsh light beams and wet floor reflections only.
+
+Annotation color system: red arrows = body movement blue arrows = camera movement green marks = framing / composition notes orange marks = lighting direction purple marks = vocal / emotional emphasis black text = short lens notes and panel labels No timestamps.
+
+End with one overwhelming final movement pose beneath a harsh isolated spotlight.
+```
+
+***
+
+<a name="case-414"></a>
+
+### 例 414：室内晨间写实摄影
+
+![室内晨间写实摄影](../data/images/case414.jpg)
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
+
+**提示词：**
+
+```text
+A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
+East Asian young woman in her early 20s. Almond-shaped eyes with soft natural single eyelids, slightly elongated eye corners, still carrying the heaviness of just waking. Straight refined nose with a delicate bridge. Skin tone fair to light beige — skin subsurface scattering visible under the soft directional morning window light, specular micro-highlights catching gently on her cheekbone and nose ridge, fine skin texture perceptible, no makeup. Naturally straight fine black hair loosely gathered, slightly disheveled from sleep.
+She wears a loose oversized cotton sleep shirt and soft shorts, nothing styled. Her gaze drifts toward the window, posture relaxed and unhurried, one hand resting on her knee, the other barely holding a phone face-down. The bedroom background suggests real life — slightly unmade linen, a potted plant near the window partially in shadow, small cluttered bedside items. Two or three stray hairs fall across her cheek in natural asymmetric displacement, not geometrically placed.
+Soft directional morning light from a side window, cool-to-warm transition across her face and shoulder, long gentle shadows on the bedding behind her. The mood is quietly adrift — not sad, not performing, just suspended in the unhurried first minutes of the day. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+***
+
+<a name="case-415"></a>
+
+### 例 415：东方神话人物志百科海报
+
+![东方神话人物志百科海报](../data/images/case415.jpg)
+
+**来源：** [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
+
+**提示词：**
+
+```text
+请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。
+
+你是一名东方神话视觉设定师、古籍图谱设计师和中文信息图设计师。请根据【人物名称】在东方神话、民间传说、古籍、戏曲、文学或传统文化中的已知形象，生成一张内容完整、视觉统一、具有东方神话气质的人物档案海报。
+
+最重要原则：
+全部内容必须围绕【人物名称】展开，不要套用通用神仙模板。
+人物形象、法器、坐骑、神通、典故、象征物、背景场景都必须符合【人物名称】的神话设定。
+如果该人物存在多个传说版本，请采用最广为人知的版本；存在异文时，可以在相关板块简短标注“传说版本不一”。
+不确定的信息不要强行编造，可写“民间传说中多有异文”或“相关记载较少”。
+不要使用北欧符文、维京图腾、哥特边框、西方盔甲、欧式城堡、西幻恶魔角、赛博朋克元素。
+整体必须是东方神话审美，而不是“西幻人物换中式衣服”。
+整体视觉风格：
+东方神话史诗感，融合《山海经》异兽图谱、敦煌壁画、青绿山水、唐代人物画、宋元古画、青铜器纹样、古籍注疏和符箓篆刻风格。画面庄重、神秘、古雅、华丽但克制。
+画面构图：
+
+竖版 A4 海报，中轴对称布局。中央为【人物名称】的全身或半身主视觉，姿态庄严，有神性和叙事感。人物服饰、发冠、法器、神态、灵兽、背景都要符合该人物传说。左右两侧为信息卡片，底部为核心总结。四周使用云雷纹、回纹、青铜纹、祥云纹、卷草纹、山海纹、篆刻印章式边框。
+主标题：“【人物名称】”
+副标题：“东方神话人物志｜根据该人物神话传说生成”
+顶部精神题记：请根据【人物名称】的核心精神，自动生成一句古雅、凝练、有哲学意味的题记。题记要体现该人物背后的价值观、生命姿态或精神内核，而不是说明性文字。不要写“非史实考证”“仅供参考”“传说版本”等免责声明。字数控制在 12-28 字，适合放在标题下方。题记应与人物高度绑定，不要套用“守护苍生”“大道无边”等空泛句式。
+
+请生成以下内容板块：
+【1. 神格身份】说明【人物名称】在东方神话体系中的身份定位。
+【2. 神话源流】说明该人物主要出自哪些神话、古籍、民间传说、小说、戏曲或宗教信仰。
+【3. 司职权柄】总结该人物掌管或象征的领域。
+【4. 形象特征】描述该人物的典型外貌、服饰、神态、姿态和视觉气质。
+【5. 法器神通】展示该人物最具代表性的法器、兵器、符咒、神通或能力。
+【6. 灵兽坐骑 / 随身象征】如果【人物名称】有坐骑、灵兽、伴生生灵，请展示其名称、形态和寓意。如果没有明确坐骑，请改为“随身象征物”或“相关意象”。不要强行给每个人物安排龙、凤、仙鹤或麒麟。
+【7. 典故出处】列出 2-4 个与【人物名称】相关的经典故事、传说片段或文化典故。不要虚构不存在的典故。若版本不一，请标注“异文较多”。
+【8. 象征意象】提炼该人物最核心的视觉符号。符号必须与【人物名称】相关。
+【9. 神话谱系】说明该人物与其他神话人物、阵营、族属或体系的关系。如果谱系不明确，请写“谱系传说不一”。
+【10. 文化影响】说明该人物在民俗、节日、祭祀、文学、戏曲、绘画、庙宇、影视或现代文化中的影响。
+【11. 精神内核】从神话叙事角度总结该人物象征的精神。这里只分析神话形象，不推断真实人物性格。
+【12. 核心总结】用一段古雅但易懂的中文总结【人物名称】：“【人物名称】在东方神话中象征……，其形象融合了……，代表着……。”
+
+视觉版式要求：
+顶部：大标题 + 副标题 + 精神题记。
+中央：人物主视觉，气势庄重，细节丰富。
+左侧栏目：神格身份、神话源流、司职权柄、形象特征、法器神通。
+右侧栏目：灵兽坐骑/随身象征、典故出处、象征意象、神话谱系、文化影响。
+底部：精神内核 + 核心总结。
+可加入小型图标、注释线、古籍标签、卷轴卡片、青铜铭牌、朱砂印章、符箓纹样。
+信息卡片像古书页、玉简、青铜牌、卷轴或碑铭，不要像现代科技 UI。
+
+材质与纹样：
+宣纸肌理、矿物颜料、鎏金线条、朱砂印章、墨色晕染、青铜器铭文、云雷纹、回纹、祥云纹、山水纹、敦煌藻井纹样。
+
+配色规则：
+根据【人物名称】的属性自动选择东方配色。火焰 / 战斗 / 护法：朱砂、玄黑、鎏金、赤红。月亮 / 水系 / 清冷神祇：黛青、银白、月白、石蓝。山川 / 木系 / 自然神灵：石绿、青黛、玉白、赭石。帝王 / 天庭 / 尊神：鎏金、玄黑、朱砂、玉白。妖灵 / 山海异兽：墨黑、铜绿、暗金、赭红。不要所有人物都使用同一套配色。
+
+文字要求：
+中文必须清晰可读，标题大气，正文简短准确。不要乱码、伪文字、错别字、文字重叠或裁切。如果空间不足，优先压缩正文，但保留所有板块标题。
+
+避免：
+北欧符文、维京风、哥特边框、西方盔甲、欧式城堡、魔幻游戏 UI、赛博朋克、现代科技感、过度暗黑、随机龙凤、无关法器、模板化神仙形象、与【人物名称】无关的典故、空泛精神题记。
+```
+
+***
+
+<a name="case-416"></a>
+
+### 例 416：Earth Signs 角色 Scrapbook
+
+![Earth Signs 角色 Scrapbook](../data/images/case416.jpg)
+
+**来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
+
+**提示词：**
+
+```text
+CREATE A NEW IMAGE USING THE PROVIDED FEMALE SUBJECT AS THE ONLY REFERENCE. Preserve her exact facial features, identity, and characteristics with zero alteration.
+
+MAIN SUBJECT — EARTH ELEMENT
+She represents the Earth element as a whole: grounded, elegant, sensual, calm, stable, patient, quietly powerful, and naturally luxurious. Relaxed grounded posture, standing or seated, soft natural hand placement, composed feminine body language, rooted presence.
+
+OUTFIT
+Single cohesive Earth-inspired editorial look in olive, sage, taupe, mocha, beige, clay, cream, moss, and warm neutrals. Soft-structured elegant silhouette with subtle tailoring, draping, texture contrast, or layered structure. Fabrics: linen, cotton, matte satin, knit, suede-like textures, soft tailoring. Minimal refined gold or natural-toned accessories.
+
+HAIR
+Soft ash brown with natural dimension. Healthy, polished, softly voluminous waves or smooth blowout with subtle shine, controlled texture, face-framing strands, grounded and luxurious feel.
+
+MAKEUP
+Korean soft-glow base with earthy tones. Warm beige-rose, terracotta, tawny, or nude peach blush. Eyes in taupe, mocha, caramel, muted bronze, olive-brown. Soft liner, champagne-beige highlight, satin or velvet nude/mocha lips. Overall polished, sensual quiet-luxury aesthetic.
+
+ENVIRONMENT
+Grounded editorial Earth-inspired setting with stone, wood, linen, botanicals, dried plants, natural fabrics, rustic-luxury styling, warm daylight or diffused editorial lighting, soft shadows, serene cinematic stillness. Palette: cream, olive, moss, clay, taupe, beige, muted green, warm brown.
+
+CHIBI MINI-ME SYSTEM
+Surround her with multiple medium-sized realistic 3D chibi mini-me versions with identical face, hair, and identity. High-end doll-like styling with oversized heads, petite bodies, glossy eyes, realistic hair, detailed makeup, miniature fashion outfits, soft cinematic 3D lighting.
+
+EARTH SIGN CHIBIS
+Taurus — sensual soft-luxury romantic styling, knit or elegant feminine neutral outfit, rich textures, gold accents. Ultra-long segmented twin low ponytails tied with white fabric bands flowing dramatically around the frame.
+Virgo — refined perfectionist aesthetic with polished minimalist tailoring, clean lines, structured mini dress or sophisticated co-ord styling.
+Capricorn — sleek power-dressing with blazer dress or tailored set, sharp silhouette, understated luxury. Hair pulled into ultra-long sculptural braid wrapped with gold chains and metallic ornaments.
+
+DOODLES + SCRAPBOOK OVERLAY
+Hand-drawn earthy scrapbook doodles: leaves, vines, flowers, branches, mushrooms, butterflies, stars, sparkles, stones, hearts, sun doodles, botanical icons. Cozy ink-pen texture.
+
+Handwritten text:
+“EARTH SIGNS”
+“grounded and glowing”
+“soft strength”
+“rooted in beauty”
+“quiet luxury”
+“stable energy”
+“calm power”
+“naturally magnetic”
+
+Fact bubbles:
+“Element: Earth”
+“Signs: Taurus, Virgo, Capricorn”
+“Traits: grounded, loyal, elegant”
+“Energy: stable, refined, dependable”
+
+COMPOSITION
+Main subject centered and dominant. Chibis placed dynamically around shoulders, hands, sides, and lower frame. Doodles layered naturally throughout like a scrapbook. Balanced, expressive, premium composition.
+
+STYLE
+Cinematic editorial lifestyle image, fashion-meets-illustration hybrid, high detail, sharp focus, warm neutral tones, subtle realism grain, realistic human rendering with stylized 3D chibis and hand-drawn overlays. Social-media-ready premium aesthetic.
+
+CAMERA
+Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifestyle portrait look, crisp details with soft atmospheric depth.
+```
+
+***
+
+<a name="case-417"></a>
+
+### 例 417：复古印尼猫薄荷广告
+
+![复古印尼猫薄荷广告](../data/images/case417.jpg)
+
+**来源：** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
+
+**提示词：**
+
+```text
+Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
+```
+
+***
+
+<a name="case-418"></a>
+
+### 例 418：中世纪城市旅行海报
+
+![中世纪城市旅行海报](../data/images/case418.jpg)
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
+
+**提示词：**
+
+```text
+Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.
+```
+
+***
+
+<a name="case-419"></a>
+
+### 例 419：可颂烘焙流程 Storyboard
+
+![可颂烘焙流程 Storyboard](../data/images/case419.jpg)
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
+
+**提示词：**
+
+```text
+Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.
+Top header:
+
+THE CROISSANT BAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · WARM · FLAKY · IRRESISTIBLE
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Thin warm golden accent line running full width beneath header
+
+Same Pixar-style young French male baker throughout: white baker's jacket, flour-dusted hands, warm authentic French boulangerie setting, marble countertop, warm morning light streaming through windows, bread racks in background. Bright, warm, delicious. Every panel a completely different composition and color.
+8 panels:
+
+THE OPENER — Wide shot of baker arriving at the boulangerie before dawn, tying apron, switching on the warm kitchen lights, marble counter visible, bread racks behind, flour dusting the air, full world established, bright and cinematic
+THE BUTTER BLOCK — Baker slams a massive cold block of European butter onto the marble counter with both hands, dramatic impact, flour cloud puffing up, close-up on hands, this is the bones moment — the start of everything
+THE LAMINATION — Baker folding the dough over the butter block precisely, rolling pin pressing down hard, layers building, side angle shot showing the beautiful layering beginning, confident and skilled
+THE ROLL — Dough rolled out into a large thin sheet, baker leaning into the rolling pin with full body weight, marble counter, flour dusting everywhere, wide shot showing the scale of the dough
+THE SHAPE — Triangles cut from the dough, baker rolling each one from the wide end into a tight crescent, hands moving fast and confident, close-up on the shaping, beautiful and precise
+THE EGG WASH — Baker brushing golden egg wash over each shaped croissant with a pastry brush, each one glistening beautifully, close-up overhead angle, warm golden color, stunning composition
+THE OVEN — Croissants slid into the blazing hot oven on a tray, oven door closed, through the oven glass croissants visibly puffing and turning deep golden, layers separating dramatically, warm orange glow
+THE TEAR — Baker pulls a perfect golden croissant from the rack, holds it up, tears it open slowly revealing hundreds of impossibly flaky buttery layers inside, steam escaping, butter glistening — this is the cheese pull moment, the hero shot of the entire video
+
+Footer:
+
+VIDEO FLOW: 8 shots × 1.5s = 12 seconds. Butter block to the tear.
+CAMERA TIPS: wide on opener, close-up on butter slam and shaping, side angle on lamination, overhead on egg wash, oven glass for panel 7, extreme close-up on the tear reveal
+LIGHT & STYLE: warm golden French bakery morning light, buttery cream tones, flour dust in the air, bright vivid Pixar colors, shallow depth of field on close-ups
+BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamination layers and the final tear are everything — make them stunning.
+```
+
+***
+
+<a name="case-420"></a>
+
+### 例 420：红跑道低角度夏日人像
+
+![红跑道低角度夏日人像](../data/images/case420.jpg)
+
+**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
+
+**提示词：**
+
+```text
+Use the uploaded portrait photo as the appearance reference for the person. Create a bright photorealistic outdoor portrait of a young woman lying on a red running track on a modern white arch pedestrian bridge. Ultra-wide low-angle selfie perspective, her arm reaching toward the camera in the foreground, relaxed pose, wired headphones around her neck, white sleeveless top, loose gray pants, black hair spread on the ground. Clean blue sky with soft white clouds, strong midday sunlight, crisp shadows, high clarity, fresh youthful mood, architectural symmetry, realistic skin texture, cinematic composition, 3:4 vertical image
+
+Negative Prompt:
+
+watermark, logo, text, caption, signature, AI label, extra fingers, deformed hands, distorted face, wrong identity, duplicate person, blurry face, low resolution, over-smoothed skin, plastic skin, unnatural anatomy, bad perspective, messy background, harsh artifacts, overexposure, underexposure
+```
+
+***
+
+<a name="case-421"></a>
+
+### 例 421：iPhone 屏幕遮脸创意人像
+
+![iPhone 屏幕遮脸创意人像](../data/images/case421.jpg)
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
+
+**提示词：**
+
+```text
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+***
+
+<a name="case-422"></a>
+
+### 例 422：冬季生存惊悚 Storyboard
+
+![冬季生存惊悚 Storyboard](../data/images/case422.jpg)
+
+**来源：** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
+
+**提示词：**
+
+```text
+Cinematic Survival Thriller Storyboard Prompt
+
+Create a premium cinematic storyboard presentation sheet for a prestige winter survival thriller.
+Ultra-detailed professional film pre-production layout, clean editorial design, grayscale blueprint background with labeled sections and technical annotations.
+Aspect ratio 16:9 horizontal master board.
+
+SHARED CHOICES HEADER
+
+* Cut Count: 10
+* Color Palette: icy blue + steel gray + pine green + ember amber
+* Environment Fingerprint: snow-covered pine clearing, overturned horse carcass, torn campsite debris, looming conifer forest, drifting winter fog
+
+---
+
+1. CHARACTER REFERENCE
+
+A realistic South Asian man in his early 30s wearing a dark charcoal business suit, white dress shirt, black tie, polished black shoes.
+Snow dusted across shoulders and hair.
+Calm but haunted expression.
+Show:
+
+* front view
+* side profile
+* back view
+* facial close-up
+* side close-up
+* costume fabric detail
+* damaged sleeve detail
+* shoes in snow
+
+Character notes:
+“An intelligent city professional trapped in a brutal wilderness.
+Outer composure slowly cracks under primal fear.
+Suit = identity, burden, and last thread of control.”
+
+Palette swatches:
+
+* icy blue
+* steel gray
+* pine green
+* ember amber
+
+---
+
+2. ENVIRONMENT / SET DESIGN
+
+Top-down aerial map of a snowy forest clearing at dusk.
+Dead horses partially buried in snow.
+Destroyed campsite tents.
+Blood trails across frozen ground.
+Dense dark pine trees forming a claustrophobic wall around the clearing.
+Heavy winter fog drifting through the forest.
+
+Add cinematic camera movement markers:
+
+1. Crane-down
+2. Track
+3. Push-in
+4. Handheld
+5. Steadicam
+6. Pan-right
+7. Dolly-in
+8. Rack-focus
+9. Arc shot
+10. Pull-out
+
+Include arrows and overhead cinematic blocking diagram.
+
+Side elevation panel:
+
+* descending crane shot
+* fog layers
+* silhouette scale reference
+* conifer enclosure composition
+
+Location elements legend:
+
+* tree line
+* torn campsite
+* horse carcass debris
+* blood-stained snow
+* main character
+* wolf approach zones
+
+---
+
+3. STORYBOARD (10 CUTS)
+
+CUT 1
+
+Wide aerial crane-down shot over frozen clearing.
+Tiny suited man surrounded by devastation.
+Moody blue dusk lighting.
+
+CUT 2
+
+Tracking medium shot beside the man walking cautiously through snow and ripped tents.
+Wind moving fabric debris.
+
+CUT 3
+
+75mm close-up push-in on face.
+Cold breath visible.
+Fear slowly emerging in his eyes.
+
+CUT 4
+
+Extreme close-up handheld shot of trembling hand gripping torn frozen fabric near blood-covered snow.
+
+CUT 5
+
+Steadicam medium shot revealing wolves emerging between trees behind him.
+
+CUT 6
+
+Pan-right wide shot sweeping across forest edge.
+Multiple wolf silhouettes visible in fog.
+
+CUT 7
+
+Over-the-shoulder dolly-in toward alpha wolf approaching slowly through snow.
+
+CUT 8
+
+Rack-focus insert shot shifting focus from frozen hand to wolf tracks in snow.
+
+CUT 9
+
+Arc shot circling around the man as wolves tighten formation.
+Snow and pine branches moving in icy wind.
+
+CUT 10
+
+Close-up pull-out shot from his exhausted face revealing the full massacre behind him in fading ember dusk light.
+
+---
+
+4. LIGHTING / MOOD / STYLE NOTES
+
+* icy dusk ambience
+* cold blue backlight
+* ember sunset glow fading through fog
+* wet fabric specular highlights
+* cinematic volumetric fog
+* snow particles drifting through frame
+* high-contrast prestige thriller realism
+
+Mood keywords:
+
+* isolation
+* winter dread
+* survival instinct
+* prestige thriller realism
+* primal tension
+* psychological fear
+
+Cinematography notes:
+
+* anamorphic lenses (40mm / 50mm / 75mm / 100mm)
+* shallow depth of field
+* compressed forest layers
+* natural handheld movement
+* realistic snow atmosphere
+* cinematic Hollywood survival thriller aesthetic
+* ultra detailed
+* photorealistic
+* film grain
+* 8k production design board
+* premium movie pitch deck style
+```
+
+***
+
+<a name="case-423"></a>
+
+### 例 423：日系手绘涂鸦半身插画
+
+![日系手绘涂鸦半身插画](../data/images/case423.jpg)
+
+**来源：** [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
+
+**提示词：**
+
+```text
+Generate an illustration of "me" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.
+```
+
+***
+
+<a name="case-424"></a>
+
+### 例 424：FMCG 棒棒糖霓虹广告
+
+![FMCG 棒棒糖霓虹广告](../data/images/case424.jpg)
+
+**来源：** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
+
+**提示词：**
+
+```text
+Hyper-realistic cinematic FMCG billboard advertising poster for Chupa Chups India, focusing on playful energy, bold flavor explosion, and Gen-Z candy culture.
+
+Scene: a giant glossy Chupa Chups lollipop floating above a vibrant Indian street at night, candy shards and liquid flavor bursts exploding outward mid-air.
+
+Environment: neon-lit urban backdrop inspired by Mumbai nightlife, glowing signage, reflective wet streets, colorful haze.
+
+Subject: oversized strawberry swirl lollipop as the hero object, ultra-detailed glossy texture, cinematic flavor splash motion.
+
+Visual storytelling: iconic Chupa Chups flower logo glowing subtly on wrapper, reflections visible on wet surfaces and candy syrup splashes.
+
+Composition: dramatic low-angle shot, giant centered product dominating frame, dynamic explosion spreading diagonally across billboard composition.
+
+Typography:
+top left — Chupa Chups logo.
+center massive — “UNWRAP THE FUN” ultra bold playful typography.
+behind product (oversized layered text) — “LICK / SPIN / REPEAT”.
+mid-left — “FLAVOR THAT POPS.” bold condensed font.
+bottom left — “STRAWBERRY BURST · GLOBAL ICON · 2026 EDITION”.
+bottom right — “http://chupachups.com”.
+left vertical edge — “FUN · FLAVOR · CANDY CULTURE”.
+
+Typography style: playful bold sans-serif, glossy layered opacity, oversized billboard scale.
+
+Color palette: vibrant reds, yellows, pinks, neon orange accents, glossy candy textures.
+
+Lighting: dramatic neon backlight with glowing highlights and candy reflections.
+
+Atmosphere: sugar particles, mist, syrup splashes, floating candy dust.
+
+Mood: energetic, youthful, addictive, vibrant.
+
+Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG billboard style, 4:5 portrait.
+```
+
+***
+
+<a name="case-425"></a>
+
+### 例 425：黑白时尚人像拼贴海报
+
+![黑白时尚人像拼贴海报](../data/images/case425.jpg)
+
+**来源：** [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
+
+**提示词：**
+
+```text
+{
+  "prompt": "Vertical poster collage design, beige background, four stacked horizontal rounded rectangles containing black and white cinematic portraits of the same young woman wearing sunglasses in different stylish poses. Foreground features a full-color high-quality cutout of the woman on the left side, wearing a pink mauve fitted shirt, black pants, sunglasses, confident cool pose, modern fashion editorial style, soft studio lighting, ultra realistic, premium magazine aesthetic, depth and shadow effects, clean minimal layout, 2:3 aspect ratio.",
+  "aspect_ratio": "2:3"
+}
+```
+
+***
+
+<a name="case-426"></a>
+
+### 例 426：日韩咖啡馆情侣写真
+
+![日韩咖啡馆情侣写真](../data/images/case426.jpg)
+
+**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
+
+**提示词：**
+
+```text
+Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.
+
+The table is beautifully filled with [desserts/foods] such as pancakes, strawberry cakes, macarons, croissants, pastries, iced coffees, matcha lattes, fruit desserts, and aesthetic drinks arranged in a visually satisfying composition. Add small aesthetic café props like [flowers/ribbons/books/candles/pearls/notebooks] on the table for a premium Pinterest moodboard feel.
+
+Soft [lighting style] lighting enters through the café windows creating dreamy highlights, creamy shadows, glossy reflections on drinks, and realistic dessert textures. Background should contain softly blurred [Japanese/Korean] signs, glowing café boards, handwritten Japanese text, neon typography, and aesthetic city café elements for an authentic Tokyo/Seoul vibe.
+
+Add cute scrapbook-style doodles and handwritten notes around the image in [doodle color] ink — tiny hearts, stars, sparkles, ribbons, arrows, smiley sketches, bows, diary stickers, and handwritten café notes.
+
+Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.
+```
+
+***
+
+<a name="case-427"></a>
+
+### 例 427：9-frame 时尚人像拼贴
+
+![9-frame 时尚人像拼贴](../data/images/case427.jpg)
+
+**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
+
+**提示词：**
+
+```text
+Edit this photo and don't change the face, portrait 9:16. A 9-frame fashion portrait collage featuring a stylish young woman with playful expressions and sporty streetwear aesthetics. The concept combines modern model test photography, casual Gen-Z energy, and clean editorial studio vibes. Each frame captures different candid facial expressions and subtle attitude poses, creating a cool, confident, and slightly mischievous mood. Minimalist composition with strong focus on facial expressions, cap styling, and soft fashion portrait lighting.
+
+Frame Descriptions (9 poses)
+
+Frame 1 – Eyes closed with playful scrunched expression, slight smile, relaxed shoulders.
+Frame 2 – Looking slightly sideways with lips parted, confident casual attitude.
+Frame 3 – Head tilted slightly upward, calm expression, direct cool-girl energy.
+Frame 4 – Eyes closed while sticking tongue slightly out, playful candid vibe.
+Frame 5 – Both index fingers pressing cheeks while making duck lips, cute playful expression.
+Frame 6 – Direct eye contact with subtle smile, relaxed natural pose.
+Frame 7 – Body turned sideways, hand near chin, confident editorial profile look.
+Frame 8 – Eyes squeezed shut while making pout lips, exaggerated playful expression.
+Frame 9 – Wrinkled nose with gritted teeth, rebellious fashion attitude.
+
+She wears oversized black long sleeves. Soft matte fabric with sporty streetwear silhouette. Relaxed fit with slightly oversized sleeves. Black New York Yankees baseball cap worn forward and backward in different frames. Minimal jewelry. Long soft wavy blonde hair. Soft loose waves with natural texture. Middle-part hairstyle. Hair flowing naturally around shoulders. Soft glam douyin girl makeup. Dewy glass skin finish. Brushed up natural brows, winged eyeliner, wispy natural lashes, soft pink blush (igari blush style), ombre gradient rosy pink lips with glossy finish.
+
+Background minimal white studio backdrop. Photobooth-style collage layout with black frame borders. Shot with Canon EOS R6 / Sony A7 III / Fujifilm X-T5. High-fashion portrait photography style. 50mm or 85mm portrait lens. Eye-level framing. Tight portrait crop. Centered composition. Photobooth-inspired close-up angles. Soft diffused studio lighting. Balanced frontal light. Minimal harsh shadows. Clean editorial illumination. Cool neutral tones. Slightly desaturated blacks. Soft contrast with crisp details. Subtle film grain. Modern fashion editorial color grading.
+```
+
+***
+
+<a name="case-428"></a>
+
+### 例 428：F1 直播转播围场截图
+
+![F1 直播转播围场截图](../data/images/case428.jpg)
+
+**来源：** [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
+
+**提示词：**
+
+```text
+Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile.
+She wears a fitted white tank top, an oversized racing team jacket (with generic, unbranded or blank team logos) draped over her shoulders, large black team-radio headset with boom mic, gold jewelry, and soft glam makeup. A slim, unbranded paddock pass hangs naturally from her neck.
+Add realistic F1 broadcast graphics: "FINAL LAP" banner, lap counter showing final lap, driver timing tower on the left, small F1-style logo bug, "LIVE" indicator, and a lower-third identifying her as a driver partner / paddock guest (e.g., "MIA ANDERSEN - Paddock Guest / Partner"). No fake oversized badges, no selfie angle.
+Team staff (in generic kit), headsets, garage screens, and generic race equipment are blurred around her. Telephoto broadcast camera shot from across the garage, professional depth of field, compression artifacts, digital noise, bright paddock lighting, natural skin texture, no smoothing, 8k quality, cinematic lighting.
+```
+
+***
+
+<a name="case-429"></a>
+
+### 例 429：韩国便利店粉色 Hoodie 人像
+
+![韩国便利店粉色 Hoodie 人像](../data/images/case429.jpg)
+
+**来源：** [@john_my07](https://x.com/john_my07/status/2054573350199111928)
+
+**提示词：**
+
+```text
+Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.
+```
+
+***
+
+<a name="case-430"></a>
+
+### 例 430：铅笔素描时尚编辑插画
+
+![铅笔素描时尚编辑插画](../data/images/case430.jpg)
+
+**来源：** [@harboriis](https://x.com/harboriis/status/2054573031343931418)
+
+**提示词：**
+
+```text
+A high-detail digital illustration of a stylish woman sitting gracefully on a stone ledge, posing with one hand near her chin and legs crossed. She is wearing vintage-inspired round sunglasses, a white blouse with rolled-up sleeves, denim overalls, and rugged lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant solid orange circle creates a bold geometric contrast against a clean, light grey backdrop. The overall composition is minimalist, editorial, and features a clean "indie-magazine" aesthetic with sharp linework and soft shading.
+
+Aspect ratio is 9:16
+```
+
+***
+
+<a name="case-431"></a>
+
+### 例 431：城市文字旅行海报
+
+![城市文字旅行海报](../data/images/case431.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
+
+**提示词：**
+
+```text
+Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio.
+
+IMPORTANT: every visible word on the poster must be in English, perfectly spelled, professionally typeset. No distorted letters, no random symbols, no broken text, no AI gibberish.
+
+CORE COMPOSITION:
+Place the giant English word "[CITY_NAME]" front and center. Each letter is a tall, bold, elongated sans-serif form, and each one frames a different illustrated scene from the city, like a row of gallery windows. Spread landmarks, streets, transport, nature, culture, and architecture across the letters so the scenes flow from one letter into the next as a single connected urban panorama.
+
+TOP HORIZONTAL STRIP:
+Across the top of the poster, a thin panoramic band: city skyline silhouettes, cars, trams or trains, boats where it fits, birds, clouds, sun. Keep it minimalist, elegant, rhythmically balanced.
+
+STYLE: mid-century modern editorial poster, Swiss graphic design, minimal vector illustration, architectural infographic feel, travel typography poster, flat geometric illustration, ultra-clean composition, premium magazine design, screen-print poster vibe, retro-futuristic travel branding.
+
+ILLUSTRATION:
+Flat vector shapes only. No realism, no gradients, no noise. Clean geometric shadows, simplified architectural forms, a mix of map-like top-down with side-view cityscape. Subtle line-art details, crisp vector edges, strong negative space, harmonious rhythm between the letters.
+
+TYPOGRAPHY:
+Giant bold sans-serif, letters fill most of the canvas height. Pixel-perfect alignment. Each letter acts as its own framed illustration panel. Soft rounded corners where it suits. Editorial spacing. Print-ready and geometrically clean.
+
+COLOR PALETTE:
+Pull a cohesive palette inspired by [CITY_NAME]:
+coastal city -> aqua, sand, coral, muted teal
+desert city -> terracotta, beige, warm cream
+cyber city -> mint, navy, steel blue
+historic European city -> dusty rose, olive green, parchment
+Muted pastels, soft vintage travel-poster colors, low saturation. Max 4 to 6 colors.
+
+CONTENT:
+Include iconic landmarks, famous streets and transport, local urban patterns, nearby nature, skyline silhouettes, bridges/rivers/coastline if relevant, culturally symbolic architecture, recognizable local atmosphere.
+
+COMPOSITION:
+Centered typography on a white or soft ivory background. Lots of breathing room. The top panoramic strip balances the heavy typography below. Asymmetrical but visually balanced. Each letter shows its own scene depth and perspective. Museum-quality poster hierarchy.
+
+MOOD: premium, intellectual, calm, design-forward, travel-editorial, stylish enough for a museum gift-shop wall.
+
+QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typography, zero distorted text, zero random characters, zero spelling errors, zero AI artifacts.
+```
+
+***
+
+<a name="case-432"></a>
+
+### 例 432：大堡礁复古旅行海报
+
+![大堡礁复古旅行海报](../data/images/case432.jpg)
+
+**来源：** [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
+
+**提示词：**
+
+```text
+Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia.
+Style: Flat vector illustration, ultra-clean minimalism, mid-century modern travel poster aesthetic, inspired by vintage tourism prints and Scandinavian graphic design. No photorealism, no textures, no noise, no gradients. Use crisp shapes, smooth color blocks, and harmonious vibrant tones.
+Composition (vertical 3:4 layout):
+Foreground (underwater): A rich coral reef ecosystem filled with colorful corals in pink, orange, yellow, and red tones. Include tropical fish of various species (striped, bright yellow, blue, and orange), and a large sea turtle swimming gracefully toward the right. Clear turquoise water with high visibility.
+Midground: A female snorkeler swimming horizontally just beneath the water surface, wearing fins and a snorkel mask, observing the reef below. Light rays subtly pass through the water surface.
+Background (above water): A calm tropical ocean with shallow reef patches visible through crystal-clear water. A white leisure boat floats peacefully on the left, and a small sailboat appears far in the distance. On the horizon, soft green islands or hills stretch across.
+Sky: Bright blue sky with fluffy white clouds and a few birds flying, enhancing the serene vacation mood.
+Typography:
+At the bottom of the poster, include bold uppercase text:
+“GREAT BARRIER REEF”
+Below it, smaller spaced-out text:
+“AUSTRALIA”
+Add a small decorative coral icon between divider lines.
+Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.
+```
+
+***
+
+<a name="case-433"></a>
+
+### 例 433：韩国城市水彩旅行插画
+
+![韩国城市水彩旅行插画](../data/images/case433.jpg)
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
+
+**提示词：**
+
+```text
+Dreamy watercolor travel illustration of a peaceful Korean city street, hand-painted urban sketchbook style, delicate ink linework mixed with soft watercolor washes, cozy café storefronts, warm bakery lights glowing through windows, quiet morning atmosphere after light rain, reflective wet pavement, pedestrians with umbrellas and tote bags, bicycles parked along narrow streets, traditional Korean signs and typography, subtle Korean text labels, soft beige paper texture background, architectural sketch aesthetic, calm everyday city life, muted earthy palette with warm browns, faded greens, cream whites and soft blue accents, highly detailed pen-and-ink drawing, loose expressive brush strokes, travel journal composition, editorial postcard layout, elegant serif title text at top (“SEOUL”, “JEONJU”, “DAEJEON”), handwritten notes and date stamps, vintage travel diary aesthetic, cozy East Asian urban scenery, cinematic slice-of-life mood, watercolor bleeding edges, natural perspective, atmospheric depth, peaceful storytelling illustration, minimalist negative space, ultra detailed watercolor texture, sketchbook traveler aesthetic, nostalgic café culture vibes, Studio Ghibli-inspired realism, European urban sketching style mixed with Korean street scenery, soft daylight, calm and poetic composition, vertical poster design, premium art print quality.
+```
+
+***
+
+<a name="case-434"></a>
+
+### 例 434：东京街头胶片人像
+
+![东京街头胶片人像](../data/images/case434.jpg)
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
+
+**提示词：**
+
+```text
+film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, scattered fallen leaves on the ground, distant pedestrians and passing taxis softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 19-year-old Chinese female influencer, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy faux fur jacket, playful yet subtly seductive expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic iPhone photography texture, spontaneous candid energy, highly attractive girl casually posing in the middle of the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, masterpiece, best quality, ultra detailed, slight motion blur from slow shutter, authentic everyday realism, “BubbleBrain” small handwritten signature text on bottom corner --ar 9:16
+```
+
+***
+
+<a name="case-435"></a>
+
+### 例 435：层叠纸雕情侣插画
+
+![层叠纸雕情侣插画](../data/images/case435.jpg)
+
+**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
+
+**提示词：**
+
+```text
+{
+  "style": "layered paper-cut illustration, papercraft diorama, handcrafted aesthetic",
+  "technique": {
+    "layering": "multiple stacked paper layers with soft drop shadows between each layer",
+    "depth": "5–7 visible depth planes from foreground to background",
+    "edges": "smooth, rounded, slightly beveled paper-cut edges",
+    "texture": "subtle paper grain and fibrous texture on all surfaces",
+    "shadows": "soft, diffused inner shadows beneath each layer suggesting physical depth"
+  },
+  "character_design": {
+    "proportions": "chibi / cute simplified — large round head, small body (1:1.5 ratio)",
+    "face": {
+      "eyes": "small dot eyes, glossy highlight",
+      "cheeks": "soft circular rosy blush patches",
+      "nose": "absent or minimal dot",
+      "mouth": "simple small curve smile"
+    },
+    "limbs": "short, rounded, stubby limbs",
+    "outline": "clean smooth silhouette, no sharp corners"
+  },
+  "color_palette": {
+    "mood": "warm, cozy, pastel",
+    "tones": ["soft cream", "dusty rose", "sage green", "warm peach", "sky blue", "honey yellow"],
+    "saturation": "low-to-medium, muted and gentle",
+    "background": "warm off-white or soft gradient"
+  },
+  "lighting": {
+    "type": "soft ambient light from top-front",
+    "highlights": "gentle white edge highlights on top layers",
+    "shadows": "warm light tan/beige shadow tones beneath cut layers"
+  },
+  "environment": {
+    "foliage": "simplified rounded leaf and floral shapes as separate paper layers",
+    "ground": "curved horizon layers suggesting rolling hills",
+    "details": "tiny decorative elements — stars, small hearts, dots — cut from paper"
+  },
+  "overall_mood": "warm, whimsical, cozy, handmade, storybook",
+  "render_quality": "ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges"
+}
+```
+
+***
+
+<a name="case-436"></a>
+
+### 例 436：数码相机屏幕怀旧人像
+
+![数码相机屏幕怀旧人像](../data/images/case436.jpg)
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
+
+**提示词：**
+
+```text
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+
+***
+
+<a name="case-437"></a>
+
+### 例 437：面部美学分析报告
+
+![面部美学分析报告](../data/images/case437.jpg)
+
+**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
+
+**提示词：**
+
+```text
+Create a clean, minimal, luxury-style facial aesthetics analysis report based on the uploaded portrait photo.
+Design style:
+Ultra-modern black and white interface, premium editorial aesthetic, thin elegant divider lines, soft rounded cards, subtle shadows, spacious layout, luxury skincare / fashion magazine vibe, monochrome palette, Apple-style UI refinement.
+Include:
+– A simple contour line-art drawing of the face based on the subject
+– Facial symmetry analysis
+– Face shape identification
+– Proportional analysis (eyes, nose, jawline, lips, forehead)
+– Skin texture observations
+– Hairstyle compatibility suggestions
+– Grooming and fashion recommendations
+– Honest attractiveness evaluation with balanced critique
+– Strengths and weaker facial areas explained objectively
+– Actionable glow-up recommendations
+– Confidence score and facial harmony score shown with elegant charts or meters
+Style notes:
+Keep the report data-driven, visually refined, realistic, and not overly flattering.
+Avoid exaggerated praise.
+Use clean typography, premium spacing, modern infographics, subtle geometric accents, and professional cosmetic consultation aesthetics.
+Visual composition:
+Magazine-quality presentation, luxury beauty report dashboard, highly organized layout, cinematic monochrome feel, minimalist infographic design, realistic facial structure interpretation, modern masculine beauty analytics.
+Rendering:
+Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated editorial presentation, high-end branding aesthetic, 4K quality.
+```
+
+***
+
+<a name="case-438"></a>
+
+### 例 438：珠宝微缩城市广告海报
+
+![珠宝微缩城市广告海报](../data/images/case438.jpg)
+
+**来源：** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
+
+**提示词：**
+
+```text
+Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
+```
+
+***
+
+<a name="case-439"></a>
+
+### 例 439：赛博黑客角色设定表
+
+![赛博黑客角色设定表](../data/images/case439.jpg)
+
+**来源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
+
+**提示词：**
+
+```text
+Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker girl named “NEO // RIN”, full body turnaround (front, side, back) plus close-up portrait and accessory callouts. Short silver-white bob haircut with neon cyan and magenta gradient streaks, glowing translucent cyber visor over one eye, pale skin, sharp violet eyes, calm confident expression. Oversized techwear jacket with black tactical cargo pants, belts, straps, dangling utility tags, cropped top, futuristic sneakers, holographic accessories, barcode decals, warning symbols, “BYTE//NULL” typography, hacker aesthetic.
+Color palette: matte black, dark gray, white, neon cyan, neon pink.
+Style inspired by high-end Japanese concept art, futuristic streetwear, cyberpunk fashion, Akira + Ghost in the Shell + modern anime key visual aesthetics.
+Include clean character reference sheet layout with labeled details, logo designs, UI graphics, gadget closeups, and color palette on white background.
+Highly polished cel shading, crisp lineart, soft glow effects, intricate clothing folds, layered accessories, dynamic fashion silhouette, professional game concept art quality, 4k, ultra detailed.
+```
+
+***
+
+<a name="case-440"></a>
+
+### 例 440：手机拍摄 FaceTime 工作屏幕
+
+![手机拍摄 FaceTime 工作屏幕](../data/images/case440.jpg)
+
+**来源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+
+**提示词：**
+
+```text
+Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
+```
+
+***
+
+<a name="case-441"></a>
+
+### 例 441：WILDCAMP 巨型帐篷广告海报
+
+![WILDCAMP 巨型帐篷广告海报](../data/images/case441.jpg)
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
+
+**提示词：**
+
+```text
+An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
+```
+
+***
+
+<a name="case-442"></a>
+
+### 例 442：舒适发廊插画
+
+![舒适发廊插画](../data/images/case442.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
+
+**提示词：**
+
+```text
+A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.
+```
+
+***
+
+<a name="case-443"></a>
+
+### 例 443：塔可爆炸拆解信息图
+
+![塔可爆炸拆解信息图](../data/images/case443.jpg)
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
+
+**提示词：**
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of tacos.
+
+Top → Bottom structure:
+Fresh Lettuce (crisp green texture with natural folds)
+→ Tomato & Salsa Layer (juicy diced tomatoes and salsa mix)
+→ Melted Cheese (smooth cheddar texture)
+→ Grilled Meat Filling (juicy seasoned meat detail)
+→ Taco Shell Base (crispy golden shell texture)
+Perfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element.
+
+Add clean infographic text labels with thin pointer lines using these exact labels:
+“Lettuce”
+“Salsa”
+“Cheese”
+“Meat”
+“Shell”
+Ultra-detailed food textures, premium commercial aesthetic, 8K.
+```
+
+***
+
+<a name="case-444"></a>
+
+### 例 444：迪斯科镜面 3D App 图标
+
+![迪斯科镜面 3D App 图标](../data/images/case444.jpg)
+
+**来源：** [@vista8](https://x.com/vista8/status/2056308962778296715)
+
+**提示词：**
+
+```text
+为【品牌名】生成一个高级 3D App 图标，圆角方形底板，玻璃与金属铬材质，迪斯科球镜面马赛克小方块质感，闪亮高光，柔和工作室灯光，干净极简背景，高端产品图标风格，Blender 3D 渲染，超精细
+
+英文版：
+
+A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass and chrome material, disco-ball mosaic mirror tiles, sparkling highlights, soft studio lighting, clean minimal background, high-end icon, Blender 3D render, ultra detailed
+```
+
+***
+
+<a name="case-445"></a>
+
+### 例 445：旅游照水墨明信片
+
+![旅游照水墨明信片](../data/images/case445.jpg)
+
+**来源：** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
+
+**提示词：**
+
+```text
+Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
+```
+
+***
+
+<a name="case-446"></a>
+
+### 例 446：低多边形纸艺男士肖像
+
+![低多边形纸艺男士肖像](../data/images/case446.jpg)
+
+**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
+
+**提示词：**
+
+```text
+Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
+```
+
+***
+
+<a name="case-447"></a>
+
+### 例 447：现代地铁工程信息图
+
+![现代地铁工程信息图](../data/images/case447.jpg)
+
+**来源：** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
+
+**提示词：**
+
+```text
+Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays
+• Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting
+• Refined editorial typography hierarchy with modern transportation aesthetics
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal transit-system iconography
+• Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station
+• Thin precision annotation lines pointing toward transportation systems and smart engineering features
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.
+
+Surround the metro with scientific and engineering callouts explaining:
+
+• regenerative braking system
+• smart signalling & CBTC control
+• electric propulsion system
+• passenger information systems
+• safety and surveillance technology
+• platform screen doors
+• energy-efficient design
+• smart ventilation systems
+• accessibility features
+• track and infrastructure engineering
+
+Include modular infographic sections such as:
+
+• Metro System Overview
+• Technical Specifications
+• Train Dimensions & Layout
+• Passenger Capacity & Flow
+• Smart Control Systems
+• Sustainability Features
+• Track & Infrastructure Engineering
+• Signalling & Automation
+• Station Design & Facilities
+• Safety & Emergency Systems
+• Passenger Experience Features
+• Urban Connectivity & Network Map
+• Energy Efficiency Comparison
+• Construction & Expansion Timeline
+• “Top 5 Smart Innovations” section
+• Built for Future Smart Cities
+
+Add small premium visualization modules like:
+
+• metro network maps
+• train blueprint diagrams
+• station layout graphics
+• passenger flow visualizations
+• signalling workflow diagrams
+• energy-efficiency comparison charts
+• train configuration illustrations
+• smart-city connectivity graphics
+• platform safety diagrams
+• infrastructure cross-section visuals
+
+Style Keywords:
+
+“premium urban mobility encyclopedia”
+“editorial metro engineering handbook”
+“high-end transportation infographic”
+“scientific railway infrastructure poster”
+“museum-quality transit reference page”
+“modular smart-city knowledge system”
+“clean transportation editorial design”
+“ultra-detailed metro visualization”
+
+Avoid:
+
+• cluttered public advertisement aesthetics
+• cartoon transportation styling
+• unrealistic sci-fi levitating trains
+• excessive cyberpunk neon overload
+• chaotic city scenes
+• generic subway poster layouts
+
+The final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.
+```
+
+***
+
+<a name="case-448"></a>
+
+### 例 448：1942 空战街机电影城
+
+![1942 空战街机电影城](../data/images/case448.jpg)
+
+**来源：** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
+
+**提示词：**
+
+```text
+Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
+
+Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead
+
+✈️ 1942 CITY WORLDBUILDING
+
+entire city functions like a living 1942 arcade shooter universe
+• massive WWII fighter planes dogfighting above skyscrapers
+• giant anti-aircraft cannons mounted across rooftops
+• endless bullet patterns streaking through cloudy skies
+• retro military airfields integrated into urban districts
+• giant “MISSION START” alerts projected into the clouds
+• dramatic explosion trails lighting the skyline at night
+• aircraft carriers docked beside futuristic city ports
+• glowing power-up icons floating through aerial battle zones
+• giant radar systems rotating above downtown towers
+• endless enemy squadrons emerging from storm clouds
+• cinematic ocean-and-warzone environments surrounding the metropolis
+
+😂 COMEDIC DETAILS
+
+• random civilians casually dodging fighter planes on the way to work 😭
+• one pilot barrel-rolling dramatically for absolutely no reason
+• giant billboard flashing: “PLAYER 1 READY.”
+• pedestrians treating near-miss explosions like normal traffic
+• somebody still trying to collect every floating power-up midair
+• random mechanic repairing planes using pure confidence
+• one legendary pilot surviving impossible situations through arcade logic alone
+
+💡 LIGHTING & STYLE
+
+retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality
+
+🎥 CAMERA
+
+cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
+```
+
+***
+
+<a name="case-449"></a>
+
+### 例 449：奢华机械腕表技术图鉴
+
+![奢华机械腕表技术图鉴](../data/images/case449.jpg)
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
+
+**提示词：**
+
+```text
+2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
+
+class Haute_Horlogerie_DNA:
+    def __init__(self):
+        self.subject = "[TIMEPIECE]"
+        self.parents = {
+            "composition_parent": "Exploded movement diagram with transparent case",
+            "material_parent": "Brushed titanium, sapphire crystal, rose gold gears, alligator leather",
+            "graphic_parent": "Swiss manufacture technical brochure with elegant data panels",
+            "atmosphere_parent": "Crisp daylight studio, pure white background, subtle reflection on polished surfaces"
+        }
+        self.mutations = {
+            "semantic_mutation": "The balance wheel reveals a miniature cosmos ticking inside",
+            "information_mutation": "Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline",
+            "medium_mutation": "Smooth matte premium paper with embossed logo",
+            "scale_mutation": "Grain-level view of Côtes de Genève finishing and jewel bearings"
+        }
+        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]
+
+    def generate_subject(self):
+        subject = """
+        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,
+        and strap float in perfect alignment against a bright, clean background.
+        Every gear and spring is highlighted with exacting clarity.
+        """
+        return render(
+            subject,
+            format="luxury watch advertisement with technical insert",
+            title="[MODEL REFERENCE]",
+            subtitle="[MANUFACTURE / COLLECTION]",
+            constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
+        )
+```
+
+***
+
+<a name="case-450"></a>
+
+### 例 450：烛光侧室写实摄影
+
+![烛光侧室写实摄影](../data/images/case450.jpg)
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
+
+**提示词：**
+
+```text
+A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.
+
+East Asian young woman in her early 20s. Almond-shaped eyes receiving the candle's warm flicker — the irises briefly caught in light before returning to shadow. Straight refined nose, the bridge illuminated in a narrow warm stripe. Skin tone fair beige, warmed entirely by candlelight into something amber. Skin subsurface scattering visible under directional candlelight, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible.
+
+She wears an aged amber silk qipao with chrysanthemum embroidery in tones of old bronze and dusty ochre — the amber pigment identical in temperature to the candle's own light, the embroidery appearing and disappearing depending on angle. Mandarin collar, short sleeves. She stands facing the candle without looking at it, arms at her sides, very still. The room is otherwise empty. Two or three stray hairs displaced by faint air movement, natural unplanned imperfection, not geometrically symmetrical.
+
+Single candle — warm amber-orange, directional and fragile. It carves the left side of her face from darkness, leaves the right in near-black shadow. The amber qipao and the candlelight share a single temperature register: the room folds her into the light. Deep chiaroscuro with no artificial fill. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 9:16. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+***
+
+<a name="case-451"></a>
+
+### 例 451：韩国海滩日落时尚人像
+
+![韩国海滩日落时尚人像](../data/images/case451.jpg)
+
+**来源：** [@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
+
+**提示词：**
+
+```text
+一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。
+```
+
+***
+
+<a name="case-452"></a>
+
+### 例 452：极简童话手绘儿童插画
+
+![极简童话手绘儿童插画](../data/images/case452.jpg)
+
+**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
+
+**提示词：**
+
+```text
+Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.
+
+Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.
+```
+
+***
+
+<a name="case-453"></a>
+
+### 例 453：企业级商用画册视觉系统
+
+![企业级商用画册视觉系统](../data/images/case453.jpg)
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
+
+**提示词：**
+
+```text
+请生成一套企业级商用画册视觉方案，主题为【品牌名称】的【行业 / 产品 / 解决方案】宣传画册。
+
+整体风格：高端、专业、具有强视觉冲击力；避免传统 Word 排版感和普通 PPT 感。采用【深色科技美学 / 白色极简商务 / 高端工业风 / 艺术化品牌画册】风格。
+
+画册内容包括：
+1、封面与封底
+2、企业介绍与品牌理念
+3、核心产品与技术优势
+4、应用场景与解决方案
+5、客户案例与合作方式
+6、全册系统预览图
+
+要求：
+版式要有设计感，图片、标题、数据、图标、留白和层级关系清晰；保持整套画册统一的品牌视觉系统；重点体现真实商业物料的完成度，避免简单文字排版。
+
+结构规划：
+1、封面 / 封底：建立品牌门面、行业气质和整体视觉调性。
+2、企业介绍页：说明公司定位、能力边界和服务对象。
+3、产品技术页：展示核心产品、技术优势和解决方案。
+4、应用场景页：让用户看到产品能用在哪些行业。
+5、案例 / 合作页：补充可信度和商业转化信息。
+6、全册系统预览：验证风格统一性和整本画册的系统感。
+
+如果已有企业资料，可以上传旧版企业画册、公司介绍文档、产品说明书、官网内容、PPT 提案、产品图片或案例图片，让 ChatGPT 完成三件事：
+1、重新梳理内容结构，判断哪些内容适合做封面、企业介绍、产品页、案例页和合作页。
+2、提炼画册主线，避免只堆资料，需要形成清晰的商业叙事。
+3、统一视觉方向，让整本画册看起来像同一个品牌系统，避免不同页面拼贴感。
+
+避坑：
+1、避免一上来只说“生成一本画册”，否则容易变成模板图。
+2、避免只堆文字，画册一定要有产品视觉、场景图、数据模块和设计层级。
+3、避免只生成单页，最好补一张全册预览图，才能体现完整系统感。
+```
+
+***
+
+<a name="case-454"></a>
+
+### 例 454：旅行美食薯片广告海报
+
+![旅行美食薯片广告海报](../data/images/case454.jpg)
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
+
+**提示词：**
+
+```text
+Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
+
+A cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].
+
+Floating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.
+
+Include only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:
+- taking photos
+- exploring landmarks
+- sitting on floating chips
+- riding local transport
+- observing scenery
+- walking through the swirl paths
+
+Include authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].
+
+Background should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.
+
+Elegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.
+
+Composition rules:
+- one dominant centered chips packet
+- floating ridged potato chips throughout composition
+- one continuous upward spiral motion
+- landmarks layered vertically
+- miniature people sparse and intentional
+- no duplicate landmarks
+- no overcrowding
+- clean premium hierarchy
+- cinematic storytelling through scale contrast
+- premium advertising composition matching high-end chips commercials
+```
+
+***
+
+<a name="case-455"></a>
+
+### 例 455：巨型舒适洞洞鞋 Campaign
+
+![巨型舒适洞洞鞋 Campaign](../data/images/case455.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
+
+**提示词：**
+
+```text
+Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.
+
+Backdrop: clean gradient flowing from soft sky blue into subtle lavender, with massive bold sans-serif typography reading "STEP INTO EASE" stretched vertically, partially tucked behind the subject.
+
+Lighting: high-end studio lighting, soft highlights, gentle floor reflections, and a subtle rim light tracing the model and the product for depth.
+
+Composition: editorial magazine layout, subject perfectly centered, generous negative space, luxury campaign mood.
+
+Small minimal copy at the bottom: "Designed for all-day comfort. Made to move with you."
+
+Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.
+```
+
+***
+
+<a name="case-456"></a>
+
+### 例 456：历史事件 2x2 可视化地图
+
+![历史事件 2x2 可视化地图](../data/images/case456.jpg)
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
+
+**提示词：**
+
+```text
+2x2 grid, 16:9, do this for 4 famous historical events:
+
+Render_Target =
+  ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )
+  + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )
+  + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 )
+  + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )
+  - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )
+  - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )
+  - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
+```
+
+***
+
+<a name="case-457"></a>
+
+### 例 457：运动轨迹舞者光绘海报
+
+![运动轨迹舞者光绘海报](../data/images/case457.jpg)
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
+
+**提示词：**
+
+```text
+<instructions>
+input = 3 legendary dancer/choreographer
+input = ai inferred signature movement sequence
+
+function render_kinesphere ($ dancer, $ movement)
+  anchor:
+    [figure composed entirely of motion trails] :: [the $ movement sequence traced as continuous luminous bands that coalesce into a portrait of $ dancer]::5
+
+  morphology:
+    the arabesque trails weave the skull, a grand jeté arc forms the cheekbone, the arms' sweep creates the jaw, stillness is implied by negative spaces::4
+
+  material physics:
+    blackened silver gelatin print, faint chemical residue, slight motion blur, glowing filament traces like a Marey wheel photograph::3
+
+  illumination:
+    complete darkness with bioluminescent-like light trails, no external light sources, high contrast::2
+
+  render stack:
+    chronophotography, fine art dance study, 8k, kinetic sculpture concept::1
+
+  negative:
+    [still body parts, studio lights, solid silhouettes]::-1
+</instructions>
+```
+
+***
+
+<a name="case-458"></a>
+
+### 例 458：巴黎秋季时装插画
+
+![巴黎秋季时装插画](../data/images/case458.jpg)
+
+**来源：** [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
+
+**提示词：**
+
+```text
+Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
+```
+
+***
+
+<a name="case-459"></a>
+
+### 例 459：品牌奶茶 KV 概念海报
+
+![品牌奶茶 KV 概念海报](../data/images/case459.jpg)
+
+**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [提示词回复](https://x.com/liyue_ai/status/2057739894261518670)
+
+**提示词：**
+
+```text
+你是一个品牌视觉识别系统、商业广告创意总监、KV海报设计师和高传播品牌视觉生成系统。
+
+请根据用户输入的【现有品牌名称】，自动识别该品牌最具代表性的品牌Logo形象、品牌名称文字识别特征、主推产品、产品包装、品牌色彩、视觉调性、目标人群和广告传播风格，并生成一张符合该品牌气质的概念 KV 海报。
+
+创作定位：
+- 基于真实品牌认知进行二次创作的品牌概念 KV 海报
+- Brand-inspired Concept Key Visual
+- 用于个人学习、视觉练习与社交平台展示
+
+不需要绝对严苛的一比一官方复刻，但必须做到：
+
+品牌识别度高；
+品牌Logo风格明显；
+品牌代表产品明显；
+品牌调性准确；
+整体像该品牌会出现的视觉广告。
+
+────────────────
+一、用户输入
+────────────────
+
+品牌名称：{品牌名称}
+
+主推产品：{可选，不填则自动识别该品牌最具代表性的产品}
+广告语：{可选，不填则根据品牌调性自动生成原创广告语}
+目标人群：{可选，不填则自动判断}
+画幅比例：{9:16 / 16:9 / 4:5 / 1:1 / 2.35:1}
+KV类型：{产品英雄KV / 品牌情绪KV / 强口号传播KV / 人物场景KV / 超现实概念KV / 自动选择}
+平台用途：{小红书 / X / 公众号封面 / 视觉练习 / 概念提案}
+
+────────────────
+二、自动识别逻辑
+────────────────
+
+请根据品牌名称自动完成以下识别，不需要在画面中展示分析过程：
+
+1. 自动识别该品牌所属行业
+例如：
+科技、运动、美妆、奢侈品、汽车、饮品、咖啡、服饰、潮流、护肤、珠宝、生活方式、数码、家居等。
+
+2. 自动识别该品牌最具代表性的视觉资产
+包括：
+品牌Logo形象
+品牌名称文字风格
+主色调与辅助色
+最具代表性的产品
+包装外观特征
+品牌常见广告风格
+品牌场景气质
+品牌材质感与光影方式
+
+3. 自动识别该品牌的目标人群
+例如：
+年轻潮流人群、都市白领、精致女性、运动人群、科技用户、高端消费人群、Z世代、商务人群等。
+
+4. 自动识别该品牌的广告语气质
+例如：
+极简高级、年轻活力、热血冲击、奢华克制、温柔浪漫、科技理性、时尚先锋、生活方式化等。
+
+────────────────
+三、Logo与产品识别规则
+────────────────
+
+本次任务允许 AI 根据品牌名称自动识别品牌视觉资产，不需要用户必须上传 Logo 或产品图。
+
+请遵守以下原则：
+
+1. 品牌Logo
+- 画面中需要有明显的品牌标识
+- Logo 或品牌名称文字要具有较高识别度
+- 不必追求百分之百精确复刻，但必须让人一眼联想到该品牌
+- 不要生成完全陌生、无关、错误感很强的标识
+- 不要让品牌名称出现明显错字、乱码或胡乱变形
+
+2. 品牌产品
+- 自动选择该品牌最具代表性的主推产品或经典产品作为主视觉
+- 产品外观、包装、色彩和气质应接近大众对该品牌的常见认知
+- 不需要绝对严格到工业级复刻
+- 但要保证“像这个品牌的真实代表产品”，避免完全陌生的产品
+
+3. 品牌包装与材质
+- 自动识别该品牌常见包装与材质语言
+- 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等
+- 产品必须具有真实商业视觉质感
+
+────────────────
+四、KV创意方向
+────────────────
+
+请根据品牌属性自动选择最合适的 KV 创意方式。
+
+如果是科技品牌：
+使用极简、未来感、真实产品质感、冷静留白、克制光影、干净空间。
+
+如果是运动品牌：
+使用速度感、力量感、身体动势、汗水、冲刺、突破、强烈口号感。
+
+如果是美妆品牌：
+使用柔光、精致产品、肌肤质感、女性气质、色彩情绪、时尚大片感。
+
+如果是奢侈品牌：
+使用高级材质、留白、低饱和色调、秩序构图、稀缺感、时尚大片感。
+
+如果是饮品品牌：
+使用冰爽、液体、气泡、年轻感、快乐氛围、色彩冲击、清爽材质。
+
+如果是咖啡品牌：
+使用温度、城市生活、松弛氛围、绿色或木质感、晨间陪伴感。
+
+如果是汽车品牌：
+使用道路、速度、未来空间、金属质感、城市夜景、驾驶欲望。
+
+如果是潮流品牌：
+使用街头、反叛、年轻、图形感、视觉冲击和社交传播感。
+
+────────────────
+五、广告语规则
+────────────────
+
+如果用户没有输入广告语，请根据品牌调性自动生成一句原创广告语。
+
+要求：
+
+- 广告语不能太长
+- 要有品牌感和传播感
+- 不使用官方原广告语
+- 不需要像正式企业公告
+- 更像概念广告的主标语
+
+中文广告语建议：
+4到12个字
+
+英文广告语建议：
+2到6个单词
+
+广告语风格要与品牌匹配，例如：
+
+科技品牌：
+更少干扰，更近未来
+
+运动品牌：
+把极限踩在脚下
+
+美妆品牌：
+光泽，自成主张
+
+奢侈品牌：
+优雅，从不喧哗
+
+饮品品牌：
+这一口，刚好上头
+
+咖啡品牌：
+唤醒城市的温度
+
+汽车品牌：
+驶向更远的秩序
+
+────────────────
+六、画面结构要求
+────────────────
+
+整张图必须具备真实品牌 KV 的基本结构：
+
+1. 品牌标识区
+品牌Logo或品牌名称需要清晰可见，位置合理。
+
+2. 产品主视觉区
+品牌代表产品必须明显，是画面核心之一。
+
+3. 广告语区
+广告语清晰可读，具备传播记忆点。
+
+4. 品牌氛围区
+背景、光影、材质、空间和色彩必须符合品牌调性。
+
+5. 信息层级区
+画面层级建议为：
+品牌标识
+产品主体
+广告语
+少量辅助文字
+
+文字不要太多，不要做成密密麻麻的海报。
+
+────────────────
+七、风格要求
+────────────────
+
+整体视觉必须具备：
+
+高识别度品牌感
+高级商业广告质感
+清晰品牌标识
+明显品牌产品
+强主视觉
+强广告语
+干净排版
+适合社交平台传播
+适合小红书和X展示
+具有“像某知名品牌概念广告”的完成度
+
+允许适度创意发挥，但品牌核心识别不能丢失。
+
+────────────────
+八、画幅适配
+────────────────
+
+如果是 9:16：
+适合竖版社交海报，产品更聚焦，广告语放中上区域，适合手机浏览。
+
+如果是 16:9：
+适合横版品牌KV、封面、头图，产品与广告语形成左右平衡。
+
+如果是 4:5：
+适合社交平台信息流，主体更近，品牌识别更集中。
+
+如果是 2.35:1：
+适合公众号封面或宽幅视觉，适合大字广告语和强冲击横版构图。
+
+如果是 1:1：
+适合方形封面与品牌视觉展示。
+
+────────────────
+九、负面限制
+────────────────
+
+不要生成明显错误的品牌名称。
+不要生成过于离谱的Logo变形。
+不要生成与品牌无关的产品。
+不要生成廉价拼贴感。
+不要生成过多小字。
+不要生成杂乱无章的背景。
+不要生成山寨感很强的画面。
+不要生成像促销海报一样的低级电商视觉。
+不要出现二维码、购买链接、价格标签、活动说明。
+不要让整体画面失去品牌调性。
+
+────────────────
+十、最终目标
+────────────────
+
+请生成一张基于真实品牌认知自动识别完成的品牌概念 KV 海报。
+
+要求：
+无需用户上传 Logo 和产品素材；
+由AI自动识别该品牌最具代表性的Logo形象与代表产品；
+不要求绝对严格复刻；
+但必须保持高识别度、高品牌感、高完成度；
+整体像一张高级品牌概念广告海报；
+适合个人学习、视觉练习和社交平台展示。
+
+————
+品牌名称：{蜜雪冰城}
+主推产品：{奶茶}
+广告语：{可选，如果用户不输入，则根据品牌调性自动生成一句高传播感广告语}
+目标人群：{年轻潮流人群}
+画幅比例：{9:16}
+KV类型：{产品英雄KV}
+平台用途：{小红书}
+```
+
+***
+
+<a name="case-460"></a>
+
+### 例 460：棋盘低角度奢华男装 Campaign
+
+![棋盘低角度奢华男装 Campaign](../data/images/case460.jpg)
+
+**来源：** [@harboriis](https://x.com/harboriis/status/2058414859658956888)
+
+**提示词：**
+
+```text
+Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle perspective across a glossy chessboard table. A stylish young male model with sharp facial features, textured curly hair, wearing thin luxury glasses and a fitted sleeveless knitted brown vest, leaning forward in a confident pose. One hand extended toward the camera holding a large white king chess piece in forced perspective, dominating the foreground. Tattooed arms visible, intense confident facial expression, direct eye contact. Elegant vintage royal interior background with dark paneled walls, warm chandelier wall lights, cinematic amber lighting, moody shadows, luxury editorial atmosphere. Chess pieces scattered on the board in foreground and background for depth. High contrast premium fashion advertising style, ultra-detailed skin texture, sharp focus on face and chess piece, shallow depth of field, glossy reflections on chessboard, dramatic commercial campaign photography, luxury menswear brand aesthetic. Bold typography at bottom saying “DRESSED TO DOMINATE”, premium poster layout, cinematic color grading, high-end fashion ad, editorial magazine quality, 4:5 aspect ratio.
+```
+
+***
+
+<a name="case-461"></a>
+
+### 例 461：家庭旅行纸雕拼贴
+
+![家庭旅行纸雕拼贴](../data/images/case461.jpg)
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
+
+**提示词：**
+
+```text
+Adorable kawaii family travel collage, combining four different scenes in one composition, cute anime-inspired parents, friends and children taking selfies and exploring together, handcrafted paper-cut diorama style, layered cardboard and felt textures, miniature world aesthetic, cozy pastel color palette, soft cinematic lighting, playful vacation atmosphere, urban city station scene, shopping mall selfie corner, outdoor nature park, and crowded playground blended into one seamless scrapbook-style artwork, charming sticker-like white outlines around characters, tiny tourists and pedestrians in background, whimsical handcrafted textures, soft depth of field, highly detailed paper craft illustration, warm nostalgic mood, cute casual outfits with glasses, caps, bags and sandals, dreamy Instagram kawaii aesthetic, storybook composition, ultra detailed miniature environment, 3D layered paper art, tilt-shift effect, cozy wholesome family travel vibes, premium handcrafted look, high detail, 8k, vertical composition
+```
+
+***
+
+<a name="case-462"></a>
+
+### 例 462：复古日系迷你橡皮商品包装
+
+![复古日系迷你橡皮商品包装](../data/images/case462.jpg)
+
+**来源：** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
+
+**提示词：**
+
+```text
+添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。
+
+■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品写真を作成する。
+
+■コンセプト： 「100円ショップや文房具店で売られている袋入りちび消しゴム商品」
+
+■消しゴム本体： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形状 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成
+
+■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、静電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ
+
+■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黄色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ装飾
+
+■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな会社名（架空） - MADE IN JAPAN or CHINA表記
+
+■構図： - パッケージがメインで画面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ
+
+■レア要素： - 蛍光カラーやグラデーションの特別個体を1つ混ぜる - 視線誘導として目立つ位置に配置
+
+■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品写真のような清潔感
+
+■カメラ： - マクロ寄り - 浅い被写界深度 - 中央シャープ
+
+■背景： - 白〜パステルのテーブル - ほんのりドットやポップ柄 - シンプルで清潔
+
+■禁止： - プラスチック感 - glossy表現 - 高級すぎる質感（安っぽさが正解） - 完璧すぎる印刷
+
+■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度
+```
+
+***
+
+<a name="case-463"></a>
+
+### 例 463：黑色吊带袜单款图鉴展示
+
+![黑色吊带袜单款图鉴展示](../data/images/case463.jpg)
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [提示词回复](https://x.com/MrLarus/status/2058175145328394441)
+
+**提示词：**
+
+```text
+《黑色丝袜图鉴款式单图》提示词：
+
+请基于同一套「黑色丝袜 / 吊带袜图鉴」系列风格，继续生成 8 张对应单款的独立展示图。
+
+【系列要求】
+- 这些图片必须和已完成的总览图鉴属于同一个系列
+- 整体版式、字体、色调、背景、质感、排版逻辑保持一致
+- 都是竖版、高完成度、暖白 / 浅灰白背景、轻奢女性向时尚图鉴风格
+- 每一张都像同一个品牌或同一套视觉系统下的延展页面
+
+【每张单图的共同结构】
+1. 顶部标题区
+- 英文系列标题：BLACK GARTER GUIDE
+- 中文主标题：黑色丝袜 / 吊带袜单款展示
+- 当前款式名称：__________
+- 一句简短副标题：突出该款式的核心特点
+
+2. 中部主体区
+- 以 1 位成人女性模特穿戴展示为主
+- 重点展示对应款式的关键细节：
+  - 经典蕾丝款：袜口蕾丝、优雅氛围
+  - 细网眼款：网格纹理、轻盈通透
+  - 波点款：波点图案、复古俏皮
+  - 后缝线款：背后缝线、线条感
+  - 竖条纹款：纵向条纹、修饰腿型
+  - 交叉绑带款：绑带结构、设计感
+  - 极简透肤款：透明感、基础百搭
+  - 花纹蕾丝款：花纹装饰、浪漫氛围
+- 每张图的人物长相、发型、姿势、镜头角度要不同，但都要保持高级、真实、性感、写实
+- 允许使用站姿、坐姿、交叉腿、倚靠、回眸等不同姿势
+- 画面要有立体感、阴影层次和高级编辑感
+
+3. 注释区
+- 每张图都要保留 3 到 5 条手绘式标注
+- 可以使用箭头、短线、圈注、手写风标签
+- 标注内容要围绕该款式最关键的细节，比如：
+  - 袜口结构
+  - 花纹纹理
+  - 透明度
+  - 缝线位置
+  - 绑带方式
+  - 腿部线条效果
+- 标注文字简洁、清楚、统一风格
+
+4. 底部信息区
+- 加入简短的 “Style Notes / 风格速记”
+- 用 1 到 2 句说明该款适合的场景和氛围
+- 保持简洁，不要抢主体
+
+【统一视觉要求】
+- 保持和总览图鉴完全统一的整体视觉系统
+- 背景统一为暖白、浅灰白或奶白
+- 风格统一为高级、干净、时尚图鉴感、轻奢女性视觉
+- 模特必须真实、立体、写实、自然肤质
+- 每张图都要突出产品，不要低俗，不要过度情色化
+- 每张图都应像同一系列里的不同章节，避免呈现为彼此割裂的作品
+
+【款式列表】
+1. 经典蕾丝款 / Classic Lace
+2. 细网眼款 / Fine Fishnet
+3. 波点款 / Dot Sheer
+4. 后缝线款 / Back Seam
+5. 竖条纹款 / Stripe Sheer
+6. 交叉绑带款 / Cross Strap
+7. 极简透肤款 / Minimal Sheer
+8. 花纹蕾丝袜 / Floral Lace
+
+【输出目标】
+按以上 8 个款式，分别生成 8 张独立展示图。
+要求每张都保留统一系列感，同时人物造型、发型、姿势和镜头语言明显不同，确保整套看起来完整、专业、可收藏。
+```
+
+***
+
+<a name="case-464"></a>
+
+### 例 464：高雄水彩拼贴旅行海报
+
+![高雄水彩拼贴旅行海报](../data/images/case464.jpg)
+
+**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
+
+**提示词：**
+
+```text
+Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette.
+
+Scene: Waterfront promenade at sunset with a modern light rail tram on the right, a person walking a bicycle on the left, and people strolling along the path. In the background: Kaohsiung skyline with the 85 Sky Tower and other skyscrapers, a harbor with a ferry boat, port cranes, and the Pier-2 Art Center building with murals. Seagulls flying in the sky, trees lining the walkway, calm water reflecting the light.
+
+Design elements:
+- Large text top left: 'KAO HSIUNG 2026', smaller text below 'Sea Breeze Slow Light Southern City'
+- Top right: Vertical Chinese characters, 'KAOHSIUNG TAIWAN' in small caps below
+- Bottom left: Coordinates '22.6273° N 120.3014° E', 'KAOHSIUNG TAIWAN', wave icon
+- Bottom center: Handwritten script 'Kaohsiung'
+- Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Chinese text
+- Overlay effects: Semi-transparent geometric shapes, watercolor splashes, and texture layers in teal and beige
+
+Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.
+```
+
+***
+
+<a name="case-465"></a>
+
+### 例 465：逆光美背女性情绪写真
+
+![逆光美背女性情绪写真](../data/images/case465.jpg)
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [提示词回复](https://x.com/MrLarus/status/2058132915150639425)
+
+**提示词：**
+
+```text
+逆光美背女性情绪写真提示词：
+
+请生成一张竖版高质感女性情绪写真，主题为「逆光美背·女性情绪写真」。
+
+核心要求：
+画面的绝对重点是“美背”，通过露背结构、肩颈线条、肩胛骨、脊柱中线、腰背曲线和逆光轮廓来呈现女性美。请避免普通女性写真或普通穿搭图的处理方式，背部必须是主视觉核心，脸只作为辅助。
+
+人物设定：
+成年女性，真实自然，气质可为温柔、清冷、慵懒、文艺、轻熟或安静。人物不要网红脸，不要塑料感，不要夸张妆容。可侧脸、回眸、低头或闭眼，但正脸不是重点。
+
+姿态要求：
+姿态必须服务于背部展示，例如背对镜头微微回头、侧身站立、侧坐、抬手整理头发、低头蜷身、斜倚窗边、半躺回眸、披衣下滑等。动作自然，不要僵硬摆拍，不要正面直视镜头。
+
+露背结构：
+必须有明确的露背设计，可为低背长裙、吊带裙、露背礼服、针织外套滑落、薄纱披肩、浴袍半披、宽松衬衫滑肩、丝质罩衫半落等。重点表现肩线、肩胛骨、背中线、腰背收束和布料与肌肤之间的高级过渡。
+
+服装与材质：
+服装选择轻柔、垂坠、带有透光感和褶皱感的材质，如薄纱、真丝、针织、棉麻、细闪纱、浴袍质地、软垂感长裙。布料要参与构图，形成半遮半露、滑落、包裹、垂挂的层次，但不能厚重。
+
+场景：
+场景为卧室、窗边、床上、白墙房间、民宿、酒店房间、木质空间或复古公寓。背景简洁克制，少量床品、窗帘、木椅、花束、地板等元素即可，不能喧宾夺主。
+
+光线要求：
+采用自然光或柔和暖光，以逆光、侧逆光、窗边光为主。重点是让光打到背部，勾出肩颈边缘、肩胛骨轮廓、腰线和发丝高光。可使用晨光、黄昏金光、柔雾散射光或冷白窗光，但背部受光状态必须成立。
+
+构图：
+竖版构图，画幅可为 9:16、3:4 或 4:5。人物是绝对主角，视觉重心放在背部、肩颈和腰背曲线上。可采用半身、七分身、近景或全身，但不要让场景抢走主体。
+
+氛围：
+整体氛围安静、柔软、私密、克制、高级，像真实摄影师拍摄的电影感情绪写真。重点避免直白性感，改用“美背 + 逆光 + 柔软布料 + 自然姿态”表达女性美。
+
+画质要求：
+真实摄影感、电影感、柔雾胶片感、细腻肤色、真实皮肤质感、浅景深、轻微颗粒感、画面通透自然。不要 AI 塑料感，不要 CG 感，不要错误手指，不要肢体畸形，不要低俗色情化表达，不要文字、水印、Logo、边框。
+
+最终效果：
+一张以“美背”为主视觉核心的高完成度女性情绪写真，通过露背结构、肩颈背部线条、柔光逆光和柔软布料来呈现克制而高级的女性美。
+```
+
+***
+
+<a name="case-466"></a>
+
+### 例 466：鱼市追猫 CCD 街拍
+
+![鱼市追猫 CCD 街拍](../data/images/case466.jpg)
+
+**来源：** [@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
+
+**提示词：**
+
+```text
+Use the uploaded reference image as the exact identity base for the main subject. Preserve their authentic facial structure, recognizable appearance, hairstyle, body proportions, skin texture, and overall identity with high consistency. Completely ignore any unrelated background from the original image.
+
+Create a hyper-chaotic early-2000s Japanese digicam snapshot aesthetic with raw paparazzi energy and accidental comedy.
+
+Scene: the subject is sprinting wildly through a busy city street while yelling and laughing in pure chaos, desperately trying to catch a mischievous cat that just stole a large shiny fish from a market stall. The cat is gripping the slippery silver fish tightly in its mouth while running directly toward the camera.
+
+Composition must prioritize TWO focal subjects:
+
+1. PRIMARY FOCUS → the cat's face
+2. SECONDARY FOCUS → the human subject's face
+
+The cat dominates the foreground frame with its face pushed absurdly close into the lens, partially cropped near the lower-right side. Massive fisheye distortion stretches its features dramatically - huge bulging eyes, exaggerated whiskers, detailed fur texture, fish flapping violently with droplets and motion streaks flying outward.
+
+Behind the cat, the subject is charging forward aggressively with intense energy, reaching toward the animal mid-run. Their expression is loud, chaotic, and comedic, eyes locked directly onto the cat to create strong interaction and pursuit tension.
+
+Styling:
+Randomized layered Y2K Tokyo streetwear inspired by chaotic Shibuya nightlife fashion - oversized zip hoodies, vintage mesh layers, mini bags, low-rise pieces, striped arm warmers, chunky accessories, early-2000s sneaker styling, messy fashionable youth aesthetic.
+
+Camera & framing:
+extreme low-angle fisheye lens, ultra-wide invasive perspective, severe Dutch angle, asymmetrical framing, warped spatial distortion, exaggerated depth compression, aggressive foreshortening.
+
+Motion treatment:
+insanely intense movement blur with radial streaking, shutter drag, CCD sensor smearing, directional speed trails, accidental camera shake, stretched highlights, warped moving objects, imperfect chaotic snapshot timing.
+
+Environment:
+sunny crowded urban street with pigeons exploding into flight across the frame, scattered newspapers and debris flying through the air, warped pedestrians, market elements smeared by motion, overexposed sunlight leaking into one corner of the frame.
+
+Lighting & texture:
+harsh direct flash combined with bright outdoor sunlight, dirty CCD digicam texture, blown highlights, chromatic aberration, digital noise, bloom artifacts, compressed early-2000s camera look, gritty nostalgic cyber-chaos atmosphere.
+
+Ultra-raw candid energy, messy composition, humorous accidental masterpiece aesthetic.
+```
+
+***
+
+<a name="case-467"></a>
+
+### 例 467：泳装杂志九宫格广告页
+
+![泳装杂志九宫格广告页](../data/images/case467.jpg)
+
+**来源：** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
+
+**提示词：**
+
+```text
+泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
+```
+
+***
+
+<a name="case-468"></a>
+
+### 例 468：霓虹涂鸦展会自拍
+
+![霓虹涂鸦展会自拍](../data/images/case468.jpg)
+
+**来源：** [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
+
+**提示词：**
+
+```text
+生成一张写实感合照，9:16构图，真实手机摄影质感。
+
+画面中是一位20岁成年东方女性模特，站在室内展会现场，靠近镜头自然拍照。人物妆造精致，五官清秀，皮肤清透，眼神自然看向镜头，整体气质甜美。
+
+人物姿态自然端正，身体略微前倾，肩颈柔和舒展，腰部自然收束，整体体态呈现成熟柔美的女性S型曲线。人物体态为成熟丰腴型，肩部圆润柔和，胸部饱满自然，腰线清晰但不过度纤细，臀腿曲线圆润匀称，大腿与手臂带有柔软健康的肉感，整体呈现温柔、甜美、丰腴、优雅的女性美。
+
+人物服装为“霓虹手绘线条构成的艺术涂鸦”，笔触故意粗糙随意，带明显蜡笔与 marker 手绘质感。画面中的 doodle graphics 形成若隐若现的视觉错觉感，突出身体线条和优美轮廓，让人物看起来像穿着由霓虹线条构成的 cosplay outfit，避免呈现为真实布料服装。整体偏日本互联网自拍文化中的 playful sticker aesthetic，避免直白裸露风格。
+
+人物发型为精致古风高马尾，搭配白色花朵头饰、水晶发簪、流苏耳饰、额间水晶装饰。妆容清透，带有淡粉色眼影、自然腮红和柔和唇色。
+
+场景为大型室内展会现场，背景有人群和展台但轻微虚化，顶部有真实展馆灯光。画面采用近景合照构图，人物面部和服装细节清晰，背景虚化自然，有真实手机自拍感。
+
+整体风格：写实、清透、明亮、梦幻。
+```
+
+***
+
+<a name="case-469"></a>
+
+### 例 469：导览式科普绘本
+
+![导览式科普绘本](../data/images/case469.jpg)
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [提示词回复](https://x.com/MrLarus/status/2058773784664920233)
+
+**提示词：**
+
+```text
+《导览式科普绘本》提示词：
+
+请根据【主题】创作一张高完成度的「导览式科普绘本」风格插画。
+
+这是一张结合“大型场景主视觉 + 导览路线 + 可爱导览 IP + 知识站点 + 儿童科普绘本质感”的场景导览式科普图解页。画面需要让观者像被带着参观一个复杂系统一样，边看边理解主题背后的运行逻辑、空间结构、流程关系和关键知识点。
+
+【基础设定】
+主题：【填写主题，例如发射场的一天 / 一个集装箱的旅行 / 地铁站里的秘密路线 / 下潜到深海的一小时 / 机场如何运转 / 医院急诊系统 / 智慧农场 / 消防站出警流程】
+画幅比例：【4:3 横版】
+主色调：【根据主题自动匹配，整体保持明亮、清爽、儿童友好】
+风格方向：【现代儿童科普绘本 / 场景导览式图解 / 高完成度数字插画】
+
+【核心表达】
+请围绕【主题】设计一个完整的大型场景或复杂系统。画面中必须有一个明确的主视觉场景，例如大型设施、交通系统、科技装备、自然探索场景、城市公共系统或生产流程。主体要足够清晰、有规模感、有细节，能够成为第一眼的视觉中心。
+
+画面要通过“导览路线”的方式组织信息，避免仅把场景做成静态陈列。请设计一条清晰的参观路线、流程路线、时间线或空间动线，让读者可以沿着路线一步步理解这个系统是如何运行的。
+
+【导览 IP 设计】
+请为本图设计一个原创、可爱、亲和的导览小 IP。导览 IP 可以是小动物、小朋友、拟人化工具或其他适合主题的原创形象，但必须具有独立原创性，不要照搬任何参考图中的角色、动物形象、服装、配色或搭档关系。
+
+导览 IP 的作用是：
+1. 开场介绍主题
+2. 指向关键知识点
+3. 引导读者顺着路线阅读
+4. 增加儿童绘本的陪伴感和趣味性
+
+导览 IP 可以在画面中出现 2-3 次，但不要过度抢主视觉。角色应圆润、可爱、有表情、有动作，适合儿童科普绘本。
+
+【信息结构】
+画面中请设置 3-6 个“知识站点”，每个站点用简短中文标签和短说明表达。站点命名可以采用：
+- 第1站｜xxx
+- 第2站｜xxx
+- 重点观察｜xxx
+- 小知识｜xxx
+- 为什么｜xxx
+- 如何工作｜xxx
+
+每个知识点都要围绕主题的核心运行逻辑展开，不要写空泛说明。文字要短、清楚、自然，避免长段落，适合儿童阅读。
+
+【画面模块】
+整张图建议包含以下模块：
+1. 顶部主标题区：清楚写出主题名称
+2. 开场导览区：导览 IP 引出主题
+3. 大型主场景区：展示主题系统的完整场景
+4. 导览路线区：用箭头、虚线、路径、时间节点或流程线串联知识点
+5. 知识站点区：用小信息框、导览牌、局部标注展示关键知识
+6. 小百科 / 小贴士区：补充一个有趣知识
+7. 收尾区：让导览 IP 做简短总结或引导
+
+【构图要求】
+画面采用 4:3 横版构图，整体像一本高质量儿童科普绘本的跨页，也像一张儿童科技馆导览图。画面需要有清晰的视觉重心：大型主场景占据主要空间，导览路线贯穿画面，知识模块自然分布在周围。信息丰富但不能杂乱，阅读路径要顺畅。
+
+【视觉风格】
+整体采用现代儿童科普绘本风格：
+- 明亮、清爽、干净的色彩
+- 清晰自然的手绘线条
+- 高完成度数字插画质感
+- 细节丰富但有秩序
+- 可爱但不低幼
+- 有科普图解感
+- 有导览地图感
+- 场景真实可信，但表达方式亲和
+
+【文字与标注】
+文字以中文为主，使用短标题、短标签、简短说明。不要生成大段复杂文字。信息框应像儿童科普书中的导览牌、知识卡片或小贴士。文字要尽量清晰、简洁、可读。
+
+【最终目标】
+让整张图像一页高质量的儿童科普绘本：孩子第一眼被可爱角色和大场景吸引，第二眼能顺着路线读懂系统如何运行，第三眼还能继续发现细节和知识点。画面要具有系列化潜力，方便后续替换不同主题继续创作同类型图片。
+```
+
+***
+
+<a name="case-470"></a>
+
+### 例 470：本地生活小店异形展架
+
+![本地生活小店异形展架](../data/images/case470.jpg)
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [提示词回复](https://x.com/MrLarus/status/2058431837534343283)
+
+**提示词：**
+
+```text
+《餐饮异形展架/立牌物料》提示词：
+
+请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。
+
+【基础信息】
+品牌名：【品牌名】
+主标题：【主标题】
+副标题：【副标题】
+辅助短句：【短句1】｜【短句2】｜【短句3】
+主题方向：【主题方向，例如：爆辣夜市风 / 金黄浓郁风 / 清新轻食风 / 山野自然风 / 甜品下午茶风 / 快餐促销风】
+主色调：【主色调】
+辅助色：【辅助色】
+点缀色：【点缀色】
+画幅比例：【建议 3:4 竖版】
+
+【产品内容】
+主推产品：【主推产品】
+辅助产品1：【辅助产品1】
+辅助产品2：【辅助产品2】
+辅助产品3：【辅助产品3】
+辅助产品4：【辅助产品4】
+加料 / 配角产品：【加料或配角产品，例如：饮品 / 小食 / 配菜 / 酱料 / 甜品】
+
+【卖点标签】
+【卖点1】
+【卖点2】
+【卖点3】
+【卖点4】
+【卖点5】
+【卖点6】
+
+【促销信息】
+【促销信息1】
+【促销信息2】
+【促销信息3】
+
+【最重要要求】
+避免生成门店场景效果图或墙上海报展示图。请直接生成“一张完整的异形立牌成品展示图”：
+- 背景必须为纯白色
+- 画面中只保留一个完整的异形餐饮立牌主体
+- 不要餐厅环境
+- 不要商场背景
+- 不要玻璃门、桌椅、墙面、人物、地面透视场景
+- 不要任何真实空间背景
+- 立牌主体必须完整显示
+- 异形轮廓必须完整清晰
+- 底座必须完整露出
+- 整体像一张已经抠好的门店物料成品图 / 设计提案展示图 / 电商展示图
+
+【画面形式】
+这是一张“门店异形展架 / 立牌”的完整设计，避免普通矩形海报处理。
+整体应采用明显的“不规则异形裁切轮廓”，有完整外边缘，边缘可带白色或浅色描边，具有真实门店物料感。
+立牌应有明确底座，整体像可落地摆放的 KT 板 / 泡沫板 / 亚克力 / 写真喷绘展架成品。
+
+【构图结构】
+整体采用竖版、中心聚焦、信息分层清楚的结构：
+
+1. 顶部区域：
+放超大主标题，标题必须醒目、有冲击力、有餐饮 POP 招贴感。
+字体可以厚重、手写感、招贴感、潮流感，但要清晰易读。
+标题是整张图的第一视觉焦点。
+
+2. 中部核心区域：
+中间放最大主推产品，作为主视觉主体。
+主菜必须最大、最饱满、最诱人，突出食欲感。
+围绕主菜搭配 2~5 个辅助产品，形成丰富的产品组合，前后层次明确，主次分明。
+
+3. 周边信息区域：
+在主菜和辅助产品四周加入少量标签元素、推荐标、贴纸框、手写箭头、卖点说明、小标题、小气泡标签等，使其具有“餐饮门店促销物料”的视觉特征。
+但要控制层级，做到“热闹但不乱”。
+
+4. 底部促销区域：
+底部放价格信息、套餐信息、活动信息或新品尝鲜信息。
+价格数字要相对突出，易读清晰。
+如果没有特别要求，默认不要二维码。
+
+【视觉风格要求】
+整体风格应属于“餐饮转化型视觉 + 门店 POP 异形立牌”：
+- 强调食欲感
+- 强调信息可读性
+- 强调商业落地感
+- 强调门店物料感
+- 强调异形轮廓感
+
+避免极简杂志海报、电商详情页、纯平面插画海报方向。
+
+【食物表现要求】
+所有食物必须采用真实商业美食摄影质感：
+- 食物清晰真实
+- 有食材颗粒感
+- 有酱汁、汤汁、油光、热气、层次感
+- 有丰富细节，如葱花、辣椒、芝士、香草、蔬菜、水果、虾仁、肉块等
+- 主食要饱满，不能扁平
+- 看起来必须“能激发食欲”
+禁止过度插画化、卡通化、低质拼贴化。
+
+【版式与信息层级】
+整张立牌的阅读顺序应为：
+主标题 → 主推产品 → 辅助产品 → 卖点标签 → 价格 / 活动信息
+
+信息量可以较丰富，但必须有明确层级：
+- 主标题最大
+- 主菜次大
+- 辅助菜稍小
+- 卖点标签较小
+- 底部促销清晰醒目
+
+【适配范围】
+该模板需要适用于不同主题餐饮内容，例如：
+- 面 / 饭 / 粉 / 小吃
+- 火锅 / 菌汤 / 地方菜
+- 轻食 / 沙拉 / 咖啡简餐
+- 早餐 / 套餐 / 快餐
+- 茶饮 / 甜品 / 下午茶
+- 节日促销 / 新品上市 / 爆品推荐 / 双人套餐
+
+【输出要求】
+请输出一张高清、清晰、商业完成度高的异形立牌设计图，满足以下条件：
+- 白色背景
+- 完整异形轮廓
+- 完整底座
+- 只展示立牌本体
+- 不带真实场景环境
+- 不带人物
+- 不带门店背景
+- 默认不带二维码
+- 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
+```
+
+***
+
+<a name="case-471"></a>
+
+### 例 471：花簪和服动漫肖像
+
+![花簪和服动漫肖像](../data/images/case471.jpg)
+
+**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
+
+**提示词：**
+
+```text
+Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
+```
+
+***
+
+<a name="case-472"></a>
+
+### 例 472：上海地铁站台晨光
+
+![上海地铁站台晨光](../data/images/case472.jpg)
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
+
+**提示词：**
+
+```text
+A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
+East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — eyes directed downward, absorbed. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under cool overhead station light, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible. Summer fresh look, no heavy coverage, lightly tinted lip.
+She wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.
+Cool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+***
+
+<a name="case-473"></a>
+
+### 例 473：ROGUE VIPER 游戏概念设定板
+
+![ROGUE VIPER 游戏概念设定板](../data/images/case473.jpg)
+
+**来源：** [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
+
+**提示词：**
+
+```text
+**ROGUE VIPER — VIDEO GAME CONCEPT ART SHEET PROMPT**
+
+---
+
+Official AAA video game concept art sheet titled **'ROGUE VIPER'** for an Unreal Engine 5 third-person action-stealth game. Professional game development documentation layout on a dark charcoal #1A1A1A background with gold stencil label typography throughout. Four clearly labeled panels arranged in a 2×2 grid with a header and footer.
+
+---
+
+**SHEET HEADER** — Bold gold stencil font title text: **ROGUE VIPER** centered at top. Subtitle beneath in smaller tracking-heavy label font: **CHARACTER & ENVIRONMENT CONCEPT SHEET | UNREAL ENGINE 5 | ACTION / STEALTH — THIRD PERSON**
+
+---
+
+**PANEL 1 — TOP LEFT — Label: "PROTAGONIST: MEI LIU / ROGUE VIPER"**
+
+Full-body character turntable reference of a 30-year-old East Asian Chinese-American female operative. Athletic and toned, 5'8", long straight black hair worn loose, calm neutral expression with sharp eyes. Wearing a form-fitting matte black tactical bodysuit with gold accent seams running along the shoulders, forearms, and thighs, gold cobra snake belt buckle at the waist, calf-high black tactical boots with subtle gold trim. Armed with twin suppressed 9mm pistols holstered on each hip with custom viper-scale grip texture, a serrated combat knife sheathed vertically on the right thigh, and a compact pneumatic grappling hook launcher mounted on the left forearm. Three views arranged side-by-side: front, 3/4, and back. Unreal Engine 5 physically-based rendering, photorealistic skin and fabric materials, neutral 3-point studio lighting for maximum clarity, gold and matte black color scheme throughout.
+
+---
+
+**PANEL 2 — TOP RIGHT — Label: "ENEMY TYPE 01: OBSIDIAN PROTOCOL ENFORCER"**
+
+Three enemy soldiers shown as character references against a dark background. These are elite private military contractors working for a shadow arms cartel called Obsidian Protocol. Their uniform: slate-gray and black modular plate carriers with deep crimson geometric hex-patch insignia on the shoulder, full-face ballistic visors with a dark red tinted lens, black tactical gloves, reinforced combat boots. Armed with compact bullpup assault rifles with red laser sights. One figure standing in neutral patrol stance, one crouched in a ready alert position, one depicted mid-aim with rifle raised. All three shown at the same scale for comparison. Same UE5 photorealistic PBR render style. Crimson and slate-gray color language to contrast Viper's gold and black.
+
+---
+
+**PANEL 3 — BOTTOM LEFT — Label: "STEALTH ENVIRONMENT: OBSIDIAN PROTOCOL BLACK SITE — ALPINE RESEARCH FACILITY"**
+
+Wide cinematic establishing shot of a stealth mission environment. A hidden high-altitude research facility buried inside a snow-covered mountain, accessible only via an underground tram. Interior architecture is brutalist concrete and frosted glass, dimly lit with cold white fluorescent overhead strips and amber emergency lighting casting long dramatic shadows across polished concrete floors. Rows of classified server terminals and cryogenic storage units line the walls. Ventilation shafts visible in the ceiling above catwalks. A security camera sweeps a slow arc over a central corridor below. In the foreground, Rogue Viper is pressed flat against a concrete pillar in deep shadow, body low, watching two Obsidian Protocol enforcers on patrol below, one holding a flashlight. The scene communicates tension, patience, and tactical opportunity. Unreal Engine 5 Lumen global illumination, volumetric cold air haze, photorealistic ice and concrete materials, deep crushed blacks with cold white and amber lighting contrast. Cinematic wide 2.39:1 style composition within the panel.
+
+---
+
+**PANEL 4 — BOTTOM RIGHT — Label: "ACTION SET PIECE: OBSIDIAN PROTOCOL FREIGHT DEPOT — COLLAPSED BRIDGE CANYON"**
+
+Wide cinematic action shot of a high-octane firefight environment. A sprawling open-air industrial freight depot at the edge of a sheer cliff canyon at dusk, with a collapsed suspension bridge dangling over the chasm below. Shipping containers and heavy crane equipment provide cover geometry. Rogue Viper is captured mid-movement in a dynamic gunfight pose — body low, both suppressed pistols raised and firing, muzzle flashes illuminating her face with sharp white light. Three Obsidian Protocol enforcers are positioned around her — one diving behind a container, one firing from atop a crane platform, one falling backward off the edge of the depot platform. Background: deep canyon with a river of orange reflected sunset light far below, dust and smoke rising from the firefight, a military helicopter approaching in the far distance. Warm dusk amber and cool canyon shadow blue provide dramatic color contrast. UE5 ray-traced reflections on metal container surfaces, particle systems for dust and muzzle smoke, cinematic depth of field on background elements.
+
+---
+
+**SHEET FOOTER** — Color palette chip row along the bottom of the sheet: matte black #1A1A1A, dark charcoal #2B2B2B, viper gold #D4AF37, gunmetal #3E3E3E, obsidian crimson #8B1A1A, slate gray #6B7280, cold white #E8EEF4. Label above chips: **COLOR PALETTE**. Footer text beneath: **ACTION / STEALTH — THIRD PERSON — UNREAL ENGINE 5 — © ROGUE VIPER GAME STUDIOS**
+
+---
+
+**UNIVERSAL STYLE CONSTRAINTS — APPLY TO ALL PANELS:**
+Photorealistic only throughout the entire sheet. No anime, no cartoon, no stylized illustration, no cel shading, no comic book rendering. Unreal Engine 5 cinematic render quality with physically-based materials. Anamorphic lens character on all environment shots. Crushed blacks and desaturated mid-tones across all panels. Professional AAA game studio concept documentation format comparable to Naughty Dog, Ubisoft, or Guerrilla Games internal production art.
+```
+
+***
+
+<a name="case-474"></a>
+
+### 例 474：四城极简旅行海报系列
+
+![四城极简旅行海报系列](../data/images/case474.jpg)
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
+
+**提示词：**
+
+```text
+Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
+```
+
+***
+
+<a name="case-475"></a>
+
+### 例 475：企鹅造型包装结构板
+
+![企鹅造型包装结构板](../data/images/case475.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
+
+**提示词：**
+
+```text
+Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
+```
+
+***
+
+<a name="case-476"></a>
+
+### 例 476：早安拿铁微缩女孩
+
+![早安拿铁微缩女孩](../data/images/case476.jpg)
+
+**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
+
+**提示词：**
+
+```text
+Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
+```
+
+***
+
+<a name="case-477"></a>
+
+### 例 477：Instagram 餐桌俯拍创意
+
+![Instagram 餐桌俯拍创意](../data/images/case477.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
+
+**提示词：**
+
+```text
+Top-down ultra-wide hyper-realistic shot of 4 real people seated at a square dining table. Pull the camera way back so a wide ring of empty floor surrounds the whole scene, giving a clean minimal composition. Scene [ATMOSPHERE + WARDROBE]: the four are styled in [OUTFIT STYLE]. Each one is doing something specific: [DESCRIBE EACH PERSON'S ACTION].
+
+The table itself is a physical prop built to look like an Instagram post viewed from above:
+- A solid white band runs along the TOP and BOTTOM edges only, with no white on the left or right sides.
+- Top band: a small drawn profile avatar with [LOGO DESCRIPTION], the handle "[USERNAME]", a tiny blue verified check next to it, and a "..." on the far right.
+- Bottom band: red heart, comment bubble, and share icons painted on the left, bookmark icon on the right.
+
+The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, drinks, props, and any hand interacting with them must stay strictly inside that central colored zone, nothing crosses the white bands or the table edge. The floor around the table is [FLOOR COLOR] to create clear visual separation. Professional studio lighting with crisp shadows, 8k, tack-sharp focus.
+```
+
+***
+
+<a name="case-478"></a>
+
+### 例 478：夹层式品牌编辑海报
+
+![夹层式品牌编辑海报](../data/images/case478.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
+
+**提示词：**
+
+```text
+[BRAND NAME]. You are a world-class editorial designer.
+
+STEP 1, DYNAMIC SUBJECT LOGIC:
+- Subject pick: independently study [BRAND NAME] and choose the right hero subject.
+- Sandwich layering: weave the subject through the background shapes. Parts of the car or figure must sit hidden behind geometric blocks, while other parts (wheels, limbs, props) overlap in front of those blocks to fake real 3D depth.
+
+STEP 2, GRID & GEOMETRY:
+- Layout: a clean 2x2 grid composition.
+- Overlays: drop large bold geometric arcs and circles on top of the grid.
+- Visual balance: place one iconic product prop (a floating key fob for cars, a ball for sports, etc.) in its own quadrant to counterweight the subject.
+
+STEP 3, SOPHISTICATED MUTED PALETTE:
+- No aggressive neon, no oversaturated colors.
+- Pull [BRAND NAME]'s core colors and shift them into a "sophisticated muted" range. Use desaturated, earthy, dusty versions of the brand colors (dusty rose instead of hot pink, sage green instead of bright mint, slate blue instead of royal blue).
+- Finish: matte flat color blocks, zero gradients.
+
+STEP 4, PHOTOGRAPHY & LIGHTING:
+- Subject style: high-end commercial studio photography.
+- Lighting: soft diffused studio light, gentle highlights, no harsh shadows.
+- Integration: the subject must feel physically embedded into the graphic grid.
+
+STEP 5, MINIMALIST BRANDING:
+- Drop a clean single-color [BRAND NAME] logo dead-center on one background block. No tagline, just the iconic symbol.
+```
+
+***
+
+<a name="case-479"></a>
+
+### 例 479：杂志纸艺拼贴重绘
+
+![杂志纸艺拼贴重绘](../data/images/case479.jpg)
+
+**来源：** [@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
+
+**提示词：**
+
+```text
+Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: ["May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.","Take a small break," or "Good day, good mood."] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.
+```
+
+***
+
+<a name="case-480"></a>
+
+### 例 480：粉丝速写本角色页
+
+![粉丝速写本角色页](../data/images/case480.jpg)
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
+
+**提示词：**
+
+```text
+Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes.
+White background. No grid, no order. Pure chaos energy. With (any color) aesthetic clothes
+```
+
+***
+
+<a name="case-481"></a>
+
+### 例 481：韩系春日 scrapbook 海报
+
+![韩系春日 scrapbook 海报](../data/images/case481.jpg)
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
+
+**提示词：**
+
+```text
+Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
+```
+
+***
+
+<a name="case-482"></a>
+
+### 例 482：自我凝视超现实 Campaign
+
+![自我凝视超现实 Campaign](../data/images/case482.jpg)
+
+**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
+
+**提示词：**
+
+```text
+Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.
+
+The twist: he is seated on a large, hyper-realistic version of his own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.
+
+Composition: centered, full-body shot, neutral studio background with soft beige tones, minimal aesthetic. Clean negative space.
+
+Typography integrated into the background:
+
+* Handwritten-style text at the top: “HEAVY”
+* Below it, smaller text: “ON MY OWN MIND” with “MIND” crossed out
+* Large, rough, scribbled text in black: “HEAD”
+
+Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.
+
+Style: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.
+
+Mood: introspective, mental weight, identity, self-awareness.
+```
+
+***
+
+<a name="case-483"></a>
+
+### 例 483：都市飞鸟街头肖像
+
+![都市飞鸟街头肖像](../data/images/case483.jpg)
+
+**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
+
+**提示词：**
+
+```text
+A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.
+```
+
+***
+
+<a name="case-484"></a>
+
+### 例 484：霓虹涂鸦黑白人像
+
+![霓虹涂鸦黑白人像](../data/images/case484.jpg)
+
+**来源：** [@harboriis](https://x.com/harboriis/status/2060208419811074350)
+
+**提示词：**
+
+```text
+High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
+```
+
+***
+
+<a name="case-485"></a>
+
+### 例 485：时尚目录电商拼贴
+
+![时尚目录电商拼贴](../data/images/case485.jpg)
+
+**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
+
+**提示词：**
+
+```text
+Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
+```
+
+***
+
+<a name="case-486"></a>
+
+### 例 486：RCB 冠军混合媒介海报
+
+![RCB 冠军混合媒介海报](../data/images/case486.jpg)
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
+
+**提示词：**
+
+```text
+Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork.
+
+The woman has a confident expression, bold red lipstick, flawless skin, short black bob haircut, cinematic lighting, ultra-sharp blue eyes, premium sports-fashion styling. RCB face paint on cheek, luxury gold jewelry accents, highly detailed jersey fabric.
+
+Large typography on the right side reading:
+
+RCB
+IPL CHAMPIONS
+2026
+
+Handwritten slogan at bottom left:
+
+Ee Sala Cup Namde!
+
+Premium championship poster design, trending Behance artwork, sports magazine cover aesthetic, layered paint textures, realistic trophy reflections, high contrast, ultra-detailed, 8K, masterpiece, award-winning digital art, vibrant colors, cinematic composition, splash art, sketch effect, watercolor effect, paint explosion effect, mixed-media illustration, poster-worthy design.
+```
+
+***
+
+<a name="case-487"></a>
+
+### 例 487：法式药妆商业分镜封面
+
+![法式药妆商业分镜封面](../data/images/case487.jpg)
+
+**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
+
+**提示词：**
+
+```text
+35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French pharmacy skincare commercial for La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+. Soft premium music plus tactile realistic sound effects throughout. Rich warm natural grain, premium but not over-polished. Palette: warm ivory whites, soft stone neutrals, signature La Roche-Posay orange, subtle clinical cyan-blue, sunlit beige, realistic warm skin tones. The tube is iconic. The skin is the proof. Every shot builds toward the moment the product disappears into real skin and protection becomes confidence. Fast cuts, macro intimacy, tactile realism, one quiet transformation that feels earned: sunscreen that looks invisible, breathable, and real.
+
+MODEL / WARDROBE
+
+Use the same female model consistently across all shots, matching the approved character sheet: slim natural model proportions, warm medium skin tone, dark brown hair in a clean low bun, refined oval face, natural brows, realistic under-eye detail, subtle lips, minimal makeup. Same face, same hairstyle, same body structure, same skin tone, same wardrobe continuity throughout.
+
+Wardrobe must be modest, elegant, and fully covered. No exposed body, no tank top, no fitted clothing, no cleavage, no bare shoulders, no body-hugging silhouette. Wardrobe: loose cream linen button-up shirt, full sleeves, fully buttoned or layered over a high-neck white inner top, soft beige trousers only if visible, minimal jewelry, refined French pharmacy skincare styling. Clothing should feel premium, breathable, clean, and international, never sensual, revealing, or fashion-body-focused.
+
+The camera may show hands, face, neck-up portrait, shoulders, waist-up, mirror shots, bathroom ritual shots, and outdoor walking lifestyle shots, but the body must not be emphasized. Keep attention on skin texture, hands applying sunscreen, product packaging, morning ritual, and confident protected face.
+
+SKIN REALISM
+
+Skin must look human and unfiltered: visible pores, peach fuzz, tiny fine lines, slight under-eye texture, natural skin tone variation, realistic facial micro texture, matte-hydrated finish. No glossy skin, no oily shine, no wet-look face, no waxy AI skin, no porcelain smoothing, no glam beauty filter, no fake glow.
+
+PRODUCT REFERENCE
+
+Use the exact La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+ product reference: white tube, orange square logo, black La Roche-Posay typography, orange SPF50+ panel, light blue hydrating cream band, orange lower panel, white pump-cap base. Product shape and color blocking must remain consistent.
+
+MUSIC DIRECTION
+
+Soft elegant premium skincare music throughout: gentle piano, airy ambient pads, subtle low-end warmth, very light modern electronic pulse, calm emotional lift. Music should feel expensive, dermatological, trustworthy, and international. Never loud, never dramatic, never trailer-like, never distracting. The music should support the tactile sound design without overpowering it.
+```
+
+***
+
+<a name="case-488"></a>
+
+### 例 488：屋顶球场日落人像
+
+![屋顶球场日落人像](../data/images/case488.jpg)
+
+**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
+
+**提示词：**
+
+```text
+Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
+```
+
+***
+
+<a name="case-489"></a>
+
+### 例 489：城市地图微缩旅行海报
+
+![城市地图微缩旅行海报](../data/images/case489.jpg)
+
+**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
+
+**提示词：**
+
+```text
+Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
+
+Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered.
+
+Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
+
+Aspect ratio 1:1.
+```
+
+***
+
+<a name="case-490"></a>
+
+### 例 490：双重曝光时尚肖像
+
+![双重曝光时尚肖像](../data/images/case490.jpg)
+
+**来源：** [@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
+
+**提示词：**
+
+```text
+A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
+
+The background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect.
+
+Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
+```
+
+***
+
+<a name="case-491"></a>
+
+### 例 491：Y2K 高楼浴室镜面自拍
+
+![Y2K 高楼浴室镜面自拍](../data/images/case491.jpg)
+
+**来源：** [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
+
+**提示词：**
+
+```text
+A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look.
+
+The bathroom counter is cluttered with luxury cosmetics, skincare products, jewelry, a smartphone, and everyday personal items, adding a lived-in editorial feel. Reflections of neon-lit skyscrapers and hotel windows shimmer in the background, emphasizing an urban nightlife atmosphere. Soft pale skin tones contrast against dark clothing and black hair. The composition feels intimate, candid, and effortlessly cool.
+
+Style: Y2K flash photography, candid mirror selfie, Korean editorial aesthetic, indie sleaze, hotel bathroom scene, luxury lifestyle, cinematic nightlife, disposable camera look, grainy texture, flash burn, realistic skin texture, shallow depth of field, authentic imperfections, viral Pinterest mood, high-fashion casual energy, raw unfiltered photography.
+
+Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, slight motion blur, visible noise, natural color grading, vertical composition, ultra-realistic, high detail.
+```
+
+***
+
+<a name="case-492"></a>
+
+### 例 492：黑色高定酒店套房写真
+
+![黑色高定酒店套房写真](../data/images/case492.jpg)
+
+**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
+
+**提示词：**
+
+```text
+Create a hyper-realistic luxury fashion portrait inspired by premium fashion-week editorials.
+
+IMPORTANT:
+Generate ONLY ONE SINGLE VERTICAL IMAGE.
+
+STYLE:
+Luxury fashion realism.
+Professional couture photography.
+Premium editorial atmosphere.
+
+MAIN CONCEPT:
+A beautiful adult Asian fashion model photographed inside a luxury hotel suite.
+
+OUTFIT:
+Elegant black couture mini dress.
+Luxury embroidered details.
+Premium designer fashion aesthetic.
+
+BACKGROUND:
+Luxury hotel interior.
+Soft neutral decor.
+Elegant cinematic depth blur.
+
+LIGHTING:
+Soft luxury window lighting.
+Professional fashion-editorial reflections.
+Natural skin texture.
+
+MOOD:
+Bold.
+Elegant.
+High-fashion energy.
+
+QUALITY:
+Ultra realistic native 4K HDR realism.
+Professional magazine quality.
+Vertical 9:16.
+```
+
+***
+
+<a name="case-493"></a>
+
+### 例 493：东京旅行 13 格视频封面
+
+![东京旅行 13 格视频封面](../data/images/case493.jpg)
+
+**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
+
+**提示词：**
+
+```text
+Generate image of young female travel vlogger exploring Tokyo across multiple candid moments, extremely beautiful with long dark wavy hair, wearing stylish Japanese-inspired oversized streetwear, expressive and spontaneous personality, captured across a 13-frame grid collage (Row 1: 4 frames | Row 2: 5 frames | Row 3: 4 frames), each frame feels like a real casual phone capture with imperfect framing and natural inconsistencies.
+
+Frame Breakdown
+
+Row 1 - Frame 1 (Tokyo Tower): low angle selfie with Tokyo Tower behind her, slightly tilted horizon, sky overexposed to near white, she's mid-natural smile adjusting into frame, small lens smudge in corner, candid arrival energy.
+Row 1 - Frame 2 (Shibuya street level): walking through Shibuya crossing at night, handheld motion blur, she glances back at camera mid-step, neon reflections on wet pavement, slightly shaky framing, imperfect crop.
+Row 1 - Frame 3 (Convenience store): inside a brightly lit convenience store, she is holding onigiri close to camera, playful raised eyebrows, harsh fluorescent lighting flattening the scene, slight overexposure on whites, shelves softly blurred behind.
+Row 1 - Frame 4 (Yoyogi park): sitting on a bench under trees, looking away from camera, quiet candid moment, soft dappled daylight, slight focus miss on eyes, subtle lens smudge bottom corner.
+Row 2 - Frame 5 (Takoyaki reaction): close-up while eating single takoyaki, reacting mid-bite with laughter, slight motion blur, warm lantern light behind, face slightly out of focus due to movement.
+Row 2 - Frame 6 (Vending machine night): standing in front of glowing vending machine, blue and pink light casting uneven tones on her face, pressing button casually, high ISO grain visible.
+Row 2 - Frame 7 (Train reflection): her face reflected in train window at night, city lights streaking behind, layered reflection effect, slight ghosting on glass, she looks away from camera.
+Row 2 - Frame 8 (Torii gate): low angle shot of her walking through a torii gate, captured from slightly behind, motion blur in her movement, bright sky causing mild lens flare.
+Row 2 - Frame 9 (Digital art exhibit): inside immersive light exhibit, colored lights (blue, violet, gold) washing across her face, she looks upward in awe, slight motion blur, low-light noise visible.
+Row 3 - Frame 10 (Gundam statue): low angle wide shot, she stands small in frame while large statue towers above, slight barrel distortion from phone lens, sky slightly blown out.
+Row 3 - Frame 11 (Lantern alley): walking through narrow alley lit by warm lanterns, shot from behind, she glances back briefly, underexposed shadows, grainy night detail.
+Row 3 - Frame 12 (Rooftop skyline): selfie with Tokyo skyline behind, arm extended, wind blowing hair partially across lens, horizon slightly tilted, warm city glow overexposed in distance.
+Row 3 - Frame 13 (Nara park): crouching down in a park in Nara, she holds out a deer cracker toward a deer, the deer bows its head toward her, she bursts into genuine laughter mid-reaction, surprised and slightly leaning back, another deer nudges her from behind causing her to lose balance slightly, camera captures the moment imperfectly with slight shake and off-center framing, soft natural daylight, open park background with trees and space, unscripted chaotic energy, candid expression.
+
+Young female travel vlogger exploring Tokyo across 13 candid moments in a grid collage, extremely beautiful with long dark wavy hair, wearing stylish Japanese streetwear, expressive and spontaneous, scenes include Tokyo Tower selfie, Shibuya crossing at night, convenience store snack moment, park bench quiet scene, takoyaki reaction, vending machine glow, train window reflection, torii gate walk, immersive light exhibit, Gundam statue low angle, lantern alley walk, rooftop skyline selfie, Harajuku street ending, each frame slightly imperfect with motion blur.
+```
+
+***
+
+<a name="case-494"></a>
+
+### 例 494：电动巴士工程信息图
+
+![电动巴士工程信息图](../data/images/case494.jpg)
+
+**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
+
+**提示词：**
+
+```text
+Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.
+
+Visual Direction
+
+• 1:1 square composition
+• Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics
+• Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium transit-system dividers
+• Minimal transportation engineering iconography
+• Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard
+• Thin precision annotation lines pointing toward key systems and technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation
+
+A stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:
+
+• sleek aerodynamic body design
+• panoramic windshield
+• illuminated destination display
+• low-floor accessibility layout
+• futuristic LED lighting systems
+• premium electric drivetrain details
+• realistic urban reflections
+• smart-city transportation realism
+
+Surround the bus with engineering callouts explaining:
+
+• battery pack technology
+• electric motor system
+• regenerative braking system
+• charging infrastructure compatibility
+• smart fleet management systems
+• passenger accessibility features
+• thermal battery management
+• energy-efficiency technologies
+• safety monitoring systems
+• intelligent driver assistance features
+
+Include Modular Sections
+
+• E-Bus Overview
+• Technical Specifications
+• Vehicle Dimensions & Capacity
+• Powertrain & Energy System
+• Battery Technology Breakdown
+• Charging Solutions
+• Passenger Comfort Features
+• Safety & Reliability Systems
+• Fleet Management Technology
+• Environmental Impact Analysis
+• Operating Cost Comparison
+• Construction & Material Engineering
+• Sustainability Lifecycle Assessment
+• Smart-City Integration
+• Global Adoption Trends
+• “Did You Know?” Facts Section
+• Future of Electric Public Transport
+
+Add Premium Visualization Modules
+
+• battery architecture diagrams
+• charging workflow graphics
+• energy-consumption charts
+• passenger-capacity visualizations
+• smart-city integration maps
+• drivetrain cutaway illustrations
+• environmental impact comparisons
+• fleet-management dashboards
+• vehicle blueprint dimensions
+• lifecycle sustainability graphics
+
+Style Keywords
+
+“premium transportation encyclopedia”
+“editorial electric mobility handbook”
+“high-end public transit infographic”
+“scientific transportation poster”
+“museum-quality electric bus reference page”
+“modular smart-city knowledge system”
+“clean engineering editorial design”
+“ultra-detailed mobility visualization”
+“future transportation showcase”
+“sustainable urban mobility design”
+
+Avoid
+
+• generic vehicle advertisements
+• cluttered commercial brochure layouts
+• cartoon transportation styling
+• unrealistic flying-bus concepts
+• excessive cyberpunk neon overload
+• low-detail stock-vehicle renders
+
+Final Goal
+
+The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.
+```
+
+***
+
+<a name="case-495"></a>
+
+### 例 495：巴黎街头故事书插画
+
+![巴黎街头故事书插画](../data/images/case495.jpg)
+
+**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
+
+**提示词：**
+
+```text
+Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
+```
+
+***
+
+<a name="case-496"></a>
+
+### 例 496：水雕品牌 Logo 六宫格
+
+![水雕品牌 Logo 六宫格](../data/images/case496.jpg)
+
+**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
+
+**提示词：**
+
+```text
+Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
+```
+
+***
+
+<a name="case-497"></a>
+
+### 例 497：单色水彩城市旅行海报
+
+![单色水彩城市旅行海报](../data/images/case497.jpg)
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
+
+**提示词：**
+
+```text
+Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.
+
+Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation.
+
+A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood.
+
+The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster.
+
+Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
+```
+
+***
+
+<a name="case-498"></a>
+
+### 例 498：铅笔画背景 3D 分身
+
+![铅笔画背景 3D 分身](../data/images/case498.jpg)
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
+
+**提示词：**
+
+```text
+Create a handrawn pencil illustration of [image] yawning on paper, as background.
+
+Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio
+```
+
+***
+
+<a name="case-499"></a>
+
+### 例 499：极简精品店全身时尚写真
+
+![极简精品店全身时尚写真](../data/images/case499.jpg)
+
+**来源：** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
+
+**提示词：**
+
+```text
+A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
+```
+
+***
+
+<a name="case-500"></a>
+
+### 例 500：梦幻花冠仙境肖像
+
+![梦幻花冠仙境肖像](../data/images/case500.jpg)
+
+**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
+
+**提示词：**
+
+```text
+Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
+
+The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
+```
+
+***
+
+<a name="case-501"></a>
+
+### 例 501：夏日牵手回眸电影肖像
+
+![夏日牵手回眸电影肖像](../data/images/case501.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
+
+**提示词：**
+
+```text
+Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.
+
+Subject: a young beautiful adult East Asian woman, [describe face shape and features, e.g. soft heart-shaped face, refined classical features, bright almond/fox eyes, petite nose bridge, naturally full lips], overall vibe sweet, sunny, energetic, cute with a touch of allure. Gaze highly engaging — bright, clear, natural catchlights, as if it speaks; corners of mouth slightly lifted, expression gentle, vivid, natural.
+
+She walks along a [scene, e.g. garden stone path / tree-lined lane / European street / courtyard], right hand reaching back to hold the hand of someone behind her; only their hand appears in the lower-left corner — like a first-person couple's POV snapshot. She glances back at the camera while her body stays in a forward walking motion, posture elegant and natural, clearly a candid captured moment with a faint in-love feeling.
+
+Long [hair color] hair, [style, e.g. naturally wavy / relaxed big waves / airy bangs / half-up], many strands tousled and flying in the wind, richly layered and dynamic. Strong natural side-backlight rims the hair edges — clean, crisp rim light and semi-translucent glow, hair edges lit as if by sunlight, light and luminous. This is the core highlight of the image.
+
+She wears [outfit, e.g. white lace slip dress / beige slip dress / light-blue short-sleeve top with white skirt / light-pink fitted dress], fabric texture natural, material light and soft. Bright natural summer sunlight realistically warms her skin, shoulders, collarbone, and clothing with soft, clean highlight transitions.
+
+Skin texture: extremely realistic — visible fine pores, natural skin texture, faint imperfections, subtle tone variation, soft sheen. Cheeks, nose tip, shoulders show natural delicate gradations in sunlight. Translucent, healthy, real and refined — no plastic look, no waxwork, no over-smoothing.
+
+Background: soft atmospheric blur, never distracting.
+
+Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expression, dead eyes, stiff poses, overall yellow cast, overexposed face, distorted features, wrong fingers, deformed hands, cluttered background, heavy influencer retouching.
+```
+
+***
+
+<a name="case-502"></a>
+
+### 例 502：黑桃国王递归扑克牌
+
+![黑桃国王递归扑克牌](../data/images/case502.jpg)
+
+**来源：** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
+
+**提示词：**
+
+```text
+Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Do not beautify, alter, or reinterpret my face. Maintain realistic anatomy and authentic likeness.
+
+Create an ultra-detailed, cinematic, surreal luxury playing-card artwork.
+
+The main subject is me as the King of Spades, occupying the full design of a magnificent, royal Ace-quality playing card. I wear elaborate black-and-silver spade-themed regalia, a crown forged from obsidian and polished steel, intricate embroidered armor, and flowing royal garments decorated with subtle spade symbols. My expression is calm, intelligent, and powerful.
+
+In my right hand, I am holding a pristine Ace of Spades card.
+
+The creative twist: the Ace of Spades I am holding is not a normal card. It contains another complete playing-card illustration. Inside that card, I again appear as the King of Spades, and that entire card is being elegantly held between the fingers of a majestic Queen of Hearts. The Queen is graceful, regal, and visually striking, dressed in rich crimson and gold royal attire adorned with heart motifs.
+
+The illusion continues with subtle recursive storytelling: the Queen of Hearts appears to be examining the card with fascination, creating a “card within a card” visual paradox. The composition should feel like a legendary tale of power, strategy, love, and destiny intertwined.
+
+Add impossible Escher-inspired visual design elements:
+•Infinite recursion effect
+•Card-world folding into itself
+•Floating spade and heart symbols transforming into ravens and rose petals
+•Ornate golden borders extending beyond physical card edges
+•Royal chess pieces suspended in midair
+•Fractal patterns hidden within the card engravings
+•Elegant smoke forming suit symbols
+•Dimensional portals emerging from card corners
+
+Style: ultra-realistic fantasy realism mixed with luxury casino art, Renaissance royal portraiture, and modern cinematic concept art.
+
+Lighting: dramatic chiaroscuro, volumetric god rays, rich contrast, glowing metallic highlights, subtle magical energy around the Ace of Spades.
+
+Color palette:
+•Deep blacks
+•Silver chrome
+•Ivory white
+•Crimson red
+•Antique gold accents
+
+Composition:
+•Vertical masterpiece
+•Museum-quality detail
+•Hyper-realistic textures
+•Intricate card engravings
+•Perfectly symmetrical playing-card aesthetics blended with cinematic depth
+•Sharp focus on my face
+•Extremely high identity fidelity
+•Epic storytelling through visual symbolism
+
+The final image should feel like the cover of a legendary fantasy card game where the King of Spades has become self-aware, existing across multiple layers of reality while being held in the hands of fate itself, represented by the Queen of Hearts.
+```
+
+***
+
+<a name="case-503"></a>
+
+### 例 503：霓虹设计师 3D 海报
+
+![霓虹设计师 3D 海报](../data/images/case503.jpg)
+
+**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
+
+**提示词：**
+
+```text
+Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
+
+Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
+
+Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+```
+
+***
+
+<a name="case-504"></a>
+
+### 例 504：粗糙涂鸦人像改图
+
+![粗糙涂鸦人像改图](../data/images/case504.jpg)
+
+**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
+
+**提示词：**
+
+```text
+Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
+
+Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+```
+
+***
+
+<a name="case-505"></a>
+
+### 例 505：夜间手机光沙发肖像
+
+![夜间手机光沙发肖像](../data/images/case505.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
+
+**提示词：**
+
+```text
+A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin straps and matching soft shorts. One hand holds a smartphone close to the foreground, the screen glow casting cool reflections on her fingers and glasses lenses. Her expression is dreamy and softly tired, eyes lifted toward the camera as if she just looked up from scrolling, lips gently closed in a relaxed pout.
+
+Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to three-quarter portrait. Warm dim tungsten room light mixed with cool phone-screen reflections, no flash, soft falloff across the couch and wall. Shallow depth of field, soft low-light grain, slight motion blur, natural imperfect sharpness. Background: plain beige-gray wall, minimal decor, late-night atmosphere. Soft glam makeup: subtle eyeliner, long lashes, smooth skin, glossy pink-nude lips. Realistic social-media night portrait aesthetic.
+```
+
+***
+
+<a name="case-506"></a>
+
+### 例 506：可爱发卡图文人像海报
+
+![可爱发卡图文人像海报](../data/images/case506.jpg)
+
+**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
+
+**提示词：**
+
+```text
+围绕具体主题内容生成一张明亮清爽的图文合成视觉：画面以大面积高明度纯净色场承托主体，背景平整、通风、没有复杂景深，视觉重心由下方被大胆裁切的人像或真实主体建立，只露出最有记忆点的局部，使主体像从画面边缘进入。主体上方叠放一个极简图形符号或拟物角色，它要像轻轻坐在主体头顶或贴合轮廓生长出来，形体圆润、边缘干净、表情或结构由少量粗线完成，兼具标识感和亲近感。文字是画面的主动角色：顶部使用大号手写感标题，字距松、笔画柔软，像一句轻声招呼；中心用更强的竖向或轴向标题建立层级；边缘安放少量小字号信息，保持安静但精确，让空白继续占主导。色彩从主题自身的材质、情绪、地域或品牌语义中提取，映射为明亮底色、洁净主体亮面、清晰深色结构线与少量强调信息色，保留大面积轻快底场、小面积高对比文字线条、自然主体暗部的关系；整体保持高明度、清透、干净、饱和度清晰而不过度刺激，暗色只用于结构和阅读，不制造脏灰、烟雾或陈旧质感。摄影局部与扁平图形之间要形成真实与童趣的反差，边缘叠压准确，阴影极少，完成感像城市公共宣传与角色插画结合的轻松视觉系统。
+
+主题：柳岩
+
+比例9:16
+```
+
+***
+
+<a name="case-507"></a>
+
+### 例 507：暖调钩织角色玩偶
+
+![暖调钩织角色玩偶](../data/images/case507.jpg)
+
+**来源：** [@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
+
+**提示词：**
+
+```text
+A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.
+```
+
+***
+
+<a name="case-508"></a>
+
+### 例 508：木漏日庭院俯拍猫咪人像
+
+![木漏日庭院俯拍猫咪人像](../data/images/case508.jpg)
+
+**来源：** [@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
+
+**提示词：**
+
+```text
+俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。
+```
+
+***
+
+<a name="case-509"></a>
+
+### 例 509：涂鸦拉衣奔跑棚拍
+
+![涂鸦拉衣奔跑棚拍](../data/images/case509.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
+
+**提示词：**
+
+```text
+A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
+```
+
+***
+
+<a name="case-510"></a>
+
+### 例 510：Bichon Shop 拟物 App 图标
+
+![Bichon Shop 拟物 App 图标](../data/images/case510.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
+
+**提示词：**
+
+```text
+A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
+```
+
+***
+
+<a name="case-511"></a>
+
+### 例 511：城市名地标排版旅行海报
+
+![城市名地标排版旅行海报](../data/images/case511.jpg)
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
+
+**提示词：**
+
+```text
+Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.
+Use an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look.
+Add small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition.
+Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.
+Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
+```
+
+***
+
+<a name="case-512"></a>
+
+### 例 512：Brutalist Freestyle 角色设定表
+
+![Brutalist Freestyle 角色设定表](../data/images/case512.jpg)
+
+**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
+
+**提示词：**
+
+```text
+Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic.
+
+Create a premium production character sheet for a 2D stylized futuristic freestyle road soccer protagonist inspired by Brutalist architecture, industrial concrete textures, geometric forms, and minimalist sci-fi design language.  The presentation should resemble a AAA game character turnaround sheet mixed with a Nike commercial concept presentation.
+
+The character should feel agile, stylish, confident, athletic, and built for urban freestyle football.  Maintain the concrete-textured helmet with glowing orange visor, oversized hood, tactical long coat, mechanical gauntlets, armored boots, and industrial detailing exactly as the design language.  The football should be integrated naturally into the presentation.  Minimal off-white background (#F7F5F0).
+
+Professional production sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photorealism.  High-end stylized illustration.  CHARACTER ANGLES Front View  Neutral hero pose.  Left Side View Right Side View Back View 3/4 Front View Dynamic Freestyle Pose  Standing on one foot while balancing the football.  Hero Pose  Football under foot.  Long coat flowing.  Confident posture.  CLOSE-UP CALLOUTS  Helmet Design  Orange illuminated visor  Concrete brutalist surface  Industrial wear  Panel breakdown  Upper Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articulation  Industrial joints  Material breakdown  Utility Belt  Equipment  Fasteners  Soccer accessory pouch  Boot Design  Heavy brutalist geometry  Street football grip  Orange illuminated sole accents  Football Design  Minimal futuristic street football  Concrete-inspired panel graphics  Orange accent details  MATERIAL CALLOUTS  Concrete Composite Armor  Carbon Tactical Fabric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR PALETTE  Concrete White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident Smile  Game Face  Victory Expression  ACTION SILHOUETTES  Ball Juggle  Around The World  Elastico  Rainbow Flick  Backheel  Crossover  Street Sprint  Ball Stall  CAMERA CALLOUTS  Hero Shot Low Angle  Turnaround Orthographic  Close-up Macro Lens  Dynamic Pose 35mm Tracking Camera  Hero Pose 24mm Cinematic Lens  SFX LABELS  WHOOSH  SWISH  TAP  BOUNCE  THUD  ZIP  SPIN  SKRT  VROOM  RUSH  MUSIC HIT  CROWD CHEER  SLOW MOTION LABELS  120 FPS  240 FPS  Freeze Frame  Motion Trails  Speed Ramping  GUIDELINES  Maintain consistent proportions across all views.  Keep the brutalist design language consistent.  Emphasize concrete-inspired hard surfaces contrasted with flexible tactical fabrics.  Preserve the glowing orange visor as the primary focal point.  Use clean production callouts with arrows and labels.  Include measurement guides, material notes, and design annotations.  Keep presentation minimal and premium.  Avoid clutter.  Professional concept art quality suitable for AAA game development, cinematic production, and advertising pitch decks.  LAYOUT  16:9 Landscape  Top Center: MAIN TITLE STREET FLOW // BRUTALIST FREESTYLE  Below: Production Character Sheet  Center: Large Hero Character  Left: Front • Side • Back Views  Right: 3/4 View • Action Pose • Hero Pose  Bottom: Close-ups • Materials • Color Palette • Equipment • Football Design • Expressions • Camera Notes • SFX • Slow Motion • Production Annotations  Minimal off-white background with subtle grid guides, technical drawing arrows, clean typography, and premium commercial presentation quality.
+```
+
+***
+
+<a name="case-513"></a>
+
+### 例 513：单色点缀旅行手账插画
+
+![单色点缀旅行手账插画](../data/images/case513.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
+
+**提示词：**
+
+```text
+Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
+```
+
+***
+
+<a name="case-514"></a>
+
+### 例 514：硬边现代艺术人像
+
+![硬边现代艺术人像](../data/images/case514.jpg)
+
+**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
+
+**提示词：**
+
+```text
+A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
+dutch angle, stray cat tail --ar 9:16
+```
+
+***
+
+<a name="case-515"></a>
+
+### 例 515：Guadalajara 复古电影旅行海报
+
+![Guadalajara 复古电影旅行海报](../data/images/case515.jpg)
+
+**来源：** [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
+
+**提示词：**
+
+```text
+@Crea una imagen {
+  "style": "Cinematic Vintage Movie Poster — Guadalajara, Mexico",
+  "target_tool": "DALL-E 3 (ChatGPT)",
+  "prompt": "Generate a vertical portrait-format movie poster image, taller than wide in a 2:3 aspect ratio. The image is a cinematic vintage travel movie poster for Guadalajara, Mexico, rendered with the visual texture of an aged large-format film poster: heavy 35mm film grain throughout especially in the shadow areas, slightly faded and warm-shifted color tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage printed poster feel. Foreground: a single dark silhouette of a lone mariachi musician standing still at the center-bottom of the frame, rendered as a pure clean dark silhouette with no facial features visible — traditional wide-brim charro sombrero, fitted traje de charro suit outline, holding a guitarrón — casting a long warm shadow across the honey-colored cantera stone paving of Plaza de la Liberación below, with colorful papel picado banners in red, orange, green and yellow cut tissue paper strung in loose diagonal lines overhead from building to building, swaying slightly, framing the upper composition, no people other than the single silhouetted figure, no vehicles, no modern objects. Midground: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly behind the silhouette, its ornate columned portico and triangular pediment warmly lit by the low golden-hour sun hitting from the left, long dramatic shadows stretching across the stone paving, the warm amber volcanic stone glowing intensely in the golden light. Background: the twin neo-Gothic spires of the Catedral Metropolitana de Guadalajara rising tall into the upper frame against a vast deep cerulean blue sky transitioning to burnt amber and deep orange near the horizon, a single scattered cloud catching violet and gold light from below, the cathedral facade in warm honey stone matching the Teatro Degollado's palette. Color grade: saturated warm amber and golden honey tones dominating the stone architecture, deep cobalt blue in the upper sky, rich burnt orange near the horizon, faded warm sepia in the shadow areas consistent with a vintage printed poster. At the very top of the image, centered above the spires, render the single word GUADALAJARA in bold condensed uppercase display serif letters in warm cream-gold with a faint dark drop shadow, leaving clear sky negative space for the title. No modern buildings, no cars, no utility wires, no people other than the single dark silhouette visible anywhere in the scene.",
+  "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label."
+}
+```
+
+***
+
+<a name="case-516"></a>
+
+### 例 516：工业橡胶管品牌造型渲染
+
+![工业橡胶管品牌造型渲染](../data/images/case516.jpg)
+
+**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
+
+**提示词：**
+
+```text
+Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
+```
+
+***
+
+<a name="case-517"></a>
+
+### 例 517：杯内鱼眼夏日冰饮广告
+
+![杯内鱼眼夏日冰饮广告](../data/images/case517.jpg)
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
+
+**提示词：**
+
+```text
+主題：
+氷越しの夏
+
+主体：
+縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。
+
+人物・表情：
+自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。
+
+服装・ポーズ：
+白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。
+
+背景・光：
+背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。
+
+構図・カメラ：
+カメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。
+
+質感・スタイル：
+プロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。
+
+ネガティブ：
+実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+***
+
+<a name="case-518"></a>
+
+### 例 518：花田风动夏日人像
+
+![花田风动夏日人像](../data/images/case518.jpg)
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
+
+**提示词：**
+
+```text
+主題：
+花風のまどろみ
+
+主体：
+縦長4:5の写真風ポートレート。白と黄色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで静かに横たわっている。人物は画面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは画面下側に収まる。周囲の花が画面全体を埋め、対角線方向に流れる花のモーションブラーが前景を横切る。
+
+人物・表情：
+自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を残す。首筋、鎖骨、頬に夏の日差しが当たり、静かに眠っているような落ち着いた雰囲気。
+
+服装・ポーズ：
+白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は画面下側で花に隠れて見切れる。体は画面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で数本だけ額にかかる。
+
+背景・光：
+郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黄色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
+
+構図・カメラ：
+やや俯瞰の近距離撮影。85mm相当の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は浅い被写界深度で少しぼける。前景の花だけが風に流され、白・黄色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
+
+質感・スタイル：
+リアルな写真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム写真のようなわずかな粒子感と、雑誌ポートレートの落ち着いた仕上がり。
+
+ネガティブ：
+不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+```
+
+***
+
+<a name="case-519"></a>
+
+### 例 519：薄荷玫瑰香水电商图
+
+![薄荷玫瑰香水电商图](../data/images/case519.jpg)
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
+
+**提示词：**
+
+```text
+100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
+```
+
+***
+
+<a name="case-520"></a>
+
+### 例 520：月面宇航员 T 恤图形
+
+![月面宇航员 T 恤图形](../data/images/case520.jpg)
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
+
+**提示词：**
+
+```text
+A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
+```
+
+***
+
+<a name="case-521"></a>
+
+### 例 521：青花敦煌刺绣四拼风格海报
+
+![青花敦煌刺绣四拼风格海报](../data/images/case521.jpg)
+
+**来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
+
+**提示词：**
+
+```text
+请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
+
+第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
+
+第二层为青花瓷绘风格：借鉴青花瓷绘画技法，以钴蓝色线条与晕染在米白底上表现人物与场景，呈现瓷器纹样的疏朗雅致感。色彩以钴蓝与米白为主的单色系。避免蓝色浓淡层次过多显杂，避免图案化装饰堆砌。
+
+第三层为敦煌壁画风格：借鉴敦煌壁画矿物重彩质感，表现古朴斑驳的美感，需简化线条与色块。背景为土黄或赭石底色，带斑驳壁画肌理感。色彩以赭石、石青、朱砂、土黄为主。避免裂纹肌理过多堆砌，避免复杂纹样装饰。
+
+第四层为刺绣锦缎风格：以刺绣针脚肌理表现人物与场景轮廓，呈现丝缎光泽与针线纹理感，图案需极简概括。背景为米白或浅灰缎面底色。色彩以2至3种柔和色搭配金线点缀。避免针脚过密显繁琐，避免金线过多显浮夸。
+
+每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
+```
+
+***
+
+<a name="case-522"></a>
+
+### 例 522：儿童故事书手绘头像
+
+![儿童故事书手绘头像](../data/images/case522.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
+
+**提示词：**
+
+```text
+Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.
+
+Preserve exactly from the photo:
+- Facial features and skin tone
+- Real hairstyle, length, texture, and color
+- Exact clothing, colors, patterns, and layering
+- Glasses, jewelry, headwear, bags, and all visible accessories
+
+Do not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork.
+
+### Character
+Use an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy.
+
+### Face
+Simplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading.
+
+### Hair & Clothing
+Recreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details.
+
+### Style
+Handmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism.
+
+### Composition
+Square 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose.
+
+### Background
+Simple warm mustard, butter yellow, ochre, or cream background with subtle paper texture. No scenery, objects, text, borders, or distractions.
+
+Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.
+```
+
+***
+
+<a name="case-523"></a>
+
+### 例 523：曼哈顿公园水彩旅行插画
+
+![曼哈顿公园水彩旅行插画](../data/images/case523.jpg)
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
+
+**提示词：**
+
+```text
+Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
+```
+
+***
+
+<a name="case-524"></a>
+
+### 例 524：纸雕拼贴乡野人像
+
+![纸雕拼贴乡野人像](../data/images/case524.jpg)
+
+**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
+
+**提示词：**
+
+```text
+Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
+
+Use the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and recognizable facial features. Strict face identity lock — do not redesign, beautify, stylize, age, de-age, or replace her face.
+
+The girl stands alone in the center of the composition in a graceful, natural editorial pose. She is facing the camera with a relaxed confident expression and a subtle natural smile. Her body is slightly angled, creating a candid fashion-editorial feeling. She holds a beautiful small mixed bouquet of flowers naturally with both hands in front of her. One leg is slightly crossed in front of the other for an elegant relaxed pose.
+
+Outfit
+
+Change the outfit completely from the original reference while keeping it fully modest and elegant:
+
+- elegant ivory/cream long-sleeve button-up blouse
+- high-waisted wide-leg beige trousers
+- full-length trousers with complete coverage
+- simple cream closed-toe shoes
+- small brown leather shoulder bag
+- no revealing clothing
+- no exposed midriff
+- sophisticated countryside editorial fashion
+- natural realistic fabric folds and texture
+
+Environment
+
+Create a beautiful handcrafted 3D paper-diorama countryside scene:
+
+- layered blue mountains in the distance
+- green forest and rolling hills
+- peaceful blue lake
+- grassy lakeside landscape
+- textured beige paper pathway in the foreground
+- rustic white wooden fence behind the girl
+- dreamy pastel sky
+
+Surround the composition with oversized handmade paper flowers in pink, peach, cream, white, and light blue, with layered green paper leaves.
+
+Add decorative paper elements floating in the sky:
+
+- pink paper hearts
+- yellow paper stars
+- blue stars
+- soft white and pale-blue clouds
+- tiny colorful paper dots
+
+Place two tiny vintage vehicles near the lake in the background: a cream vintage camper van on one side and a small vintage blue-green car on the other.
+
+Art Direction
+
+The entire environment should look handcrafted from premium textured paper while the girl remains photorealistic and seamlessly integrated into the paper world.
+
+Use:
+hand-torn paper edges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional cut-paper elements, tactile textures, soft natural daylight, cinematic depth, gentle atmospheric perspective, premium editorial photography.
+
+The final image should feel like a luxury handmade paper storybook brought to life with a real photographic subject.
+
+Composition
+
+Centered full-body girl
+Face clearly visible and sharply detailed
+Natural elegant pose
+Bouquet held naturally
+Rustic fence framing the subject
+Lake and mountains creating depth
+Large flowers framing both lower corners
+Clouds and decorative elements filling the upper background
+Balanced symmetrical composition with organic handmade imperfections
+Girl remains the strongest focal point
+
+Final Look
+
+Photorealistic girl + handcrafted paper-art environment
+Dreamy pastel colors
+Luxury editorial aesthetic
+Whimsical miniature diorama
+Soft cinematic daylight
+Highly detailed paper textures
+Natural realistic skin
+Sharp facial identity
+Professional fashion photography
+Pinterest/Instagram viral visual aesthetic
+Magazine-quality composition
+
+Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.
+```
+
+***
+
+<a name="case-525"></a>
+
+### 例 525：酒红棚拍男士时尚肖像
+
+![酒红棚拍男士时尚肖像](../data/images/case525.jpg)
+
+**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
+
+**提示词：**
+
+```text
+A cinematic, ultra-realistic close-up portrait of a stylish man, using the provided image as an accurate face reference. Preserve his natural facial identity, thick naturally curly dark brown hair, neatly trimmed salt-and-pepper beard, strong masculine facial structure, and realistic facial proportions. He wears sophisticated round vintage amber-brown sunglasses and a premium deep burgundy suede jacket over a fitted black silk-knit shirt, creating a refined luxury fashion aesthetic.
+
+Warm cinematic studio lighting with a soft amber-golden key light illuminating the face from the front-left, complemented by a subtle crimson-red rim light outlining the hair and shoulders. The background is a rich burgundy, wine-red, and dark plum gradient, with soft atmospheric haze and subtle diffused light creating depth without distracting from the subject. Elegant warm highlights contrast beautifully against the dark clothing.
+
+Extremely detailed natural skin texture, individual beard hairs, realistic pores, subtle facial imperfections, sharp eyes visible behind slightly tinted lenses, natural reflections on the sunglasses, rich dimensional shadows, realistic fabric and suede texture, shallow depth of field. Sophisticated luxury fashion campaign, mysterious and confident mood, premium men's editorial photography, cinematic color grading, photorealistic, HDR, professional studio photography, 85mm portrait lens, f/1.8, crisp facial details, soft background bokeh, centered composition, head-and-shoulders framing, powerful masculine presence, understated elegance, 3:4 aspect ratio.
+```
+
+***
+
+<a name="case-526"></a>
+
+### 例 526：体积激光黑场海报
+
+![体积激光黑场海报](../data/images/case526.jpg)
+
+**来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
+
+**提示词：**
+
+```text
+从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
+```
+
+***
+
+<a name="case-527"></a>
+
+### 例 527：Rio 旅行票据纸雕立体海报
+
+![Rio 旅行票据纸雕立体海报](../data/images/case527.jpg)
+
+**来源：** [@john_my07](https://x.com/john_my07/status/2091408386466214031)
+
+**提示词：**
+
+```text
+Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
+
+In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama.
+
+Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective.
+
+Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations.
+
+Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette.
+
+The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.
+```
+
+***
+
+<a name="case-528"></a>
+
+### 例 528：圣诞街景 Chibi 真实背景人像
+
+![圣诞街景 Chibi 真实背景人像](../data/images/case528.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
+
+**提示词：**
+
+```text
+Use the uploaded image as the primary reference. Transform the person into a cute, hand-drawn anime/chibi character while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.
+
+A cute young woman standing on a modern city street at blue hour, surrounded by tall illuminated skyscrapers and festive Christmas decorations. A huge glowing Christmas tree covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.
+
+Render the character in a charming Japanese hand-drawn anime/chibi illustration style with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.
+
+Cinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.
+```
+
+***
+
+<a name="case-529"></a>
+
+### 例 529：云朵气球山脊旅行人像
+
+![云朵气球山脊旅行人像](../data/images/case529.jpg)
+
+**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
+
+**提示词：**
+
+```text
+Create a dreamy ultra-photorealistic outdoor fashion photograph based on the person in @image1.
+
+IDENTITY & FACE:
+Preserve the exact facial identity of the person in @image1. Keep the same face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and all recognizable facial features. The person must remain clearly recognizable and consistent with the reference image. Do not redesign or replace the face.
+
+POSE & COMPOSITION:
+Create a full-body vertical portrait of the person standing naturally on a grassy mountain ridge. The body is slightly turned toward the camera while the face looks naturally toward the viewer. One hand gently holds several long white strings attached to an enormous fluffy white cloud floating directly above the person like a whimsical balloon bouquet. The other hand rests naturally beside the body.
+
+SCENE:
+A breathtaking high-altitude mountain landscape with layers of distant blue-green mountains stretching across the horizon. The subject stands on a natural grassy ridge with delicate wild grass around her feet. Vast open sky dominates the upper portion of the composition.
+
+CLOUD BALLOON:
+Create one enormous soft white cumulus cloud directly above the subject, visually resembling a giant floating cloud balloon. Multiple thin white strings descend from the cloud and gather elegantly into the person's hand. The strings should look physically believable and naturally connected to the cloud. The cloud is fluffy, voluminous, bright white, and beautifully illuminated by sunlight.
+
+CLOTHING:
+Dress the person in a completely modest, elegant, fully covered outfit:
+
+long flowing light-blue maxi dress reaching the ankles
+
+loose long sleeves covering the arms completely
+
+high and modest neckline
+
+opaque non-transparent fabric
+
+full-length flowing skirt
+
+simple white closed-toe sneakers
+
+small woven crossbody bag
+No exposed midriff, no deep neckline, no sheer fabric, no short skirt, no revealing clothing. The outfit should look graceful, comfortable, elegant, and wholesome.
+
+ACCESSORIES:
+Add tasteful round dark sunglasses and a simple woven shoulder/crossbody bag. Keep accessories minimal and natural.
+
+HAIR:
+Keep the person's original hairstyle and hair color from @image1 as much as possible. Allow a few natural strands of hair to move gently in the mountain breeze.
+
+LIGHTING:
+Bright natural midday sunlight, soft atmospheric illumination, realistic highlights on the white cloud and dress, subtle natural shadows, crisp but gentle exposure, beautiful blue-sky contrast.
+
+PHOTOGRAPHY STYLE:
+Ultra-photorealistic professional travel-fashion photography, realistic skin texture, natural fabric details, physically accurate lighting, realistic depth of field, cinematic atmospheric perspective, high dynamic range, sharp subject with a softly detailed background.
+
+COLOR PALETTE:
+Sky blue, soft white, pale powder blue, natural green grass, and distant blue mountains. Clean, airy, dreamy color grading with a peaceful summer atmosphere.
+
+COMPOSITION:
+9:16 vertical portrait, full body visible from head to shoes, subject positioned slightly below center, enormous blue sky and cloud occupying the upper half, distant mountains forming a soft horizontal horizon, balanced negative space, visually striking editorial travel photograph.
+
+IMPORTANT:
+Preserve the exact identity from @image1. Do not change the person's recognizable face or facial structure. Keep the outfit completely modest, opaque, and fully covering. Maintain realistic anatomy, natural hands, realistic proportions, and believable interaction between the person, strings, cloud, grass, and mountain environment.
+```
+
+***
+
+<a name="case-530"></a>
+
+### 例 530：实拍背景涂鸦人物替换
+
+![实拍背景涂鸦人物替换](../data/images/case530.jpg)
+
+**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
+
+**提示词：**
+
+```text
+Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged.
+
+CORE RULE:
+Background = original realistic photo.
+People = cute hand-drawn doodle characters.
+
+PRESERVE THE BACKGROUND:
+Keep the original sky, landscape, buildings, water, furniture, ground, plants, railings, objects, lighting, colors, perspective, camera angle, framing, and textures as close to the original photo as possible.
+
+Do NOT redraw, simplify, illustrate, or apply doodle/crayon/pencil effects to the background or environmental objects.
+
+TRANSFORM ONLY PEOPLE:
+Replace each person with a charming, naive doodle version while preserving:
+- exact number of people
+- original position and relative scale
+- front/back/side/three-quarter orientation
+- head and body direction
+- pose and gesture
+- arm and leg positions
+- interactions with people or objects
+- hairstyle, clothing colors, and major accessories
+
+IMPORTANT:
+If someone faces away, keep them back-facing.
+If sideways, keep them sideways.
+If facing forward, keep them forward.
+Never rotate a person toward the viewer or invent a face that is not visible.
+
+CUTE DOODLE STYLE:
+Freely reinterpret realistic anatomy into an adorable, imperfect character:
+- oversized round head
+- tiny compact body
+- short simplified arms and legs
+- tiny hands and feet
+- cute awkward proportions
+- loose scribbled hair
+- tiny dot eyes and simple facial features when visible
+- rosy scribbled cheeks when appropriate
+
+Keep the original pose recognizable, but simplify and slightly exaggerate it for cuteness.
+
+DRAWING STYLE:
+Loose naive hand-drawn doodle, like a quick children's sketch.
+Use thin shaky black outlines, imperfect shapes, overlapping sketch lines, scribbled colored-pencil or crayon fills, uneven coloring, white gaps, and slightly messy edges.
+
+The character should look intentionally roughly drawn but extremely cute.
+
+OBJECTS:
+Objects, furniture, scenery, and items around the people should remain photographic whenever possible. A doodle character may naturally touch or hold a real photographic object.
+
+INTEGRATION:
+Keep correct scale, ground contact, depth, and occlusion so the doodle characters naturally occupy the same locations as the original people.
+
+FINAL LOOK:
+It should feel like the real people were removed from the original photograph and replaced with adorable little hand-drawn doodle versions of themselves, while the real-world background remained untouched.
+
+Prioritize:
+1. Original photographic background
+2. Person position and scale
+3. Exact body orientation
+4. Pose and gesture
+5. Cute exaggerated doodle character design
+
+Avoid full-image illustration, background doodling, realistic anatomy, anime, manga, 3D cartoon, polished digital art, vector lines, changed poses, changed orientation, added people, or invented faces.
+```
+
+***
+
+<a name="case-531"></a>
+
+### 例 531：水晶框国家旅行广告海报
+
+![水晶框国家旅行广告海报](../data/images/case531.jpg)
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
+
+**提示词：**
+
+```text
+Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.
+```
+
+***
+
+<a name="case-532"></a>
+
+### 例 532：六宫格柠檬饮料微缩广告
+
+![六宫格柠檬饮料微缩广告](../data/images/case532.jpg)
+
+**来源：** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
+
+**提示词：**
+
+```text
+Create a Cannes-level premium summer beverage campaign poster for a fictional lemon drink brand called "LIMORA", using a strict 2-column by 3-row grid layout with six perfectly aligned panels. Preserve the exact structural logic of the composition: each panel shows the same tiny ultra-realistic young woman on a bright sandy beach interacting with oversized lemons, lemon slices, lemon juice, or the final branded drink, while selected panels include a giant realistic human hand entering from above. The full poster must feel like one unified high-end advertising storyboard in motion, where the eye flows continuously from fresh citrus fruit to crafted beverage desire. The lemon product world must remain the absolute visual hero across all six panels.
+
+Overall composition:
+Use a clean six-panel grid with thin white dividers, equal panel proportions, consistent horizon line, consistent beach-ocean background, and unified lighting. Every panel should feel self-contained yet rhythmically connected, as if six consecutive scenes from the same luxury summer commercial were frozen at their most iconic moments. Keep the miniature woman and the oversized lemon-related object centered in each frame, with the sea softly blurred in the background and the sand sharply rendered in the foreground. The full page must read instantly from a distance, with strong commercial clarity and polished editorial control.
+
+Orbit visual flow:
+Design the entire set around one strong circulation of motion from panel 1 to panel 6. The action should escalate visually: touch, recline, squeeze, travel, embrace, taste. Use repeating directional rhythms in hair movement, arm gestures, leg angles, juice droplets, spoon angle, lemon slice placement, straw tilt, and the position of the entering hand so the eye naturally sweeps across the poster in a flowing wave. Build subtle diagonal energy inside every panel, making the citrus world feel alive, breezy, sparkling, and in motion. The whole set should feel like summer energy orbiting around the brand’s lemon drink.
+
+Narrative panel sequence:
+Panel 1: the tiny woman hugs a giant whole lemon on the sand while a giant adult hand descends from above, delicately positioning the lemon. Her pose is lively and slightly off-balance, as if the scene has just begun.
+Panel 2: she reclines elegantly inside a halved lemon as though it were a luxury beach chaise, wearing dark sunglasses and holding a tiny parasol drink pick, while a floating lemon slice is lowered from above like a radiant citrus sun.
+Panel 3: a giant hand squeezes a vertically cut lemon from above, sending translucent juice streams and droplets downward in a sparkling arc. The woman reacts dynamically beneath it, arms raised, body tilted, caught in the middle of the citrus action.
+Panel 4: she rides in a small refined wooden cart piled with lemons, being pulled by a whimsical premium lemon-shaped creature or rolling lemon harness. The cart must feel physically grounded, artisanal, and stylish rather than cartoonish.
+Panel 5: the hero climax panel. A tall branded LIMORA lemonade glass dominates the frame, packed with ice cubes, lemon slices, pale sparkling liquid, condensation, a fresh green straw, and a refined cocktail umbrella. The tiny woman hugs the cold glass joyfully, and this panel must be the strongest product-selling moment in the entire composition.
+Panel 6: she sits inside a halved lemon while a large polished spoon descends from above carrying glossy lemon sorbet or crushed lemon ice, creating a final delicious serving beat with playful anticipation.
+
+Hero product focus:
+The real hero is the lemon beverage system: whole citrus fruit, sliced fruit, squeezed juice, ice, sparkling drink, sorbet, and premium serving details. Every lemon must feel hyper-real, fragrant, sunlit, juicy, and tactile, with detailed skin pores, subtle waxy oil sheen, translucent membranes, wet cut surfaces, and bright natural citrus pulp. The branded glass in panel 5 must be the most visually dominant product object in the set, with crystal-clear glass, refined original English branding reading "LIMORA", elegant condensation, premium ice refraction, and luminous pale-yellow drink clarity.
+
+Character design:
+Depict one recurring ultra-realistic miniature young woman across all six panels, wearing the same fitted green floral mini dress and white sandals, with long dark wavy hair and naturally expressive features. She must look like a real scaled-down human placed into a surreal oversized citrus world. Keep anatomy coherent and believable in every frame: correct head-to-body proportion, realistic shoulders, collarbones, arms, waist, hips, thighs, knees, calves, ankles, and feet, with perfectly formed hands and five fingers clearly visible. Her expressions should shift panel by panel: surprised delight, relaxed confidence, playful alarm, exhilaration, joyful refreshment, amused anticipation. Skin must remain photorealistic with pores, natural tonal shifts, faint knee and elbow texture, realistic skin elasticity, and no plastic AI beauty finish.
+
+Lighting:
+Use bright premium seaside daylight with a soft upper-left sun direction and gentle atmospheric diffusion. Maintain luminous fresh summer lighting across all six scenes, with short, soft-edged shadows and crisp dimensional highlights. Juice droplets, lemon pulp, ice cubes, spoon edges, sunglasses, glass rim, and condensation should all catch clean sparkling highlights. Lighting must feel luxurious, refreshing, and physically consistent from panel to panel.
+
+Materials:
+Lemons: ultra-detailed peel pores, subtle dimpling, natural rind thickness, glistening wet pulp, believable cut translucency, realistic juice behavior.
+Drink glass: high-clarity premium glass, accurate refraction, heavy base, condensation beads, crisp logo print, ice transparency, sparkling carbonated liquid feel.
+Sorbet and juice: glossy, semi-translucent, cold, wet, appetizing, physically accurate.
+Dress: lightweight summer cotton with tiny green floral print, natural wrinkles, fabric tension, and wind-responsive edges.
+Hair and skin: realistic strands, fine flyaways, natural shine, believable skin texture.
+Large hand: realistic adult fingers, soft skin compression, natural nails, coherent scale perspective.
+Cart and props: refined warm wood grain, polished wheels, believable joints and harness elements.
+Beach environment: fine sunlit sand with miniature footprints and pressure marks, soft shoreline blur, clean turquoise sea with pale foam.
+
+Color system:
+Build the palette around lemon yellow, fresh citrus green, turquoise sea, pale sky blue, warm beach beige, crisp white highlights, and restrained natural skin tones. Yellow must remain the dominant hero color, supported by green and turquoise. Keep the image bright, appetizing, summery, clean, and internationally commercial. Avoid random accent colors.
+
+Typography and branding:
+Do not copy any text from the sample. Keep typography minimal and original. Place refined English branding only on the hero glass and optionally a tiny campaign line below the full grid, such as: "LIMORA — Bright in Motion". Typography must feel premium, modern, minimal, and secondary to the visual storytelling.
+
+Art direction:
+Hyper-real premium surreal advertising photography, luxury FMCG campaign, storyboard energy, elegant humor, cinematic micro-world illusion, high-end beverage styling, global summer launch poster, polished magazine-grade finish, sharp product realism, strong narrative rhythm, premium brand coherence.
+
+Negative prompt:
+copied text, Chinese text, existing brand names, cartoon style, toy-like figure, grotesque oversized head, deformed anatomy, extra fingers, missing fingers, fused fingers, twisted wrists, broken limbs, distorted feet, AI plastic skin, over-smoothed skin, fake citrus texture, unrealistic juice physics, muddy lemon pulp, cloudy glass, weak product focus, inconsistent lighting, inconsistent horizon, messy grid, cluttered props, meme aesthetic, cheap humor, childish illustration, low-resolution detail, oversaturated colors, dead black patches, distorted giant hand perspective
+```
+
+***
+
+<a name="case-533"></a>
+
+### 例 533：手绘涂鸦时尚人物插画
+
+![手绘涂鸦时尚人物插画](../data/images/case533.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2092473965927334071)
+
+**提示词：**
+
+```text
+Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.
+
+Use a minimalist children’s storybook / fashion sketch aesthetic with loose, imperfect black ink lines, visible scribbly pencil strokes, subtle cross-hatching, and a charming handmade feel. Keep the character’s recognizable facial features, hairstyle, face shape, clothing, accessories, and overall identity from the reference while simplifying them into a cute illustrated character.
+
+Character design:
+- Oversized head and small simplified body
+- Simple dot-like eyes and tiny minimal mouth
+- Soft rounded facial features
+- Slight rosy pink blush on the cheeks
+- Messy, expressive hand-drawn hair with many loose sketch lines
+- Slightly exaggerated, playful proportions
+- Natural, relaxed pose with a whimsical fashion-illustration feel
+
+Art style:
+- Black-and-white pencil/ink doodle drawing
+- Rough, imperfect sketch lines rather than clean digital outlines
+- Dense scribbled hair and clothing details
+- Light hand-colored accents
+- Subtle watercolor/crayon-like coloring
+- Minimal shading
+- White or off-white clean background
+- Lots of negative space
+- Cute, innocent, playful, cozy aesthetic
+- Looks like an original handmade notebook/fashion doodle illustration
+
+Preserve the important details of the reference image while converting everything into this consistent doodle-art style. The final image should feel hand-sketched, slightly imperfect, adorable, expressive, and effortlessly stylish, not like polished vector art or 3D cartoon art.
+```
+
+***
+
+<a name="case-534"></a>
+
+### 例 534：红光干扰实验编辑人像海报
+
+![红光干扰实验编辑人像海报](../data/images/case534.jpg)
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2092471662126211143)
+
+**提示词：**
+
+```text
+Create a medium-sized 9:16 experimental editorial portrait poster using the following customizable inputs:
+
+Subject: [Adult Male or Female Portrait]
+Interference: [Color Split / Narrow Light Beam / Horizontal Cut / Motion Veil]
+Title: [Title]
+Palette: [Main Neutral Tones + One Accent Color]
+Mood: [Sharp / Cinematic / Restrained / Experimental]
+
+Create a striking close-up or waist-up portrait with the subject occupying a strong portion of the frame. Preserve realistic facial features, natural skin texture, authentic hair, realistic proportions, clear emotion, and a strong silhouette. The portrait must work visually as a fashion photograph before the graphic intervention is applied.
+
+Use only one primary interference method:
+
+Color Split: Uneven translucent bands selectively shift, reveal, separate, or distort portions of the portrait.
+
+Narrow Light Beam: A single controlled beam cuts across the face or body and continues naturally into the surrounding space.
+
+Horizontal Cut: Bold horizontal bands interrupt selected areas of the portrait and interact with oversized typography.
+
+Motion Veil: Keep the main portrait sharp while selected areas create subtle horizontal photographic motion trails.
+
+Make typography an integral part of the composition. Use one dominant headline, allowing letters to crop beyond the frame, overlap the subject, disappear behind the body, or interact with the interference.
+
+Keep supporting text minimal: one small series label and one short phrase.
+
+Use mostly black, white, grey, charcoal, or deep neutral tones, plus one accent color. Keep skin tones natural and avoid excessive warmth or yellow grading.
+
+Add only a few subtle graphic details such as fine lines, circles, or open corner marks when necessary.
+
+The final composition should feel like a premium fashion editorial, contemporary photography poster, or experimental art-direction piece—clean, intentional, sophisticated, and visually balanced.
+
+Avoid multiple competing effects, dense text, UI elements, heavy glitches, random collage, excessive decoration, numbering, “Vol.” or “Issue” labels, sparkle symbols, logos, watermarks, distorted anatomy, plastic skin, oversaturation, and generic template aesthetics.
+
+Keep the overall treatment medium in scale, refined, adaptable, and universally applicable to different people, titles, themes, palettes, and editorial concepts.
+```
+
+***
+
+<a name="case-535"></a>
+
+### 例 535：同一人脸十二款发型 Lookbook
+
+![同一人脸十二款发型 Lookbook](../data/images/case535.jpg)
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2092452220768002400)
+
+**提示词：**
+
+```text
+Create a 12-panel grid (3 columns × 4 rows, numbered 1 to 12) showing the SAME person from the reference photo with 12 different hairstyles. This is a hairstyle lookbook. Final image aspect ratio: 4:5 (vertical/portrait).
+THE ONLY THING THAT CHANGES BETWEEN PANELS IS THE HAIR ON THE HEAD (shape, style and length only). Everything else stays exactly as in the reference photo.
+Identity Anchor (Critical)
+The face must be IDENTICAL to the reference photo in every single panel. Preserve exactly: facial bone structure, jawline, cheekbones, nose shape, lips, eye shape and spacing, eyebrows, skin tone, skin texture (pores, natural imperfections), and overall facial proportions. This is the same real person in all 12 frames. Do NOT beautify, slim, or alter the face. Same age, same expression as in the reference.
+Mandatory Rules (Do Not Violate)
+- NO SUNGLASSES. Eyes must be fully visible in all 12 panels.
+- NO ENVIRONMENTAL BACKGROUNDS. Every panel must have a plain, uniform, solid light grey studio backdrop with zero objects, zero textures, zero gradients. Just flat neutral grey.
+- Hair COLOR stays exactly as it appears in the reference photo in all 12 panels. Only the shape, length and style changes, never the color.
+Keep Identical in Every Panel (Do Not Change)
+- MAKEUP AND SKIN: If the person in the reference photo wears makeup, replicate it identically in every panel. Same lip color, same eye makeup, same brow grooming. If they wear no makeup, keep all panels makeup-free. Do NOT add, remove, or alter makeup between panels.
+- Clothing: the same clothing visible in the reference photo, replicated exactly.
+- Accessories: preserve ALL visible accessories from the reference photo (earrings, necklaces, rings, bracelets, piercings, watch, glasses, etc.). Do not omit, resize, recolor, or restyle any accessory. If the person wears prescription glasses (not sunglasses), keep them in every panel.
+- Background: plain solid light grey studio backdrop in every panel. No room, no furniture, no environment.
+The 12 Hairstyles
+1. Pixie cut: very short, textured, slightly tousled on top with tapered sides and nape
+2. Classic bob: chin-length, straight, blunt ends, clean middle part
+3. Long layered waves: past the shoulders, soft voluminous waves with face-framing layers
+4. Sleek low bun: hair pulled back smoothly into a tight low bun at the nape, no flyaways
+5. Curtain bangs with medium-length hair: soft parted fringe framing the face, hair falling just past the shoulders
+6. High ponytail: hair pulled up into a sleek high ponytail, smooth crown, length falling behind
+7. French bob: short bob ending at the jawline with a soft blunt micro-fringe across the forehead
+8. Long straight hair with middle part: very long, sleek, pin-straight, falling well past the shoulders
+9. Shaggy wolf cut: medium length, heavy layers, choppy fringe, textured and voluminous with a slightly wild look
+10. Elegant updo: hair swept up into a polished chignon with soft face-framing tendrils
+11. Short curly crop: short voluminous curls all over, natural texture, tapered at the sides
+12. Side-swept Hollywood waves: long glamorous deep side part, sculpted vintage waves cascading over one shoulder
+Photographic Specs
+Shot on a Canon EOS R5 with an 85mm f/1.4 lens, studio portrait lighting (soft key light, subtle fill), shallow depth of field with sharp focus on the face. PLAIN SOLID LIGHT GREY STUDIO BACKGROUND in every panel. Natural skin rendering with visible pores and realistic hair strands (no plastic or CGI look). Consistent lighting, color grading and exposure across all 12 panels. Photorealistic, high detail, hyperrealistic, 8K. No illustration, no painterly effect, no over-smoothing. NO SUNGLASSES.
+Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspect ratio 4:5.
+```
+
+***
+
+<a name="case-536"></a>
+
+### 例 536：春日樱花回眸电影人像
+
+![春日樱花回眸电影人像](../data/images/case536.jpg)
+
+**来源：** [@SheBuildsAI_](https://x.com/SheBuildsAI_/status/2092431090095149533)
+
+**提示词：**
+
+```text
+{
+  "title": "WHISPERS OF SPRING",
+
+  "scene": "A peaceful pathway beneath blooming cherry blossom trees during a warm spring afternoon. Pink blossoms fill the canopy overhead while delicate petals drift gracefully through the air. Soft sunlight filters through the branches, creating a dreamy and enchanting atmosphere.",
+
+  "subject": "A young woman walks away from the camera before gently turning her head over her shoulder with a soft, mysterious smile. She wears a flowing natural linen dress that moves gracefully with the breeze, highlighting her delicate facial features and effortless elegance.",
+
+  "detail": "Wind carries countless pink cherry blossom petals across the frame while warm sunlight creates glowing highlights throughout the scene. Every strand of hair moves naturally in the breeze, with ultra realistic skin texture, lifelike fabric folds, soft floral surroundings, and subtle atmospheric haze enhancing the cinematic realism.",
+
+  "atmosphere": "Elegant, peaceful, romantic, dreamy, timeless, cinematic, graceful, and enchanting.",
+
+  "lighting": "Warm spring sunlight filtering through cherry blossom branches, soft natural illumination, glowing highlights, volumetric light rays, gentle ambient shadows, and subtle atmospheric haze.",
+
+  "composition": "Cinematic editorial portrait captured with an 85mm lens, featuring the subject in a three-quarter over-the-shoulder pose. Shallow depth of field, creamy bokeh, balanced framing with flowering trees, soft leading lines, and immersive visual storytelling.",
+
+  "style": "Photorealistic, masterpiece, editorial fashion photography, analog film aesthetic, dreamy pastel color palette, ultra realistic skin texture, highly detailed, shallow depth of field, creamy bokeh, atmospheric haze, HDR, cinematic realism, 8K."
+}
+```
+
+***
+
+<a name="case-537"></a>
+
+### 例 537：地下档案馆暗黑概念海报
+
+![地下档案馆暗黑概念海报](../data/images/case537.jpg)
+
+**来源：** [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
+
+**提示词：**
+
+```text
+Use case: stylized-concept
+Asset type: vertical social-media artwork for the “Your Dark Side” theme
+
+Create an original psychological dark-surrealist scene in a colossal underground archive. Endless shelves of sealed black books rise like skyscrapers and vanish into fog. In the central aisle, a solitary human figure in bone-white clothing kneels before one open book on the floor. No words are visible. From the blank pages rises a delicate life-size figure made entirely of dense black smoke, standing face-to-face with the kneeling person. The smoke figure has no eyes or mouth; instead, its chest contains a small locked crimson door. Thin threads connect that door to the kneeling person’s hands, suggesting a secret self finally acknowledged.
+
+Vertical 9:16 framing, towering shelves create a narrow symmetrical canyon, high-angle shaft of cold silver light, the two figures positioned small in the lower center, immense oppressive scale above them. Black paper, aged stone, floating ash, volumetric fog, subtle polished-floor reflections, premium photorealistic dark concept art, refined editorial composition, quiet dread and introspection rather than horror spectacle.
+
+Color palette: obsidian black, graphite, bone white, cold silver, a single muted crimson accent at the tiny door.
+
+Constraints: entirely original metaphor; blank book pages with absolutely no writing; no recognizable person; no text, symbols, logos, signatures, borders, or watermark.
+
+Avoid: visible letters or runes, portrait close-up, split face, black substance on skin, glowing eyes, gore, skulls, conventional ghosts, fantasy wizard styling, imitation of any named artist.
+```
+
+***
+
+<a name="case-538"></a>
+
+### 例 538：橡皮章旅行田野笔记海报
+
+![橡皮章旅行田野笔记海报](../data/images/case538.jpg)
+
+**来源：** [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307)
+
+**提示词：**
+
+```text
+Rubber Stamp Travel Field Notes Poster — Natural Realism Version
+
+Create a separate “Rubber Stamp Travel Field Notes Poster” for each photo I upload. Output each photo individually. Never create a collage or combine multiple photos.
+
+Use a 4:3 landscape composition with a natural visual transition between the original photograph on the left and the aged-paper field-note area on the right. Do not add an obvious dividing line.
+
+LEFT — ORIGINAL PHOTOGRAPH
+
+The left side should occupy roughly 58% of the frame.
+
+Keep the uploaded photograph visually authentic and recognizable. Preserve the original subject, perspective, terrain, architecture, plants, people, spatial relationships, natural light, shadows, textures, and overall atmosphere.
+
+Do not redesign or reinterpret the photograph.
+
+Only apply a very subtle editorial photo treatment: gentle tonal balancing, restrained color grading, slightly softened highlights, and extremely fine natural film grain. It should still look like a real photograph taken on location rather than an AI-generated image.
+
+Natural cropping is allowed if needed to fit the 4:3 layout, but do not stretch, distort, move, replace, or redraw the main subject.
+
+Avoid excessive sharpness, HDR effects, artificial clarity, cinematic color grading, or overly perfect details.
+
+RIGHT — AGED PAPER FIELD NOTES
+
+The right side should occupy roughly 42% of the frame.
+
+Use warm off-white, slightly aged paper with a believable physical texture. Include very subtle paper fibers, fine grain, faint handling marks, and a matte surface.
+
+Keep large areas completely unprinted.
+
+The paper should feel like a real sheet from an architect's travel notebook or field journal, not a designed poster background.
+
+Avoid overly strong stains, decorative textures, vintage filters, or artificial grunge.
+
+SMALL RUBBER STAMP
+
+Study the uploaded photograph and identify only the few visual features that make the location immediately recognizable.
+
+Reduce them into a compact, imperfect multi-color rubber stamp impression.
+
+Do not reproduce the photograph element by element.
+
+Simplify aggressively and retain only the most meaningful visual relationships:
+
+- distinctive architecture and silhouette
+- important roof, tower, dome, arch, or structural shape
+- mountain or terrain contours
+- shoreline or road direction
+- a few recognizable trees or vegetation forms
+- simplified settlement layers
+- one or two important foreground shapes when visually relevant
+
+Remove crowds, cars, dense windows, repetitive buildings, tiny vegetation, decorative objects, and insignificant background details.
+
+The result should look like something a traveler could have actually carved into a small rubber stamp, not a miniature illustration of the entire photograph.
+
+Place the stamp in the lower-middle portion of the right paper area, occupying approximately 30–38% of the right section's height.
+
+Keep generous blank paper around it.
+
+Do not enlarge it into a large illustration.
+
+STAMP COLOR & PRINT CHARACTER
+
+Extract approximately 2–4 muted spot colors naturally from the original photograph.
+
+Possible colors include:
+
+- carbon black
+- deep green
+- brick or muted red
+- ochre
+- slate blue
+- taupe or earthy brown
+
+Do not force these colors if the photograph suggests a different restrained palette.
+
+Each color should appear as a separate physical ink layer.
+
+Make the print feel genuinely handmade:
+
+- slightly uneven pressure
+- tiny gaps in the ink
+- dry areas
+- paper showing through
+- rough carved edges
+- irregular line thickness
+- small contour breaks
+- granular ink texture
+- faint ghosting
+- slight natural color-layer misregistration
+- subtle edge variation
+
+The imperfections should be small and believable, as if the stamp was pressed onto paper by hand.
+
+Avoid perfectly aligned digital layers, smooth vector edges, clean gradients, or artificially exaggerated distress.
+
+The stamp should look physically printed, not digitally illustrated.
+
+FIELD-NOTE TYPOGRAPHY
+
+Generate a small amount of text based only on the actual location and imagery in the photograph:
+
+Location — English name
+No. — Number
+Three short English keywords
+Gregorian calendar year
+
+Place the text below or beside the stamp within the available whitespace.
+
+Use a small, understated typewriter or archival field-note style.
+
+The typography should have very slight mechanical irregularity, as though typed or printed on an old field notebook.
+
+Keep it quiet and secondary to the photograph.
+
+Spell the location and all words correctly.
+
+Do not add slogans, brands, tourist phrases, decorative quotes, or unnecessary text.
+
+OVERALL REALISM
+
+The finished image should feel like a real travel photograph mounted beside a small handmade field stamp on an architect's personal notebook page.
+
+Prioritize subtle physical realism over visual perfection.
+
+The photograph should remain the strongest visual element.
+
+The stamp should feel like a small fragment of memory extracted from the photograph rather than a second illustration.
+
+Use restrained contrast, natural imperfections, believable paper texture, and slightly imperfect printing.
+
+The final result should feel quiet, tactile, documentary, collectible, and genuinely handmade.
+
+Avoid
+
+Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax seals, sticker layouts, souvenir-card designs, generic travel templates, smooth vector logos, polished digital illustrations, cartoon styling, 3D rendering, plastic textures, glossy gradients, excessive saturation, HDR effects, excessive text, decorative clutter, overly clean geometry, perfectly aligned ink layers, dense miniature architecture, or any alteration/redrawing of the original photograph.
+```
+
+***
+
+<a name="case-539"></a>
+
+### 例 539：粗粝手绘搭档肖像海报
+
+![粗粝手绘搭档肖像海报](../data/images/case539.jpg)
+
+**来源：** [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736)
+
+**提示词：**
+
+```text
+Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and large in frame, accompanied closely by [ANIMAL], with a minimal [SCENERY] background. Render in a rough expressive illustrated style with broken black ink contours, loose sketch lines, scratchy hatching, irregular stroke weight, imperfect line edges, fast gestural mark-making, simplified anatomy, flat cel-like shadow blocks, and reduced detail. Use a restrained [COLORS] palette with one dominant warm field, one cool counter-field, dark inked shadows, and a few pale highlight accents. Keep the face oversized and central, crop around mid-torso, and place the animal in the lower foreground or tucked beside the subject, drawn with the same simplified raw linework. Reduce the scenery into only 2 or 3 bold silhouette shapes behind the subject, with no detailed environment rendering. Add a narrow warm off-white poster border and very light print texture. Strong attitude, graphic poster energy, intentionally imperfect strokes, raw and sketchy finish, ar 4:5
+```
+
+***
+
+<a name="case-540"></a>
+
+### 例 540：梦幻未来城市编辑艺术海报
+
+![梦幻未来城市编辑艺术海报](../data/images/case540.jpg)
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924)
+
+**提示词：**
+
+```text
+Create a visually unforgettable editorial art poster of a dreamlike futuristic world where familiar everyday life meets surreal architecture. Grand sculptural buildings, winding roads, oversized plants, tiny people, unexpected floating elements, dramatic perspective, cinematic atmosphere, and one iconic focal point. Blend vintage travel-poster design with modern luxury editorial aesthetics, sophisticated muted colors, soft natural light, subtle film grain, tactile paper texture, clean geometric shapes, minimal composition, nostalgic yet futuristic, whimsical but premium, highly detailed, instantly recognizable silhouette, Pinterest-worthy, Instagram-viral aesthetic, collectible art print, no clutter, no photorealism, vertical 4:5.
+```
+
+***
+
+<a name="case-541"></a>
+
+### 例 541：50/50 混合媒介回忆卡
+
+![50/50 混合媒介回忆卡](../data/images/case541.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2093212900160868430)
+
+**提示词：**
+
+```text
+Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split.
+
+Keep the original photo unchanged in the top half. In the bottom half, use textured off-white handmade paper and add a muted, irregular color patch matching the photo’s tones.
+
+Redraw the main subjects as a simple dark wax-crayon sketch with loose, imperfect lines and minimal details. Add a short handwritten English phrase and subtle Risograph grain.
+
+Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. Do not add extra elements or copy the reference composition exactly.
+```
+
+***
+
+<a name="case-542"></a>
+
+### 例 542：黑白排版侧脸肖像海报
+
+![黑白排版侧脸肖像海报](../data/images/case542.jpg)
+
+**来源：** [@HustleXR](https://x.com/HustleXR/status/2093206386012230000)
+
+**提示词：**
+
+```text
+High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FEATURE]. Build the portrait with bold black silhouette blocks, sharp negative space, rough ink edges, fragmented stencil shapes, tiny editorial microtext, vertical typographic accents and expressive hand-drawn calligraphic marks. Integrate one large readable text block saying “[TEXT]” in 2 to 4 stacked lines, placed only inside the neck and body area, using oversized scribbled lettering that feels fused into the silhouette. Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-white paper background, asymmetrical layout, cropped vertical composition, experimental editorial poster design, raw ink print texture, aspect ratio 4:5.
+```
+
+***
+
+<a name="case-543"></a>
+
+### 例 543：旅行纪念珐琅徽章
+
+![旅行纪念珐琅徽章](../data/images/case543.jpg)
+
+**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
+
+**提示词：**
+
+```text
+Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.
+
+Subject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject. Preserve the original spatial relationship and scale between the figure and the surroundings.
+
+How to render the person: flat enamel color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out the face or head. Skin reads as a warm light enamel color, clearly lighter than the clothing.
+
+Styling: thin polished gold outline around the silhouette and along every internal divider, glossy enamel color fill, gentle even lighting with only a soft sheen on the gold lines, very subtle drop shadow. Outer contour follows the scene's own shape, not a plain rectangle.
+
+Background: flat dark navy coarse linen texture. Badge centered, filling about 60% of the frame.
+
+Avoid: black silhouette figure, blacked-out face, dark featureless head, portrait close-up, detailed facial features, person dominating the badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark.
+```
+
+***
+
+<a name="case-544"></a>
+
+### 例 544：幼儿词汇拆解学习卡
+
+![幼儿词汇拆解学习卡](../data/images/case544.jpg)
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
+
+**提示词：**
+
+```text
+Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.
+
+Feature [FRUIT] as the main large realistic object on the left, and show a [PART / SLICE / SEGMENT] of the same fruit on the right. Connect the two with a playful dotted curved arrow and a tiny simple stick-figure child pointing toward the smaller part.
+
+Add the word “[FRUIT NAME]” in large bold uppercase letters at the top and “[PART NAME]” in large bold uppercase letters underneath the smaller image. Use a soft white and very light pastel-blue background, rounded image panels, clean spacing, realistic fruit photography, simple blue typography, and minimal playful illustrations.
+
+The overall design should feel bright, educational, modern, uncluttered, and easy for young children to understand, like a premium preschool vocabulary learning card. Vertical 4:5 composition, high resolution, soft lighting, clear labels, no unnecessary decorations.
+```
+
+***

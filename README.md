@@ -1,20 +1,71 @@
 <p align="center"><img src="./data/images/banner.svg" alt="GPT-Image2 Prompt System" width="800" /></p>
 
-<h3 align="center">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 390+ Reverse-Engineered Cases, 20+ Industrial Templates</h3>
+<h3 align="center">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3>
 
 <p align="center">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-400-blueviolet?style=flat-square" alt="Cases"></a>
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-544-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
+  <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=flat-square" alt="Sponsor"></a>
 </p>
 
 <p align="center">
-  <strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a>
+  <a href="https://trendshift.io/repositories/28623?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28623">
+    <img src="https://trendshift.io/api/badge/repositories/28623" alt="freestylefly/awesome-gpt-image-2 | Trendshift" width="250" height="55">
+  </a>
 </p>
 
-> Updated irregularly with new workflows. Stars are welcome.
-> This project is sponsored by [Ciyuan API](https://ciyuan.today/), an AI aggregation platform for cost-effective GPT Image 2 access.
+<p align="center">
+  <strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a> | <a href="./README.ja.md">日本語</a>
+</p>
+
+## GPT Image 2.5 Spotlight
+
+[Explore the 2.5 spotlight](https://gpt-image2.canghe.ai/gpt-image-2-5/?lang=en): learn about Sunburst and Flare, then explore a shared-prompt comparison with a draggable divider, side-by-side view, image enlargement, and generation settings.
+
+- [Sunburst](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst): image generation and precise editing.
+- [Flare](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare): fast, high-quality everyday image generation.
+- **4 real recreations**: [#532 lemon campaign](https://gpt-image2.canghe.ai/gpt-image-2-5/?lang=en&case=gallery-532-test), [#527 Rio diorama](https://gpt-image2.canghe.ai/gpt-image-2-5/?lang=en&case=gallery-527-test), [#523 Manhattan watercolor](https://gpt-image2.canghe.ai/gpt-image-2-5/?lang=en&case=gallery-523-test), and [#510 Bichon Shop icon](https://gpt-image2.canghe.ai/gpt-image-2-5/?lang=en&case=gallery-510-test). Each preserves its original gallery image and uses the full gallery prompt for one new built-in image generation, without a reference image. A case selector opens any example directly. [Images, prompts and generation records](docs/design/gpt-image-2-5/real-cases.md). Original generation conditions and exact tool model IDs remain unverified; demonstration examples are labeled separately.
+
+The spotlight runs independently. Existing GPT-Image2 cases, templates, Skill, and generation tools remain available. This update does not add live 2.5 image generation.
+
+<p align="center">
+  <a href="https://gpt-image2.canghe.ai/gpt-image-2-5/?lang=en">
+    <img src="docs/design/gpt-image-2-5/case532-preview.jpg" alt="GPT Image 2.5 spotlight preview — case 532 recreation" width="900">
+  </a>
+</p>
+
+## 🌐 Visual Website
+
+Use the live site at [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) to browse the gallery as a product experience: open large previews, copy full prompts, filter by style or scenario, test generation after Google sign-in, and jump back to the source case on GitHub.
+
+<p align="center">
+  <a href="https://gpt-image2.canghe.ai/">
+    <img src="data/images/site-preview.png" alt="GPT-Image2 Gallery website preview" width="900">
+  </a>
+</p>
+
+## Community 交流群
+
+Join the GPT-Image2 discussion group to exchange prompts, workflows, and creative ideas with other users. Visit the [community page](https://gpt-image2.canghe.ai/community) to join.
+
+Follow the WeChat official account **苍何** or scan the QR code below to receive project updates, new cases, and practical tutorials.
+
+<p align="center">
+  <img src="src/assets/canghe-official-account.png" alt="苍何 WeChat official account QR code and search card" width="760">
+</p>
+
+## ❤️ Sponsors
+
+> [Want to appear here?](data/images/sponsors/wechat-personal.jpg) Support the project through GitHub Sponsors, or search 苍何 on WeChat and send your product name plus a short sponsorship note.
+
+| Sponsor | Description |
+| ------- | ----------- |
+| <a href="https://apimart.ai/register?aff=oQgzUQ"><img src="data/images/sponsors/apimart.jpg" alt="APIMart" width="240"></a> | Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image & video generation — GPT-Image-2 from `$0.006/image`, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — [sign up here](https://apimart.ai/register?aff=oQgzUQ) to get started. |
+| <a href="https://www.hiapi.ai/zh/register?aff=DzuH"><img src="data/images/sponsors/hiapi.jpg" alt="hiapi" width="240"></a> | Thanks to hiapi for sponsoring this project! hiapi is an AI image & video generation API platform — GPT-Image-2 (text-to-image, image edit, 1K–4K) alongside video models like Seedance, Kling and Wan, all through one unified async API: submit a task, get a `task_id`, fetch results by polling or callback, batch without timeouts, switch models without code changes. Every result is stored on hiapi's own CDN with **persistent storage**, so your image/video URLs stay available long-term and can be fetched anytime — no rushing to download and back them up yourself. Native Remote MCP and Agent Skills plug straight into Claude Code & Cursor. Chinese UI & docs, WeChat Pay, pay-as-you-go with no monthly fee — new users get $1 free credit (~50 images). [Sign up here](https://www.hiapi.ai/en/register?aff=DzuH&utm_source=github&utm_medium=sponsor&utm_campaign=awesome-gpt-image-2). |
+| <a href="https://www.packyapi.ai/register?aff=CV0c"><img src="data/images/sponsors/packycode.png" alt="PackyCode" width="240"></a> | Thanks to PackyCode for sponsoring this project! PackyCode is a stable, high-performance API relay provider for Claude Code, Codex, Gemini, and more. Automatic failover, smart routing, and unlimited concurrency help turn AI coding into a reliable productivity tool. [Register here](https://www.packyapi.ai/register?aff=CV0c) to get started. |
+| <a href="https://pptoken.cc/"><img src="data/images/sponsors/pptoken.png" alt="PPToken" width="240"></a> | Project sponsor. PPToken provides API relay and key distribution for ChatGPT, Claude, Gemini, and other mainstream AI models, with low-latency access, high availability, pay-as-you-go billing, and flexible subscription plans. |
 
 <a name="section-vision"></a>
 
@@ -32,8 +83,9 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 
 - [Full case gallery](docs/gallery.md)
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
-- [Gallery Part 2: cases 166-400](docs/gallery-part-2.md)
+- [Gallery Part 2: cases 166-544](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
+- [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
 - [MIT License](LICENSE)
 - [Full disclaimer](docs/disclaimer.md#section-disclaimer)
 
@@ -46,19 +98,19 @@ Start with the case album to find a visual direction, then open the prompt templ
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🧩 UI & Interfaces</strong><br><sub>69 cases</sub></p>
+      <p><strong>🧩 UI & Interfaces</strong><br><sub>73 cases</sub></p>
       <a href="docs/gallery.md#cat-ui"><img src="data/images/category-covers/ui.jpg" alt="UI and interfaces" width="220"></a><br>
       <sub>Apps, websites, dashboards, social screenshots, and product interfaces.</sub><br>
       <a href="docs/gallery.md#cat-ui"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>📊 Charts & Infographics</strong><br><sub>56 cases</sub></p>
+      <p><strong>📊 Charts & Infographics</strong><br><sub>53 cases</sub></p>
       <a href="docs/gallery.md#cat-infographic"><img src="data/images/category-covers/infographic.jpg" alt="Charts and infographics" width="220"></a><br>
       <sub>Infographics, knowledge maps, technical explainers, and structured diagrams.</sub><br>
       <a href="docs/gallery.md#cat-infographic"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>📰 Posters & Typography</strong><br><sub>73 cases</sub></p>
+      <p><strong>📰 Posters & Typography</strong><br><sub>90 cases</sub></p>
       <a href="docs/gallery.md#cat-poster"><img src="data/images/category-covers/poster.jpg" alt="Posters and typography" width="220"></a><br>
       <sub>Event posters, covers, type-driven visuals, and strong layout compositions.</sub><br>
       <a href="docs/gallery.md#cat-poster"><strong>View Cases</strong></a>
@@ -66,19 +118,19 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🛍️ Products & E-commerce</strong><br><sub>26 cases</sub></p>
+      <p><strong>🛍️ Products & E-commerce</strong><br><sub>42 cases</sub></p>
       <a href="docs/gallery.md#cat-product"><img src="data/images/category-covers/product.jpg" alt="Products and e-commerce" width="220"></a><br>
       <sub>Product shots, detail pages, packaging, selling points, and ads.</sub><br>
       <a href="docs/gallery.md#cat-product"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🏷️ Brand & Logos</strong><br><sub>21 cases</sub></p>
+      <p><strong>🏷️ Brand & Logos</strong><br><sub>27 cases</sub></p>
       <a href="docs/gallery.md#cat-brand"><img src="data/images/category-covers/brand.jpg" alt="Brand and logos" width="220"></a><br>
       <sub>Logos, identity systems, brand touchpoints, and campaign visuals.</sub><br>
       <a href="docs/gallery.md#cat-brand"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🏛️ Architecture & Spaces</strong><br><sub>25 cases</sub></p>
+      <p><strong>🏛️ Architecture & Spaces</strong><br><sub>12 cases</sub></p>
       <a href="docs/gallery.md#cat-architecture"><img src="data/images/category-covers/architecture.jpg" alt="Architecture and spaces" width="220"></a><br>
       <sub>Architecture renders, interiors, city maps, and spatial concepts.</sub><br>
       <a href="docs/gallery.md#cat-architecture"><strong>View Cases</strong></a>
@@ -86,19 +138,19 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>📷 Photography & Realism</strong><br><sub>40 cases</sub></p>
+      <p><strong>📷 Photography & Realism</strong><br><sub>78 cases</sub></p>
       <a href="docs/gallery.md#cat-photo"><img src="data/images/category-covers/photo.jpg" alt="Photography and realism" width="220"></a><br>
       <sub>Portraits, phone photography, film texture, and commercial photography.</sub><br>
       <a href="docs/gallery.md#cat-photo"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🎨 Illustration & Art</strong><br><sub>25 cases</sub></p>
+      <p><strong>🎨 Illustration & Art</strong><br><sub>59 cases</sub></p>
       <a href="docs/gallery.md#cat-illustration"><img src="data/images/category-covers/illustration.jpg" alt="Illustration and art" width="220"></a><br>
       <sub>Illustration, art styles, material experiments, and decorative images.</sub><br>
       <a href="docs/gallery.md#cat-illustration"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🧍 Characters & People</strong><br><sub>17 cases</sub></p>
+      <p><strong>🧍 Characters & People</strong><br><sub>31 cases</sub></p>
       <a href="docs/gallery.md#cat-character"><img src="data/images/category-covers/character.jpg" alt="Characters and people" width="220"></a><br>
       <sub>Character design, pose references, cards, and 3D toys.</sub><br>
       <a href="docs/gallery.md#cat-character"><strong>View Cases</strong></a>
@@ -106,19 +158,19 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🎬 Scenes & Storytelling</strong><br><sub>11 cases</sub></p>
+      <p><strong>🎬 Scenes & Storytelling</strong><br><sub>21 cases</sub></p>
       <a href="docs/gallery.md#cat-scene"><img src="data/images/category-covers/scene.jpg" alt="Scenes and storytelling" width="220"></a><br>
       <sub>Storyboards, narrative scenes, livestream frames, and worldbuilding.</sub><br>
       <a href="docs/gallery.md#cat-scene"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🏮 History & Classical Chinese Themes</strong><br><sub>9 cases</sub></p>
+      <p><strong>🏮 History & Classical Chinese Themes</strong><br><sub>16 cases</sub></p>
       <a href="docs/gallery.md#cat-history"><img src="data/images/category-covers/history.jpg" alt="History and classical Chinese themes" width="220"></a><br>
       <sub>Classical scrolls, historical figures, traditional themes, and poetry visuals.</sub><br>
       <a href="docs/gallery.md#cat-history"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>📚 Documents & Publishing</strong><br><sub>8 cases</sub></p>
+      <p><strong>📚 Documents & Publishing</strong><br><sub>11 cases</sub></p>
       <a href="docs/gallery.md#cat-document"><img src="data/images/category-covers/document.jpg" alt="Documents and publishing" width="220"></a><br>
       <sub>White papers, manuals, encyclopedic plates, and publishing layouts.</sub><br>
       <a href="docs/gallery.md#cat-document"><strong>View Cases</strong></a>
@@ -126,7 +178,7 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🧪 Other Use Cases</strong><br><sub>20 cases</sub></p>
+      <p><strong>🧪 Other Use Cases</strong><br><sub>28 cases</sub></p>
       <a href="docs/gallery.md#cat-other"><img src="data/images/category-covers/other.jpg" alt="Other use cases" width="220"></a><br>
       <sub>Creative experiments, special tasks, mixed workflows, and practical cases.</sub><br>
       <a href="docs/gallery.md#cat-other"><strong>View Cases</strong></a>
@@ -134,14 +186,14 @@ Start with the case album to find a visual direction, then open the prompt templ
     <td width="33%" valign="top" align="center">
       <h4>🖼️ Full Gallery</h4>
       <a href="docs/gallery.md"><img src="data/images/category-covers/gallery.jpg" alt="Full gallery" width="220"></a><br>
-      <sub>Browse all 400 cases by gallery part and category.</sub><br>
+      <sub>Browse all 544 cases by gallery part and category.</sub><br>
       <a href="docs/gallery.md"><strong>Open Gallery</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ Latest Additions</h4>
-      <a href="docs/gallery-part-2.md#case-400"><img src="data/images/category-covers/latest.jpg" alt="Latest additions" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#case-544"><img src="data/images/case544.jpg" alt="Latest additions" width="220"></a><br>
       <sub>The newest community cases and workflows collected in the repo.</sub><br>
-      <a href="docs/gallery-part-2.md#case-400"><strong>View Latest</strong></a>
+      <a href="docs/gallery-part-2.md#case-544"><strong>View Latest</strong></a>
     </td>
   </tr>
 </table>
@@ -194,6 +246,124 @@ The prompt body remains in the original template document for now. This homepage
 | 🧪 Other Use Cases | [View Prompts](docs/templates.md#tpl-other) | Mixed tasks, experimental workflows, special outputs |
 
 </details>
+
+## 🤖 Agent Skill
+
+This repository includes an agent skill for choosing GPT-Image2 styles, templates, categories, and scene tags from the same data used by the website.
+
+Package links: [npm](https://www.npmjs.com/package/gpt-image-2-style-library) / [GitHub Packages](https://github.com/freestylefly/awesome-gpt-image-2/pkgs/npm/gpt-image-2-style-library)
+
+<p align="center">
+  <img src="agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="City life system map generated with the GPT-Image2 style library skill" width="760">
+</p>
+
+<p align="center"><sub>Example output from a city-life-system-map request using the style library skill.</sub></p>
+
+### Quick Install for Agent Skills
+
+Recommended for Claude Code, Codex, Cursor, and other tools supported by [`skills`](https://www.npmjs.com/package/skills):
+
+```bash
+npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy
+```
+
+Install to every supported local agent:
+
+```bash
+npx skills add freestylefly/awesome-gpt-image-2 --global --all --copy
+```
+
+### Claude Code Plugin Marketplace
+
+Run these commands inside Claude Code:
+
+```text
+/plugin marketplace add freestylefly/awesome-gpt-image-2
+/plugin install gpt-image-2-style-library@awesome-gpt-image-2
+```
+
+### npm CLI
+
+If you prefer npm, install the CLI and then sync the skill into local agent folders:
+
+```bash
+npm install -g gpt-image-2-style-library
+gpt-image-2-style-library install all
+```
+
+You can also run it without a global install:
+
+```bash
+npx gpt-image-2-style-library install all
+```
+
+Install from GitHub Packages:
+
+```bash
+npm login --scope=@freestylefly --registry=https://npm.pkg.github.com
+npm install -g @freestylefly/gpt-image-2-style-library --registry=https://npm.pkg.github.com
+gpt-image-2-style-library install all
+```
+
+`install all` writes the skill to the common local folders used by Codex and Claude Code, including `~/.codex/skills`, `~/.claude/skills`, and `~/.agents/skills`. Restart the agent session after installing.
+
+Use it with a request like:
+
+```text
+Use gpt-image-2-style-library to create an infographic prompt about Codex.
+```
+
+For local source development:
+
+```bash
+npm run generate:style-skill
+npm run install:skill
+```
+
+The skill source lives at [`agents/skills/gpt-image-2-style-library`](agents/skills/gpt-image-2-style-library/SKILL.md). Its generated reference comes from [`data/style-library.json`](data/style-library.json), so the website and Agent workflow share one style library.
+
+## 🔐 Website Auth & Generation
+
+The visual site supports direct APIMart generation with a personal browser-only API key. Without a personal key, signed-in users continue through Supabase Auth, platform credits, and the server-side APIMart key.
+
+Required Vercel environment variables:
+
+```bash
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+SUPER_ADMIN_EMAILS=2689458656@qq.com,canghe0818@gmail.com
+APIMART_API_KEY=
+APP_URL=https://gpt-image2.canghe.ai
+STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
+VITE_GA_MEASUREMENT_ID=
+GA4_PROPERTY_ID=
+GOOGLE_ANALYTICS_CLIENT_ID=
+GOOGLE_ANALYTICS_CLIENT_SECRET=
+GOOGLE_ANALYTICS_REFRESH_TOKEN=
+```
+
+Setup checklist:
+
+- Apply [`supabase/migrations/202605090001_user_credits.sql`](supabase/migrations/202605090001_user_credits.sql) to the Supabase project.
+- Apply [`supabase/migrations/20260509090000_membership_billing.sql`](supabase/migrations/20260509090000_membership_billing.sql) to add membership plans, credit packs, Stripe order records, and credit adjustment RPCs.
+- Apply [`supabase/migrations/20260721090000_alipay_webpay.sql`](supabase/migrations/20260721090000_alipay_webpay.sql) before enabling Alipay website payments, then configure each credit pack's reviewed CNY price. See [Alipay website payment setup](docs/alipay-web-payment.md).
+- Apply [`supabase/migrations/20260722090000_paid_community.sql`](supabase/migrations/20260722090000_paid_community.sql) before enabling the paid community. Keep `COMMUNITY_PAYMENT_ENABLED=false` until the protected QR, Alipay onboarding, and production payment/refund checks are complete. See the [paid community runbook](docs/paid-community.md).
+- Apply [`supabase/migrations/20260512090000_google_account_center.sql`](supabase/migrations/20260512090000_google_account_center.sql) to add account usage summaries and forced credit charging for super admins.
+- Apply [`supabase/migrations/20260512143000_pricing_admin_metrics.sql`](supabase/migrations/20260512143000_pricing_admin_metrics.sql) to update the `$5 / 300 credits` catalog and add admin dashboard metrics.
+- Apply [`supabase/migrations/20260515090000_case_favorites.sql`](supabase/migrations/20260515090000_case_favorites.sql) to add per-user case favorites.
+- Apply [`supabase/migrations/20260828090000_apimart_generation_tasks.sql`](supabase/migrations/20260828090000_apimart_generation_tasks.sql) to add APIMart task IDs, actual USD costs, expiring result URLs, and provider indexes.
+- Add `https://gpt-image2.canghe.ai` and local dev URLs such as `http://127.0.0.1:5173` to Supabase Auth redirect URLs.
+- Enable the Google Provider after adding Google OAuth credentials in the Supabase Dashboard.
+- To force Google-only sign-in, disable the Email Provider in Supabase Auth settings.
+- Keep `SUPABASE_SERVICE_ROLE_KEY` only in server-side environments such as Vercel Environment Variables.
+- Configure Stripe Checkout with the webhook URL `https://gpt-image2.canghe.ai/api/billing/webhook`.
+- Subscribe the Stripe webhook to `checkout.session.completed`, `invoice.payment_succeeded`, `customer.subscription.updated`, and `customer.subscription.deleted`.
+- Keep `STRIPE_SECRET_KEY` and `STRIPE_WEBHOOK_SECRET` only in server-side Vercel Environment Variables.
+- Create a GA4 property for `gpt-image2.canghe.ai`, add the measurement ID to `VITE_GA_MEASUREMENT_ID`, and copy the numeric property ID to `GA4_PROPERTY_ID`.
+- Create a Google OAuth Web Client with `http://localhost:8080/oauth2callback` as an authorized redirect URI, then add `GOOGLE_ANALYTICS_CLIENT_ID` and `GOOGLE_ANALYTICS_CLIENT_SECRET` to local `.env.local`.
+- Run `npm run ga4:oauth`, open the generated URL, approve the `analytics.readonly` permission, paste the callback URL into the terminal, then add the returned `GOOGLE_ANALYTICS_REFRESH_TOKEN` to Vercel as a Sensitive environment variable.
 
 <a name="section-gallery"></a>
 
@@ -292,35 +462,43 @@ Only the latest collection and import run is shown here. Older imports stay in t
 
 <table>
   <tr>
-    <td width="20%" valign="top" align="center">
-      <p><strong>Case 400: Signature Style Selection Poster</strong></p>
-      <a href="docs/gallery-part-2.md#case-400"><img src="data/images/case400.png" alt="Signature style selection poster" width="140"></a><br>
-      <sub>Six signature styles arranged as a premium name-personality poster.</sub><br>
-      <a href="docs/gallery-part-2.md#case-400"><strong>View Case</strong></a>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 539: Raw Sketchy Portrait Poster</strong></p>
+      <a href="docs/gallery-part-2.md#case-539"><img src="data/images/case539.jpg" alt="Raw Sketchy Portrait Poster" width="150"></a><br>
+      <sub>A customizable rough-ink portrait poster prompt combining an oversized subject, close companion, minimal scenery, restrained palette, and intentionally imperfect print texture.</sub><br>
+      <a href="docs/gallery-part-2.md#case-539"><strong>View Case</strong></a>
     </td>
-    <td width="20%" valign="top" align="center">
-      <p><strong>Case 396: Dragon Species Encyclopedia Poster</strong></p>
-      <a href="docs/gallery-part-2.md#case-396"><img src="data/images/case396.jpg" alt="Dragon species encyclopedia poster" width="140"></a><br>
-      <sub>Vintage fantasy encyclopedia plate with creature diagrams and atlas texture.</sub><br>
-      <a href="docs/gallery-part-2.md#case-396"><strong>View Case</strong></a>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 540: Dreamlike Futuristic World Poster</strong></p>
+      <a href="docs/gallery-part-2.md#case-540"><img src="data/images/case540.jpg" alt="Dreamlike Futuristic World Poster" width="150"></a><br>
+      <sub>A vertical editorial art-poster prompt for surreal future cities with sculptural architecture, oversized plants, tiny people, vintage travel texture, and luxury pacing.</sub><br>
+      <a href="docs/gallery-part-2.md#case-540"><strong>View Case</strong></a>
     </td>
-    <td width="20%" valign="top" align="center">
-      <p><strong>Case 397: Street Dancer Character Sheet</strong></p>
-      <a href="docs/gallery-part-2.md#case-397"><img src="data/images/case397.jpg" alt="Street dancer character sheet" width="140"></a><br>
-      <sub>Full-body dance poses with a multi-angle head reference strip.</sub><br>
-      <a href="docs/gallery-part-2.md#case-397"><strong>View Case</strong></a>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 541: 50/50 Mixed-Media Memory Card</strong></p>
+      <a href="docs/gallery-part-2.md#case-541"><img src="data/images/case541.jpg" alt="50/50 Mixed-Media Memory Card" width="150"></a><br>
+      <sub>A reference-photo editing prompt that keeps the top photo intact and converts the lower half into a handmade paper memory card with wax-crayon sketching.</sub><br>
+      <a href="docs/gallery-part-2.md#case-541"><strong>View Case</strong></a>
     </td>
-    <td width="20%" valign="top" align="center">
-      <p><strong>Case 398: Everyday Outfit Editorial Collage</strong></p>
-      <a href="docs/gallery-part-2.md#case-398"><img src="data/images/case398.jpg" alt="Everyday outfit editorial collage" width="140"></a><br>
-      <sub>Eight casual looks arranged as a freeform fashion editorial collage.</sub><br>
-      <a href="docs/gallery-part-2.md#case-398"><strong>View Case</strong></a>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 542: Black-and-White Typographic Portrait Poster</strong></p>
+      <a href="docs/gallery-part-2.md#case-542"><img src="data/images/case542.jpg" alt="Black-and-White Typographic Portrait Poster" width="150"></a><br>
+      <sub>A high-contrast monochrome typographic portrait prompt that fuses side-profile silhouettes, rough ink texture, microtext, and a large readable text block.</sub><br>
+      <a href="docs/gallery-part-2.md#case-542"><strong>View Case</strong></a>
     </td>
-    <td width="20%" valign="top" align="center">
-      <p><strong>Case 399: Record Label Stairwell Portrait</strong></p>
-      <a href="docs/gallery-part-2.md#case-399"><img src="data/images/case399.jpg" alt="Record label stairwell portrait" width="140"></a><br>
-      <sub>Japanese negative-film portrait with backstage stairwell realism.</sub><br>
-      <a href="docs/gallery-part-2.md#case-399"><strong>View Case</strong></a>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 543: Travel Souvenir Enamel Pin Badge</strong></p>
+      <a href="docs/gallery-part-2.md#case-543"><img src="data/images/case543.jpg" alt="Travel Souvenir Enamel Pin Badge" width="150"></a><br>
+      <sub>A product-design prompt that turns a travel photo into a glossy enamel pin badge with gold dividers, scene hierarchy, simplified figure rules, and fabric backdrop.</sub><br>
+      <a href="docs/gallery-part-2.md#case-543"><strong>View Case</strong></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 544: Preschool Vocabulary Learning Card</strong></p>
+      <a href="docs/gallery-part-2.md#case-544"><img src="data/images/case544.jpg" alt="Preschool Vocabulary Learning Card" width="150"></a><br>
+      <sub>A preschool learning-card prompt for clean object-and-part vocabulary layouts with realistic produce, dotted arrows, simple illustration, and clear labels.</sub><br>
+      <a href="docs/gallery-part-2.md#case-544"><strong>View Case</strong></a>
     </td>
   </tr>
 </table>
@@ -361,12 +539,6 @@ All prompt cases and generated images in this repository were initially inspired
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/awesome-gpt-image-2&type=Date)](https://star-history.com/#freestylefly/awesome-gpt-image-2&Date)
-
-## WeChat Official Account
-
-Search **苍何** on WeChat or scan the QR code below to follow Canghe's original WeChat official account. Reply with **AI** to get more AI prompt learning resources.
-
-![Canghe WeChat Official Account](data/images/公众号.png)
 
 ## 📜 License
 
